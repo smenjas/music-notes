@@ -1,7 +1,7 @@
 # [Music](https://en.wikipedia.org/wiki/Music)
 - [Musical notation](https://en.wikipedia.org/wiki/Musical_notation)
   - [List of musical symbols](https://en.wikipedia.org/wiki/List_of_musical_symbols)
-  - [Solf%C3%A8ge](https://en.wikipedia.org/wiki/Solf%C3%A8ge)
+  - [Solfège](https://en.wikipedia.org/wiki/Solf%C3%A8ge)
   - [Letter notation](https://en.wikipedia.org/wiki/Letter_notation)
   - [Tablature](https://en.wikipedia.org/wiki/Tablature)
   - [Sheet music](https://en.wikipedia.org/wiki/Sheet_music)
