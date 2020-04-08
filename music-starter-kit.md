@@ -31,7 +31,7 @@ Each option has more expensive alternatives. If you want to record yourself sing
 - [Roland TD-1K Digital Drum Set](https://smile.amazon.com/dp/B00OZNYIQA)
 - [Shure SM58-LC Vocal Microphone](https://smile.amazon.com/dp/B000CZ0R42)
 - [Shure SM57 Instrument Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
-- [Focusrite Scarlett 2i2 3rd Gen USB Audio Interface - 2 inputs](https://smile.amazon.com/dp/B07QR6Z1JB)
+- [Focusrite Scarlett 2i2 3rd Gen USB Audio Interface - 2 inputs](https://smile.amazon.com/dp/B07QR73T66)
 - [Boss RC-30 Loop Station Sampler Pedal - 2 inputs](https://smile.amazon.com/dp/B004J24YZ2)
 
 ## Splurge
@@ -41,10 +41,13 @@ Each option has more expensive alternatives. If you want to record yourself sing
 - [Music Man Joe Dart Signature Bass](https://www.music-man.com/instruments/basses/joe-dart)
 - [Nord Drum 3P Digital Percussion Pad](https://smile.amazon.com/dp/B01G7EFJ3U)
 - [Roland TD-1DMK Digital Drum Set](https://smile.amazon.com/dp/B07HC2ZMN4)
-- [Shure Beta 85A Vocal Microphone](https://smile.amazon.com/dp/B0002BACB4)
+- [Shure Beta 87C Vocal Microphone](https://smile.amazon.com/dp/B0002DVKZO)
 - [Focusrite Scarlett 18i8 3rd Gen USB Audio Interface - 8 inputs](https://smile.amazon.com/dp/B07QQ2YTHN)
 - [Boss RC-300 Loop Station Sampler Pedal - 3 inputs](https://smile.amazon.com/dp/B005P4NVJI)
 
 If you want to record, but have no idea what computer setup to use, and want a recommendation that works for most beginners, I suggest a [2020 MacBook Air](https://www.apple.com/macbook-air/) & [GarageBand](https://www.apple.com/mac/garageband/).
 
 If you want more, like wireless microphones, professional recording studios, and walls of sound, that requires your own research.
+
+## Resources
+- [Podcasting Microphones Mega-Review](https://marco.org/podcasting-microphones)
