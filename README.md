@@ -1,4 +1,7 @@
 # [Music](https://en.wikipedia.org/wiki/Music)
+- [Music Starter Kit](music-starter-kit.md)
+
+## Wikipedia
 - [Musical notation](https://en.wikipedia.org/wiki/Musical_notation)
   - [List of musical symbols](https://en.wikipedia.org/wiki/List_of_musical_symbols)
   - [Solfège](https://en.wikipedia.org/wiki/Solf%C3%A8ge)

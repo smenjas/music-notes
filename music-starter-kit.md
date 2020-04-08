@@ -1,4 +1,4 @@
-# Starter Kits
+# Music Starter Kit
 
 These are some inexpensive, high quality musical instruments. However, they may need a slight [truss rod adjustment](https://www.youtube.com/channel/UCdr6rJVSSx54ByuY5U2ohTQ).
 
