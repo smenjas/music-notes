@@ -47,4 +47,4 @@ Each option has more expensive alternatives. If you want to record yourself sing
 
 If you want to record, but have no idea what computer setup to use, and want a recommendation that works for most beginners, I suggest a [2020 MacBook Air](https://www.apple.com/macbook-air/) & [GarageBand](https://www.apple.com/mac/garageband/).
 
-If you want more, like wireless microphones, recording studios, and walls of sound, that requires your own research.
+If you want more, like wireless microphones, professional recording studios, and walls of sound, that requires your own research.
