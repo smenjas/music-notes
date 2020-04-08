@@ -6,20 +6,23 @@ I've chosen what I think is the best value: not the least expensive, but close. 
 
 Each option has more expensive alternatives. If you want to record yourself singing and playing guitar at the same time, you might want the 2-channel version of the audio interface I've suggested.
 
-## Budget
-- [Yamaha FG800 Acoustic Guitar](https://smile.amazon.com/dp/B01C92QHLC)
+## Basics
 - [Drum sticks with 8" silent practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
 - [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E)
+- [¼" Audio Cable, 10' long](https://smile.amazon.com/dp/B000068NW5)
+
+## Budget
 - [Yamaha PSS-A50 Portable Keyboard](https://smile.amazon.com/dp/B07ZKY4J1G)
+- [Yamaha FG800 Acoustic Guitar](https://smile.amazon.com/dp/B01C92QHLC)
 - [Fender Squier Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
 - [Fender Squier Affinity Precision Bass](https://smile.amazon.com/dp/B07B6PZG4L)
-- [¼" Audio Cable, 10' long](https://smile.amazon.com/dp/B000068NW5)
 - [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
-- [Pyle Microphone with 15' XLR to ¼" cable](https://smile.amazon.com/dp/B01B1JHEX4)
+- [Pyle Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
 - [Focusrite Scarlett Solo 3rd Gen USB Audio Interface - 1 input](https://smile.amazon.com/dp/B07QR6Z1JB)
 - [Boss RC-1 Loop Station Sampler Pedal - 1 input](https://smile.amazon.com/dp/B00OB7K46I)
 
 ## Upgrade
+- [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
 - [Fender CD-60SCE Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07F39CHRZ)
 - [Fender Squier Affinity Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07FYKN2RJ)
 - [Fender Player Precision Bass](https://smile.amazon.com/dp/B07CTW4T7B)
@@ -29,6 +32,7 @@ Each option has more expensive alternatives. If you want to record yourself sing
 - [Boss RC-30 Loop Station Sampler Pedal - 2 inputs](https://smile.amazon.com/dp/B004J24YZ2)
 
 ## Splurge
+- [Nord Stage 3 Digital Piano](https://smile.amazon.com/dp/B07LGD741N)
 - [Martin D-10E Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07MWY9JXR)
 - [Fender Player Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07CTX2F5F)
 - [Music Man Joe Dart Signature Bass](https://www.music-man.com/instruments/basses/joe-dart)
