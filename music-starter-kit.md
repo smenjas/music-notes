@@ -79,6 +79,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $1225: [Fender Flea Signature Jazz Bass](https://smile.amazon.com/dp/B01HT2FFJ2)
 - $1999: [Music Man Joe Dart Signature Bass](https://www.music-man.com/instruments/basses/joe-dart)
 - $4499: [Nord Stage 3 Digital Piano](https://smile.amazon.com/dp/B07LGD741N)
+- $1800: [Roland TD-17KVX Digital Drum Set](https://smile.amazon.com/dp/B07D1G9G54)
 - $4999: [iMac Pro](https://www.apple.com/shop/buy-mac/imac-pro)
 - $599: [Pro Tools](https://shop.avid.com/ccrz__ProductDetails?sku=DYNA20000)
 - $500: [Tascam US-20x20 Audio Interface - 20 inputs](https://smile.amazon.com/dp/B016R8CQJG)
