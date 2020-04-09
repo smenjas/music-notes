@@ -23,11 +23,11 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 
 ## Budget
 - $22: [Pyle PDMIC59 Vocal Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
-- $100: [Yamaha PSS-A50 Portable Keyboard](https://smile.amazon.com/dp/B07ZKY4J1G)
 - $200: [Yamaha FG800 Acoustic Guitar](https://smile.amazon.com/dp/B01C92QHLC)
 - $178: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
 - $230: [Fender Squier Affinity Precision Bass](https://smile.amazon.com/dp/B07B6PZG4L)
 - $164: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
+- $100: [Yamaha PSS-A50 Portable Keyboard](https://smile.amazon.com/dp/B07ZKY4J1G)
 - $364: [Alesis Nitro Mesh Digital Drum Set](https://smile.amazon.com/dp/B07BW1XJGP)
 - $100: [Boss RC-1 Loop Station Sampler Pedal - 1 input](https://smile.amazon.com/dp/B00OB7K46I)
 - $999: [2020 MacBook Air](https://www.apple.com/shop/buy-mac/macbook-air)
@@ -38,11 +38,11 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 ## Upgrade
 - $99: [Shure SM57 Instrument Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
 - $100: [Shure SM58S Vocal Microphone](https://smile.amazon.com/dp/B0000AQRSU)
-- $450: [Yamaha P71 Digital Piano with sustain pedal](https://smile.amazon.com/dp/B01LY8OUQW)
 - $330: [Fender CD-60SCE Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07F39CHRZ)
 - $230: [Fender Squier Affinity Telecaster Electric Guitar](https://smile.amazon.com/dp/B0002GOE6S)
 - $229: [Fender Squier Affinity Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07FYKN2RJ)
 - $400: [Fender Classic Vibe '50s Precision Bass](https://smile.amazon.com/dp/B07T7XJXWK)
+- $450: [Yamaha P71 Digital Piano with sustain pedal](https://smile.amazon.com/dp/B01LY8OUQW)
 - $740: [Roland Octapad Digital Percussion Pad](https://smile.amazon.com/dp/B0089KQQNI)
 - $500: [Roland TD-1K Digital Drum Set](https://smile.amazon.com/dp/B00OZNYIQA)
 - $300: [Boss RC-30 Loop Station Sampler Pedal - 2 inputs](https://smile.amazon.com/dp/B004J24YZ2)
@@ -53,11 +53,11 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 
 ## Splurge
 - $159: [Shure Beta 58A Vocal Microphone](https://smile.amazon.com/dp/B0002BACB4)
-- $699: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
 - $829: [Martin D-10E Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07MWY9JXR)
 - $675: [Fender Player Telecaster Electric Guitar](https://smile.amazon.com/dp/B07V7XZZM3)
 - $700: [Fender Player Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07CTX2F5F)
 - $700: [Fender Player Precision Bass](https://smile.amazon.com/dp/B07CTW4T7B)
+- $699: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
 - $699: [Nord Drum 3P Digital Percussion Pad](https://smile.amazon.com/dp/B01G7EFJ3U)
 - $700: [Roland TD-1DMK Digital Drum Set](https://smile.amazon.com/dp/B07HC2ZMN4)
 - $580: [Boss RC-300 Loop Station Sampler Pedal - 3 inputs](https://smile.amazon.com/dp/B005P4NVJI)
@@ -68,6 +68,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 
 ## Take My Money
 - $249: [Shure Beta 87C Vocal Microphone](https://smile.amazon.com/dp/B0002DVKZO)
+- $1299: [Martin 15 Series Auditorium Acoustic Guitar](https://smile.amazon.com/dp/B003K0IRLQ)
 - $900: [Fender Vintera '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07SLGVSQC)
 - $1450: [Fender American Professional Stratocaster Electric Guitar](https://smile.amazon.com/dp/B01MTN0S02)
 - $1225: [Fender Flea Signature Jazz Bass](https://smile.amazon.com/dp/B01HT2FFJ2)
