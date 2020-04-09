@@ -4,7 +4,7 @@ These are some high quality musical instruments. However, they may need a slight
 
 I've chosen what I think is the best value: not the least expensive, but close, in each price bracket. Quality is a must.
 
-Each option has more and less expensive alternatives. If you want to record yourself singing and playing guitar at the same time, you might want the 2-channel version of the audio interface I've suggested.
+You can record and mix without a computer using a multitrack recorder like the [Tascam Model 16](https://smile.amazon.com/dp/B07Y3ZT2QV) or [Zoom LiveTrak L-20](https://smile.amazon.com/dp/B000YID5IW). If you want to record using a computer, you will need an audio interface. If you want to record yourself singing and playing guitar at the same time, you either need 2 inputs, or an omnidirectional microphone (not listed here).
 
 If you want more, like wireless microphones, professional recording studios, and walls of sound, that requires your own research.
 
