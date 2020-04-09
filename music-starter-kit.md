@@ -34,6 +34,9 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $0: [GarageBand](https://www.apple.com/mac/garageband/)
 - $49: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
 - $110: [Focusrite Scarlett Solo Audio Interface - 1 input](https://smile.amazon.com/dp/B07QR6Z1JB)
+- $100: [Tascam US-1x2 Audio Interface - 1 input](https://smile.amazon.com/dp/B074Q5W46C)
+- $135: [Tascam US-2x2 Audio Interface - 2 inputs](https://smile.amazon.com/dp/B00MIXF2RS)
+- $129: [Alto ZMX122FX Analog Mixer - 8 inputs](https://smile.amazon.com/dp/B076M3PWKC)
 
 ## Upgrade
 - $99: [Shure SM57 Instrument Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
@@ -50,6 +53,8 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $69: [Ableton Live](https://www.ableton.com/en/shop/live/)
 - $119: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
 - $160: [Focusrite Scarlett 2i2 Audio Interface - 2 inputs](https://smile.amazon.com/dp/B07QR73T66)
+- $230: [Tascam US-4x4 Audio Interface - 4 inputs](https://smile.amazon.com/dp/B00MIXF1JW)
+- $174: [Yamaha MG10XU Analog Mixer - 10 inputs](https://smile.amazon.com/dp/B076M3PWKC)
 
 ## Splurge
 - $159: [Shure Beta 58A Vocal Microphone](https://smile.amazon.com/dp/B0002BACB4)
@@ -65,6 +70,8 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $200: [Logic Pro](https://www.apple.com/logic-pro/)
 - $459: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
 - $400: [Focusrite Scarlett 18i8 Audio Interface - 8 inputs](https://smile.amazon.com/dp/B07QQ2YTHN)
+- $270: [Tascam US-16x08 Audio Interface - 16 inputs](https://smile.amazon.com/dp/B00MIXF200)
+- $684: [Tascam Model 16 Analog Mixer, Multitrack Recorder, & Audio Interface - 16 inputs](https://smile.amazon.com/dp/B07Y3ZT2QV)
 
 ## Take My Money
 - $249: [Shure Beta 87C Vocal Microphone](https://smile.amazon.com/dp/B0002DVKZO)
@@ -76,6 +83,10 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $4499: [Nord Stage 3 Digital Piano](https://smile.amazon.com/dp/B07LGD741N)
 - $4999: [iMac Pro](https://www.apple.com/shop/buy-mac/imac-pro)
 - $599: [Pro Tools](https://shop.avid.com/ccrz__ProductDetails?sku=DYNA20000)
+- $520: [Focusrite Scarlett 18i20 Audio Interface - 18 inputs](https://smile.amazon.com/dp/B018W7BW36)
+- $500: [Tascam US-20x20 Audio Interface - 20 inputs](https://smile.amazon.com/dp/B016R8CQJG)
+- $1000: [Yamaha EMX5016CF Powered Mixer - 16 inputs](https://smile.amazon.com/dp/B000YID5IW)
+- $1000: [Zoom LiveTrak L-20 Digital Mixer & Multitrack Recorder - 20 inputs](https://smile.amazon.com/dp/B000YID5IW)
 
 ---
 
