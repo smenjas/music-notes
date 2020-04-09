@@ -1,7 +1,7 @@
 # Music Starter Kit
 
-I've chosen what I think is the best value in each price bracket. Quality is a
-must.
+Quality is a must. I've chosen what I think is the best value in each price
+bracket.
 
 I've also chosen the quietest options, to preserve the audience's sanity.
 Acoustic drum sets are not listed, only digital drum sets. If you want quiet,
@@ -9,12 +9,12 @@ choose an electric guitar instead of an acoustic.
 
 Everyone will benefit from having a [nice pair of
 headphones](https://smile.amazon.com/dp/B000AJIF4E). A percussionist may only
-need drum sticks and a practice pad. A vocalist may want a microphone, cable,
-multitrack recorder. A guitarist may want an acoustic guitar, or an electric
-guitar and amplifier. Any guitar may need a slight [truss rod
+need [drum sticks and a practice pad](https://smile.amazon.com/dp/B07W6NXZ15).
+A vocalist may want a microphone, cable, and multitrack recorder. A guitarist
+may want an acoustic guitar, or an electric guitar and amplifier. Any guitar
+may need a slight [truss rod
 adjustment](https://www.youtube.com/channel/UCdr6rJVSSx54ByuY5U2ohTQ "StewMac's
-guitar repair YouTube channel").
-Choose what makes sense for you.
+guitar repair YouTube channel"). Choose what makes sense for you.
 
 You can record music with a computer, or a multitrack recorder. If you want to
 use a computer, you will need an audio interface. If you want to record
