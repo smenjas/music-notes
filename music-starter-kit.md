@@ -4,7 +4,7 @@ These are some high quality musical instruments. However, they may need a slight
 
 I've chosen what I think is the best value: not the least expensive, but close, in each price bracket. Quality is a must.
 
-You can record and mix without a computer using a multitrack recorder like the [Tascam Model 16](https://smile.amazon.com/dp/B07Y3ZT2QV) or [Zoom LiveTrak L-20](https://smile.amazon.com/dp/B000YID5IW). If you want to record using a computer, you will need an audio interface. If you want to record yourself singing and playing guitar at the same time, you either need 2 inputs, or an omnidirectional microphone (not listed here). All the mixers listed here are also audio interfaces.
+You can record and mix without a computer using a multitrack recorder. If you want to record using a computer, you will need an audio interface. If you want to record yourself singing and playing guitar at the same time, you either need 2 inputs, or an omnidirectional microphone (not listed here). All the mixers listed here are also audio interfaces, but the Pocketstudio & Portastudio multitrack recorders are not.
 
 If you want more, like wireless microphones, professional recording studios, and walls of sound, that requires your own research.
 
@@ -35,6 +35,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $49: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
 - $135: [Tascam US-2x2 Audio Interface - 2 inputs](https://smile.amazon.com/dp/B00MIXF2RS)
 - $129: [Alto ZMX122FX Analog Mixer - 8 inputs](https://smile.amazon.com/dp/B004TM31FG)
+- $129: [Tascam DP-006 Pocketstudio Multitrack Recorder - 6 inputs](https://smile.amazon.com/dp/B00BEGS5NI)
 
 ## Upgrade
 - $99: [Shure SM57 Instrument Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
@@ -52,6 +53,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $119: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
 - $230: [Tascam US-4x4 Audio Interface - 4 inputs](https://smile.amazon.com/dp/B00MIXF1JW)
 - $174: [Yamaha MG10XU Analog Mixer - 10 inputs](https://smile.amazon.com/dp/B076M3PWKC)
+- $129: [Tascam DP-03SD Portastudio Multitrack Recorder - 8 inputs](https://smile.amazon.com/dp/B00BEGS5NI)
 
 ## Splurge
 - $159: [Shure Beta 58A Vocal Microphone](https://smile.amazon.com/dp/B0002BACB4)
