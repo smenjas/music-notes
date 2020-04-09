@@ -1,35 +1,29 @@
 # Music Starter Kit
 
-These are some high quality musical instruments. However, they may need a
-slight [truss rod
-adjustment](https://www.youtube.com/channel/UCdr6rJVSSx54ByuY5U2ohTQ "StewMac's
-guitar repair YouTube channel").
+I've chosen what I think is the best value in each price bracket. Quality is a
+must.
 
-I've chosen what I think is the best value: not the least expensive, but close,
-in each price bracket. Quality is a must.
-
-I've chosen the quietest options, to preserve the audience's sanity. For
-example, acoustic (as opposed to electronic) drum sets are not listed.
+I've also chosen the quietest options, to preserve the audience's sanity.
+Acoustic drum sets are not listed, only digital drum sets. If you want quiet,
+choose an electric guitar instead of an acoustic.
 
 Everyone will benefit from having a [nice pair of
 headphones](https://smile.amazon.com/dp/B000AJIF4E). A percussionist may only
 need drum sticks and a practice pad. A vocalist may want a microphone, cable,
 multitrack recorder. A guitarist may want an acoustic guitar, or an electric
-guitar and amplifier. Choose what makes sense for you.
+guitar and amplifier. Any guitar may need a slight [truss rod
+adjustment](https://www.youtube.com/channel/UCdr6rJVSSx54ByuY5U2ohTQ "StewMac's
+guitar repair YouTube channel").
+Choose what makes sense for you.
 
 You can record music with a computer, or a multitrack recorder. If you want to
 use a computer, you will need an audio interface. If you want to record
 yourself singing and playing guitar at the same time, you either need 2 inputs,
 or an omnidirectional microphone (not listed here). All the mixers listed here
-are also audio interfaces, but the Pocketstudio & Portastudio multitrack
-recorders are not.
+are also audio interfaces, except for the Pocketstudio & Portastudio multitrack
+recorders.
 
-Guitars are less expensive than basses, because fewer people by basses.
-
-If you want wireless microphones, professional recording studios, and walls of
-sound, that requires your own research.
-
-Prices are from April 8th, 2020, rounded to the nearest dollar.
+Prices are from April 8th, 2020, rounded to the nearest U.S. dollar.
 
 ---
 
