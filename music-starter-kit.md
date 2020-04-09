@@ -25,8 +25,8 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $200: [Yamaha FG800 Acoustic Guitar](https://smile.amazon.com/dp/B01C92QHLC)
 - $178: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
 - $230: [Fender Squier Affinity Precision Bass](https://smile.amazon.com/dp/B07B6PZG4L)
-- $364: [Alesis Nitro Mesh Digital Drum Set](https://smile.amazon.com/dp/B07BW1XJGP)
 - $164: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
+- $364: [Alesis Nitro Mesh Digital Drum Set](https://smile.amazon.com/dp/B07BW1XJGP)
 - $22: [Pyle PDMIC59 Vocal Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
 - $100: [Boss RC-1 Loop Station Sampler Pedal - 1 input](https://smile.amazon.com/dp/B00OB7K46I)
 - $999: [2020 MacBook Air](https://www.apple.com/macbook-air/)
@@ -46,7 +46,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $99: [Shure SM57 Instrument Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
 - $300: [Boss RC-30 Loop Station Sampler Pedal - 2 inputs](https://smile.amazon.com/dp/B004J24YZ2)
 - $1799: [27" iMac](https://www.apple.com/shop/buy-mac/imac/27-inch)
-- $200: [Logic Pro](https://www.apple.com/logic-pro/)
+- $69: [Ableton Live](https://www.ableton.com/en/shop/live/)
 - $119: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
 - $160: [Focusrite Scarlett 2i2 3rd Gen USB Audio Interface - 2 inputs](https://smile.amazon.com/dp/B07QR73T66)
 
@@ -61,7 +61,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $249: [Shure Beta 87C Vocal Microphone](https://smile.amazon.com/dp/B0002DVKZO)
 - $580: [Boss RC-300 Loop Station Sampler Pedal - 3 inputs](https://smile.amazon.com/dp/B005P4NVJI)
 - $2399: [16" MacBook Pro](https://www.apple.com/macbook-pro-16/)
-- $599: [Pro Tools](https://www.avid.com/pro-tools)
+- $200: [Logic Pro](https://www.apple.com/logic-pro/)
 - $459: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
 - $400: [Focusrite Scarlett 18i8 3rd Gen USB Audio Interface - 8 inputs](https://smile.amazon.com/dp/B07QQ2YTHN)
 
@@ -72,6 +72,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $1999: [Music Man Joe Dart Signature Bass](https://www.music-man.com/instruments/basses/joe-dart)
 - $4499: [Nord Stage 3 Digital Piano](https://smile.amazon.com/dp/B07LGD741N)
 - $4999: [iMac Pro](https://www.apple.com/imac-pro/)
+- $599: [Pro Tools](https://www.avid.com/pro-tools)
 
 ---
 
