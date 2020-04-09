@@ -17,7 +17,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E): the standard for audio engineers
 - $13: [¼" Patch Cable, 15' long](https://smile.amazon.com/dp/B001RXSFME): for guitars
 - $12: [XLR Patch Cable, 15' long](https://smile.amazon.com/dp/B00M090FDG): for microphones
-- $25: [Samson MK-10 Microphone Stand](https://smile.amazon.com/dp/B01B15JPCQ)
+- $25: [Samson MK-10 Microphone Stand](https://smile.amazon.com/dp/B003CLIPHO)
 - $35: [RockJam Xfinity Keyboard Stand](https://smile.amazon.com/dp/B01B15JPCQ)
 
 ## Budget
@@ -37,7 +37,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 ## Upgrade
 - $450: [Yamaha P71 Digital Piano with sustain pedal](https://smile.amazon.com/dp/B01N7WBESD)
 - $330: [Fender CD-60SCE Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07F39CHRZ)
-- $229: [Fender Squier Affinity Telecaster Electric Guitar](https://smile.amazon.com/dp/B0002GOE6S)
+- $230: [Fender Squier Affinity Telecaster Electric Guitar](https://smile.amazon.com/dp/B0002GOE6S)
 - $229: [Fender Squier Affinity Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07FYKN2RJ)
 - $400: [Fender Classic Vibe '50s Precision Bass](https://smile.amazon.com/dp/B07T7XJXWK)
 - $740: [Roland Octapad Digital Percussion Pad](https://smile.amazon.com/dp/B0089KQQNI)
@@ -47,13 +47,13 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $300: [Boss RC-30 Loop Station Sampler Pedal - 2 inputs](https://smile.amazon.com/dp/B004J24YZ2)
 - $1799: [27" iMac](https://www.apple.com/shop/buy-mac/imac/27-inch)
 - $69: [Ableton Live](https://www.ableton.com/en/shop/live/)
-- $119: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
+- $119: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
 - $160: [Focusrite Scarlett 2i2 Audio Interface - 2 inputs](https://smile.amazon.com/dp/B07QR73T66)
 
 ## Splurge
 - $699: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
 - $829: [Martin D-10E Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07MWY9JXR)
-- $400: [Fender Classic Vibe '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
+- $400: [Fender Classic Vibe '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07T6GJ8MK)
 - $700: [Fender Player Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07CTX2F5F)
 - $700: [Fender Player Precision Bass](https://smile.amazon.com/dp/B07CTW4T7B)
 - $699: [Nord Drum 3P Digital Percussion Pad](https://smile.amazon.com/dp/B01G7EFJ3U)
@@ -66,7 +66,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $400: [Focusrite Scarlett 18i8 Audio Interface - 8 inputs](https://smile.amazon.com/dp/B07QQ2YTHN)
 
 ## Take My Money
-- $1050: [Fender Vintera '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
+- $900: [Fender Vintera '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07SLGVSQC)
 - $1450: [Fender American Professional Stratocaster Electric Guitar](https://smile.amazon.com/dp/B01MTN0S02)
 - $1225: [Fender Flea Signature Jazz Bass](https://smile.amazon.com/dp/B01HT2FFJ2)
 - $1999: [Music Man Joe Dart Signature Bass](https://www.music-man.com/instruments/basses/joe-dart)
