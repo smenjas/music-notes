@@ -32,12 +32,12 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $999: [2020 MacBook Air](https://www.apple.com/macbook-air/)
 - $0: [GarageBand](https://www.apple.com/mac/garageband/)
 - $49: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
-- $110: [Focusrite Scarlett Solo 3rd Gen USB Audio Interface - 1 input](https://smile.amazon.com/dp/B07QR6Z1JB)
+- $110: [Focusrite Scarlett Solo Audio Interface - 1 input](https://smile.amazon.com/dp/B07QR6Z1JB)
 
 ## Upgrade
 - $450: [Yamaha P71 Digital Piano with sustain pedal](https://smile.amazon.com/dp/B01N7WBESD)
 - $330: [Fender CD-60SCE Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07F39CHRZ)
-- $400: [Fender Classic Vibe '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
+- $229: [Fender Squier Affinity Telecaster Electric Guitar](https://smile.amazon.com/dp/B0002GOE6S)
 - $229: [Fender Squier Affinity Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07FYKN2RJ)
 - $400: [Fender Classic Vibe '50s Precision Bass](https://smile.amazon.com/dp/B07T7XJXWK)
 - $740: [Roland Octapad Digital Percussion Pad](https://smile.amazon.com/dp/B0089KQQNI)
@@ -48,12 +48,12 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $1799: [27" iMac](https://www.apple.com/shop/buy-mac/imac/27-inch)
 - $69: [Ableton Live](https://www.ableton.com/en/shop/live/)
 - $119: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
-- $160: [Focusrite Scarlett 2i2 3rd Gen USB Audio Interface - 2 inputs](https://smile.amazon.com/dp/B07QR73T66)
+- $160: [Focusrite Scarlett 2i2 Audio Interface - 2 inputs](https://smile.amazon.com/dp/B07QR73T66)
 
 ## Splurge
 - $699: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
 - $829: [Martin D-10E Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07MWY9JXR)
-- $1050: [Fender Vintera '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
+- $400: [Fender Classic Vibe '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
 - $700: [Fender Player Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07CTX2F5F)
 - $700: [Fender Player Precision Bass](https://smile.amazon.com/dp/B07CTW4T7B)
 - $699: [Nord Drum 3P Digital Percussion Pad](https://smile.amazon.com/dp/B01G7EFJ3U)
@@ -63,11 +63,11 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $2399: [16" MacBook Pro](https://www.apple.com/macbook-pro-16/)
 - $200: [Logic Pro](https://www.apple.com/logic-pro/)
 - $459: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
-- $400: [Focusrite Scarlett 18i8 3rd Gen USB Audio Interface - 8 inputs](https://smile.amazon.com/dp/B07QQ2YTHN)
+- $400: [Focusrite Scarlett 18i8 Audio Interface - 8 inputs](https://smile.amazon.com/dp/B07QQ2YTHN)
 
 ## Take My Money
+- $1050: [Fender Vintera '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
 - $1450: [Fender American Professional Stratocaster Electric Guitar](https://smile.amazon.com/dp/B01MTN0S02)
-- $4900: [Fender Custom Shop Jimmy Page Signature Telecaster Electric Guitar](https://smile.amazon.com/dp/B01MTN0S02)
 - $1225: [Fender Flea Signature Jazz Bass](https://smile.amazon.com/dp/B01HT2FFJ2)
 - $1999: [Music Man Joe Dart Signature Bass](https://www.music-man.com/instruments/basses/joe-dart)
 - $4499: [Nord Stage 3 Digital Piano](https://smile.amazon.com/dp/B07LGD741N)
