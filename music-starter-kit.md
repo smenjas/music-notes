@@ -15,19 +15,20 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 ## Basics
 - $18: [Drum sticks with 8" silent practice pad](https://smile.amazon.com/dp/B07W6NXZ15): every home needs these
 - $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E): the standard for audio engineers
-- $13: [¼" Patch Cable, 15' long](https://smile.amazon.com/dp/B001RXSFME): for guitars
 - $12: [XLR Patch Cable, 15' long](https://smile.amazon.com/dp/B00M090FDG): for microphones
+- $13: [¼" Patch Cable, 15' long, black](https://smile.amazon.com/dp/B001RXSFME): for guitars
+- $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0): for guitars
 - $25: [Samson MK-10 Microphone Stand](https://smile.amazon.com/dp/B003CLIPHO)
 - $35: [RockJam Xfinity Keyboard Stand](https://smile.amazon.com/dp/B01B15JPCQ)
 
 ## Budget
+- $22: [Pyle PDMIC59 Vocal Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
 - $100: [Yamaha PSS-A50 Portable Keyboard](https://smile.amazon.com/dp/B07ZKY4J1G)
 - $200: [Yamaha FG800 Acoustic Guitar](https://smile.amazon.com/dp/B01C92QHLC)
 - $178: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
 - $230: [Fender Squier Affinity Precision Bass](https://smile.amazon.com/dp/B07B6PZG4L)
 - $164: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
 - $364: [Alesis Nitro Mesh Digital Drum Set](https://smile.amazon.com/dp/B07BW1XJGP)
-- $22: [Pyle PDMIC59 Vocal Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
 - $100: [Boss RC-1 Loop Station Sampler Pedal - 1 input](https://smile.amazon.com/dp/B00OB7K46I)
 - $999: [2020 MacBook Air](https://www.apple.com/macbook-air/)
 - $0: [GarageBand](https://www.apple.com/mac/garageband/)
@@ -35,6 +36,8 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $110: [Focusrite Scarlett Solo Audio Interface - 1 input](https://smile.amazon.com/dp/B07QR6Z1JB)
 
 ## Upgrade
+- $99: [Shure SM57 Instrument Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
+- $100: [Shure SM58S Vocal Microphone](https://smile.amazon.com/dp/B0000AQRSU)
 - $450: [Yamaha P71 Digital Piano with sustain pedal](https://smile.amazon.com/dp/B01N7WBESD)
 - $330: [Fender CD-60SCE Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07F39CHRZ)
 - $230: [Fender Squier Affinity Telecaster Electric Guitar](https://smile.amazon.com/dp/B0002GOE6S)
@@ -42,8 +45,6 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $400: [Fender Classic Vibe '50s Precision Bass](https://smile.amazon.com/dp/B07T7XJXWK)
 - $740: [Roland Octapad Digital Percussion Pad](https://smile.amazon.com/dp/B0089KQQNI)
 - $500: [Roland TD-1K Digital Drum Set](https://smile.amazon.com/dp/B00OZNYIQA)
-- $100: [Shure SM58S Vocal Microphone](https://smile.amazon.com/dp/B0000AQRSU)
-- $99: [Shure SM57 Instrument Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
 - $300: [Boss RC-30 Loop Station Sampler Pedal - 2 inputs](https://smile.amazon.com/dp/B004J24YZ2)
 - $1799: [27" iMac](https://www.apple.com/shop/buy-mac/imac/27-inch)
 - $69: [Ableton Live](https://www.ableton.com/en/shop/live/)
@@ -51,6 +52,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $160: [Focusrite Scarlett 2i2 Audio Interface - 2 inputs](https://smile.amazon.com/dp/B07QR73T66)
 
 ## Splurge
+- $159: [Shure Beta 58A Vocal Microphone](https://smile.amazon.com/dp/B0002BACB4)
 - $699: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
 - $829: [Martin D-10E Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07MWY9JXR)
 - $400: [Fender Classic Vibe '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07T6GJ8MK)
@@ -58,7 +60,6 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $700: [Fender Player Precision Bass](https://smile.amazon.com/dp/B07CTW4T7B)
 - $699: [Nord Drum 3P Digital Percussion Pad](https://smile.amazon.com/dp/B01G7EFJ3U)
 - $700: [Roland TD-1DMK Digital Drum Set](https://smile.amazon.com/dp/B07HC2ZMN4)
-- $249: [Shure Beta 87C Vocal Microphone](https://smile.amazon.com/dp/B0002DVKZO)
 - $580: [Boss RC-300 Loop Station Sampler Pedal - 3 inputs](https://smile.amazon.com/dp/B005P4NVJI)
 - $2399: [16" MacBook Pro](https://www.apple.com/macbook-pro-16/)
 - $200: [Logic Pro](https://www.apple.com/logic-pro/)
@@ -66,6 +67,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $400: [Focusrite Scarlett 18i8 Audio Interface - 8 inputs](https://smile.amazon.com/dp/B07QQ2YTHN)
 
 ## Take My Money
+- $249: [Shure Beta 87C Vocal Microphone](https://smile.amazon.com/dp/B0002DVKZO)
 - $900: [Fender Vintera '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07SLGVSQC)
 - $1450: [Fender American Professional Stratocaster Electric Guitar](https://smile.amazon.com/dp/B01MTN0S02)
 - $1225: [Fender Flea Signature Jazz Bass](https://smile.amazon.com/dp/B01HT2FFJ2)
