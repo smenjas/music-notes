@@ -8,13 +8,15 @@ Only you can decide what you're interested in: vocals, guitar, bass, keys, percu
 
 You can record music without a computer, using a multitrack recorder. If you want to record using a computer, you will need an audio interface. If you want to record yourself singing and playing guitar at the same time, you either need 2 inputs, or an omnidirectional microphone (not listed here). All the mixers listed here are also audio interfaces, but the Pocketstudio & Portastudio multitrack recorders are not.
 
+Prices vary for different things. For example, guitars are less expensive than basses, because fewer people by basses.
+
 If you want more, like wireless microphones, professional recording studios, and walls of sound, that requires your own research.
 
 Prices are from April 8th, 2020, rounded to the nearest dollar.
 
 ---
 
-## Music Equipment Sorted by Price
+## Music Equipment Grouped by Price
 
 ### $ Budget
 - $18: [Drum sticks with 8" silent practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
