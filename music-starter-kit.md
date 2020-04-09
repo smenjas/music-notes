@@ -11,8 +11,8 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 ## Basics
 - $18: [Drum sticks with 8" silent practice pad](https://smile.amazon.com/dp/B07W6NXZ15): every home needs one
 - $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E): the standard for audio engineers
-- $9: [¼" Patch Cable, 15' long](https://smile.amazon.com/dp/B001RXSFME): for guitars
-- $9: [XLR Patch Cable, 15' long](https://smile.amazon.com/dp/B000068NW5): for microphones
+- $13: [¼" Patch Cable, 15' long](https://smile.amazon.com/dp/B001RXSFME): for guitars
+- $12: [XLR Patch Cable, 15' long](https://smile.amazon.com/dp/B00M090FDG): for microphones
 
 ## Budget
 - $100: [Yamaha PSS-A50 Portable Keyboard](https://smile.amazon.com/dp/B07ZKY4J1G)
