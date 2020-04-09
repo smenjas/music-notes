@@ -20,7 +20,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $230: [Fender Squier Affinity Precision Bass](https://smile.amazon.com/dp/B07B6PZG4L)
 - $364: [Alesis Nitro Mesh Digital Drum Set](https://smile.amazon.com/dp/B07BW1XJGP)
 - $164: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
-- $22: [Pyle Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
+- $22: [Pyle PDMIC59 Vocal Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
 - $110: [Focusrite Scarlett Solo 3rd Gen USB Audio Interface - 1 input](https://smile.amazon.com/dp/B07QR6Z1JB)
 - $100: [Boss RC-1 Loop Station Sampler Pedal - 1 input](https://smile.amazon.com/dp/B00OB7K46I)
 
