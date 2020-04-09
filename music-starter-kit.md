@@ -29,7 +29,7 @@ Each option has more expensive alternatives. If you want to record yourself sing
 - [Fender Player Precision Bass](https://smile.amazon.com/dp/B07CTW4T7B)
 - [Roland Octapad Digital Percussion Pad](https://smile.amazon.com/dp/B0089KQQNI)
 - [Roland TD-1K Digital Drum Set](https://smile.amazon.com/dp/B00OZNYIQA)
-- [Shure SM58-LC Vocal Microphone](https://smile.amazon.com/dp/B000CZ0R42)
+- [Shure SM58S Vocal Microphone](https://smile.amazon.com/dp/B0000AQRSU)
 - [Shure SM57 Instrument Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
 - [Focusrite Scarlett 2i2 3rd Gen USB Audio Interface - 2 inputs](https://smile.amazon.com/dp/B07QR73T66)
 - [Boss RC-30 Loop Station Sampler Pedal - 2 inputs](https://smile.amazon.com/dp/B004J24YZ2)
