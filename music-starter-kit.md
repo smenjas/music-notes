@@ -4,24 +4,20 @@ These are some high quality musical instruments. However, they may need a slight
 
 I've chosen what I think is the best value: not the least expensive, but close, in each price bracket. Quality is a must.
 
-You can record and mix without a computer using a multitrack recorder. If you want to record using a computer, you will need an audio interface. If you want to record yourself singing and playing guitar at the same time, you either need 2 inputs, or an omnidirectional microphone (not listed here). All the mixers listed here are also audio interfaces, but the Pocketstudio & Portastudio multitrack recorders are not.
+Only you can decide what you're interested in: vocals, guitar, bass, keys, percussion, audio engineering, and so on. Once you've decided what you want to pursue, choose relevant items from the list below. For example, a vocalist may just need a microphone, cable, and multitrack recorder. A guitarist may only need an acoustic guitar, or an electric guitar and amplifier. Everyone will benefit from having a [nice pair of headphones](https://smile.amazon.com/dp/B000AJIF4E). If you need a microphone, you will also want a microphone stand. You do not need every item listed here: choose what makes sense for you.
+
+You can record music without a computer, using a multitrack recorder. If you want to record using a computer, you will need an audio interface. If you want to record yourself singing and playing guitar at the same time, you either need 2 inputs, or an omnidirectional microphone (not listed here). All the mixers listed here are also audio interfaces, but the Pocketstudio & Portastudio multitrack recorders are not.
 
 If you want more, like wireless microphones, professional recording studios, and walls of sound, that requires your own research.
 
----
-
 Prices are from April 8th, 2020, rounded to the nearest dollar.
 
-## Basics
-- $18: [Drum sticks with 8" silent practice pad](https://smile.amazon.com/dp/B07W6NXZ15): every home needs these
-- $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E): the standard for audio engineers
-- $12: [XLR Patch Cable, 15' long](https://smile.amazon.com/dp/B00M090FDG): for microphones
-- $13: [¼" Patch Cable, 15' long, black](https://smile.amazon.com/dp/B001RXSFME): for guitars
-- $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0): for guitars
-- $25: [Samson MK-10 Microphone Stand](https://smile.amazon.com/dp/B003CLIPHO)
-- $35: [RockJam Xfinity Keyboard Stand](https://smile.amazon.com/dp/B01B15JPCQ)
+---
 
-## Budget
+## Music Equipment Sorted by Price
+
+### $ Budget
+- $18: [Drum sticks with 8" silent practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
 - $22: [Pyle PDMIC59 Vocal Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
 - $200: [Yamaha FG800 Acoustic Guitar](https://smile.amazon.com/dp/B01C92QHLC)
 - $178: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
@@ -37,7 +33,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $129: [Alto ZMX122FX Analog Mixer - 8 inputs](https://smile.amazon.com/dp/B004TM31FG)
 - $129: [Tascam DP-006 Pocketstudio Multitrack Recorder - 6 inputs](https://smile.amazon.com/dp/B00BEGS5NI)
 
-## Upgrade
+### $$ Upgrade
 - $99: [Shure SM57 Instrument Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
 - $100: [Shure SM58S Vocal Microphone](https://smile.amazon.com/dp/B0000AQRSU)
 - $330: [Fender CD-60SCE Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07F39CHRZ)
@@ -55,7 +51,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $174: [Yamaha MG10XU Analog Mixer - 10 inputs](https://smile.amazon.com/dp/B076M3PWKC)
 - $270: [Tascam DP-03SD Portastudio Multitrack Recorder - 8 inputs](https://smile.amazon.com/dp/B00GGN4NXA)
 
-## Splurge
+### $$$ Splurge
 - $159: [Shure Beta 58A Vocal Microphone](https://smile.amazon.com/dp/B0002BACB4)
 - $829: [Martin D-10E Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07MWY9JXR)
 - $675: [Fender Player Telecaster Electric Guitar](https://smile.amazon.com/dp/B07V7XZZM3)
@@ -71,7 +67,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $270: [Tascam US-16x08 Audio Interface - 16 inputs](https://smile.amazon.com/dp/B00MIXF200)
 - $684: [Tascam Model 16 Analog Mixer & Multitrack Recorder - 16 inputs](https://smile.amazon.com/dp/B07Y3ZT2QV)
 
-## Take My Money
+### $$$$ Take My Money
 - $249: [Shure Beta 87C Vocal Microphone](https://smile.amazon.com/dp/B0002DVKZO)
 - $1299: [Martin 15 Series Auditorium Acoustic Guitar](https://smile.amazon.com/dp/B003K0IRLQ)
 - $900: [Fender Vintera '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07SLGVSQC)
@@ -85,6 +81,17 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $500: [Tascam US-20x20 Audio Interface - 20 inputs](https://smile.amazon.com/dp/B016R8CQJG)
 - $1000: [Yamaha EMX5016CF Powered Mixer - 16 inputs](https://smile.amazon.com/dp/B000YID5IW)
 - $1000: [Zoom LiveTrak L-20 Digital Mixer & Multitrack Recorder - 20 inputs](https://smile.amazon.com/dp/B07FKBFK11)
+
+---
+
+## Accessories
+These are accessories you will need, to make use of the equipment listed above.
+- $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E): the standard for audio engineers
+- $12: [XLR Patch Cable, 15' long](https://smile.amazon.com/dp/B00M090FDG): for microphones
+- $13: [¼" Patch Cable, 15' long, black](https://smile.amazon.com/dp/B001RXSFME): for guitars
+- $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0): for guitars
+- $25: [Samson MK-10 Microphone Stand](https://smile.amazon.com/dp/B003CLIPHO)
+- $35: [RockJam Xfinity Keyboard Stand](https://smile.amazon.com/dp/B01B15JPCQ)
 
 ---
 
