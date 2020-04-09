@@ -1,16 +1,33 @@
 # Music Starter Kit
 
-These are some high quality musical instruments. However, they may need a slight [truss rod adjustment](https://www.youtube.com/channel/UCdr6rJVSSx54ByuY5U2ohTQ "StewMac's guitar repair YouTube channel").
+These are some high quality musical instruments. However, they may need a
+slight [truss rod
+adjustment](https://www.youtube.com/channel/UCdr6rJVSSx54ByuY5U2ohTQ "StewMac's
+guitar repair YouTube channel").
 
-I've chosen what I think is the best value: not the least expensive, but close, in each price bracket. Quality is a must.
+I've chosen what I think is the best value: not the least expensive, but close,
+in each price bracket. Quality is a must.
 
-Only you can decide what you're interested in: vocals, guitar, bass, keys, percussion, audio engineering, and so on. Once you've decided what you want to pursue, choose relevant items from the list below. For example, a vocalist may just need a microphone, cable, and multitrack recorder. A guitarist may only need an acoustic guitar, or an electric guitar and amplifier. Everyone will benefit from having a [nice pair of headphones](https://smile.amazon.com/dp/B000AJIF4E). If you need a microphone, you will also want a microphone stand. You do not need every item listed here: choose what makes sense for you.
+I've chosen the quietest options, to preserve the audience's sanity. For
+example, acoustic (as opposed to electronic) drum sets are not listed.
 
-You can record music without a computer, using a multitrack recorder. If you want to record using a computer, you will need an audio interface. If you want to record yourself singing and playing guitar at the same time, you either need 2 inputs, or an omnidirectional microphone (not listed here). All the mixers listed here are also audio interfaces, but the Pocketstudio & Portastudio multitrack recorders are not.
+Everyone will benefit from having a [nice pair of
+headphones](https://smile.amazon.com/dp/B000AJIF4E). A percussionist may only
+need drum sticks and a practice pad. A vocalist may want a microphone, cable,
+multitrack recorder. A guitarist may want an acoustic guitar, or an electric
+guitar and amplifier. Choose what makes sense for you.
 
-Prices vary for different things. For example, guitars are less expensive than basses, because fewer people by basses.
+You can record music with a computer, or a multitrack recorder. If you want to
+use a computer, you will need an audio interface. If you want to record
+yourself singing and playing guitar at the same time, you either need 2 inputs,
+or an omnidirectional microphone (not listed here). All the mixers listed here
+are also audio interfaces, but the Pocketstudio & Portastudio multitrack
+recorders are not.
 
-If you want more, like wireless microphones, professional recording studios, and walls of sound, that requires your own research.
+Guitars are less expensive than basses, because fewer people by basses.
+
+If you want wireless microphones, professional recording studios, and walls of
+sound, that requires your own research.
 
 Prices are from April 8th, 2020, rounded to the nearest dollar.
 
@@ -19,7 +36,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 ## Music Equipment Grouped by Price
 
 ### $ Budget
-- $18: [Drum sticks with 8" silent practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
+- $18: [Drum sticks with 8" quiet practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
 - $22: [Pyle PDMIC59 Vocal Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
 - $200: [Yamaha FG800 Acoustic Guitar](https://smile.amazon.com/dp/B01C92QHLC)
 - $178: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
