@@ -53,7 +53,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $119: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
 - $230: [Tascam US-4x4 Audio Interface - 4 inputs](https://smile.amazon.com/dp/B00MIXF1JW)
 - $174: [Yamaha MG10XU Analog Mixer - 10 inputs](https://smile.amazon.com/dp/B076M3PWKC)
-- $129: [Tascam DP-03SD Portastudio Multitrack Recorder - 8 inputs](https://smile.amazon.com/dp/B00GGN4NXA)
+- $270: [Tascam DP-03SD Portastudio Multitrack Recorder - 8 inputs](https://smile.amazon.com/dp/B00GGN4NXA)
 
 ## Splurge
 - $159: [Shure Beta 58A Vocal Microphone](https://smile.amazon.com/dp/B0002BACB4)
