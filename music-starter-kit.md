@@ -4,7 +4,7 @@ These are some high quality musical instruments. However, they may need a slight
 
 I've chosen what I think is the best value: not the least expensive, but close, in each price bracket. Quality is a must.
 
-You can record and mix without a computer using a multitrack recorder like the [Tascam Model 16](https://smile.amazon.com/dp/B07Y3ZT2QV) or [Zoom LiveTrak L-20](https://smile.amazon.com/dp/B000YID5IW). If you want to record using a computer, you will need an audio interface. If you want to record yourself singing and playing guitar at the same time, you either need 2 inputs, or an omnidirectional microphone (not listed here).
+You can record and mix without a computer using a multitrack recorder like the [Tascam Model 16](https://smile.amazon.com/dp/B07Y3ZT2QV) or [Zoom LiveTrak L-20](https://smile.amazon.com/dp/B000YID5IW). If you want to record using a computer, you will need an audio interface. If you want to record yourself singing and playing guitar at the same time, you either need 2 inputs, or an omnidirectional microphone (not listed here). All the mixers listed here are also audio interfaces.
 
 If you want more, like wireless microphones, professional recording studios, and walls of sound, that requires your own research.
 
@@ -34,7 +34,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $0: [GarageBand](https://www.apple.com/mac/garageband/)
 - $49: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
 - $135: [Tascam US-2x2 Audio Interface - 2 inputs](https://smile.amazon.com/dp/B00MIXF2RS)
-- $129: [Alto ZMX122FX Analog Mixer - 8 inputs](https://smile.amazon.com/dp/B076M3PWKC)
+- $129: [Alto ZMX122FX Analog Mixer - 8 inputs](https://smile.amazon.com/dp/B004TM31FG)
 
 ## Upgrade
 - $99: [Shure SM57 Instrument Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
@@ -67,7 +67,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $200: [Logic Pro](https://www.apple.com/logic-pro/)
 - $459: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
 - $270: [Tascam US-16x08 Audio Interface - 16 inputs](https://smile.amazon.com/dp/B00MIXF200)
-- $684: [Tascam Model 16 Analog Mixer, Multitrack Recorder, & Audio Interface - 16 inputs](https://smile.amazon.com/dp/B07Y3ZT2QV)
+- $684: [Tascam Model 16 Analog Mixer & Multitrack Recorder - 16 inputs](https://smile.amazon.com/dp/B07Y3ZT2QV)
 
 ## Take My Money
 - $249: [Shure Beta 87C Vocal Microphone](https://smile.amazon.com/dp/B0002DVKZO)
@@ -81,7 +81,7 @@ Prices are from April 8th, 2020, rounded to the nearest dollar.
 - $599: [Pro Tools](https://shop.avid.com/ccrz__ProductDetails?sku=DYNA20000)
 - $500: [Tascam US-20x20 Audio Interface - 20 inputs](https://smile.amazon.com/dp/B016R8CQJG)
 - $1000: [Yamaha EMX5016CF Powered Mixer - 16 inputs](https://smile.amazon.com/dp/B000YID5IW)
-- $1000: [Zoom LiveTrak L-20 Digital Mixer & Multitrack Recorder - 20 inputs](https://smile.amazon.com/dp/B000YID5IW)
+- $1000: [Zoom LiveTrak L-20 Digital Mixer & Multitrack Recorder - 20 inputs](https://smile.amazon.com/dp/B07FKBFK11)
 
 ---
 
