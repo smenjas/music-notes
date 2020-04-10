@@ -10,7 +10,7 @@ percussionist may only need [drum sticks and a practice
 pad](https://smile.amazon.com/dp/B07W6NXZ15 "$18"). A vocalist may want a
 microphone and a multitrack recorder. A guitarist may want an [electric
 guitar](https://smile.amazon.com/dp/B07TFR8XBR "Squier Telecaster: $178") and
-[amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox Mini5: $190"). Choose
+[amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox Mini5: $152"). Choose
 what makes sense for you.
 
 ## How much should I spend?
@@ -46,7 +46,7 @@ practice *quietly*.
 ---
 
 ## Musical Instruments
-Prices are from April 9th, 2020, rounded to the nearest U.S. dollar.
+Prices are from April 10th, 2020, rounded to the nearest U.S. dollar.
 
 ### Acoustic Guitars
 - $200: [Yamaha FG800 Acoustic Guitar](https://smile.amazon.com/dp/B01C92QHLC)
@@ -76,7 +76,7 @@ Prices are from April 9th, 2020, rounded to the nearest U.S. dollar.
 - $100: [Yamaha PSS-A50 Portable Keyboard](https://smile.amazon.com/dp/B07ZKY4J1G)
 - $229: [Casio WK-245 76-Key Portable Keyboard](https://smile.amazon.com/dp/B00MJ83QZW)
 - $450: [Yamaha P71 Digital Piano with sustain pedal](https://smile.amazon.com/dp/B01LY8OUQW)
-- $698: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
+- $699: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
 - $4499: [Nord Stage 3 Digital Piano](https://smile.amazon.com/dp/B07LGD741N)
 
 ### Percussion
@@ -98,7 +98,7 @@ Prices are from April 9th, 2020, rounded to the nearest U.S. dollar.
 - $25: [Samson MK-10 Microphone Stand](https://smile.amazon.com/dp/B003CLIPHO)
 - $35: [RockJam Xfinity Keyboard Stand](https://smile.amazon.com/dp/B01B15JPCQ)
 - $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E): the standard for audio engineers
-- $190: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
+- $152: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
 
 ---
 
@@ -156,15 +156,15 @@ Turn your computer into an instrument.
 
 ### Audio Interfaces
 Plug microphones and instruments into your computer.
-- $135 for 2 inputs: [Tascam US-2x2 Audio Interface](https://smile.amazon.com/dp/B00MIXF2RS)
-- $230 for 4 inputs: [Tascam US-4x4 Audio Interface](https://smile.amazon.com/dp/B00MIXF1JW)
+- $143 for 2 inputs: [Tascam US-2x2 Audio Interface](https://smile.amazon.com/dp/B00MIXF2RS)
+- $225 for 4 inputs: [Tascam US-4x4 Audio Interface](https://smile.amazon.com/dp/B00MIXF1JW)
 - $270 for 16 inputs: [Tascam US-16x08 Audio Interface](https://smile.amazon.com/dp/B00MIXF200)
 - $500 for 20 inputs: [Tascam US-20x20 Audio Interface](https://smile.amazon.com/dp/B016R8CQJG)
 
 ### Mixers
 These particular mixers are also audio interfaces, with more knobs.
 - $129 for 8 inputs: [Alto ZMX122FX Analog Mixer](https://smile.amazon.com/dp/B004TM31FG)
-- $171 for 10 inputs: [Yamaha MG10XU Analog Mixer](https://smile.amazon.com/dp/B076M3PWKC)
+- $219 for 10 inputs: [Yamaha MG10XU Analog Mixer](https://smile.amazon.com/dp/B076M3PWKC)
 - $1000 for 16 inputs: [Yamaha EMX5016CF Powered Mixer](https://smile.amazon.com/dp/B000YID5IW)
 
 ### Samplers
