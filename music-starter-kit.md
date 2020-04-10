@@ -156,6 +156,7 @@ Turn your computer into an instrument.
 
 ### Audio Interfaces
 Plug microphones and instruments into your computer.
+- $100 for 1 input: [Tascam US-1x2 Audio Interface](https://smile.amazon.com/dp/B074Q5W46C)
 - $143 for 2 inputs: [Tascam US-2x2 Audio Interface](https://smile.amazon.com/dp/B00MIXF2RS)
 - $225 for 4 inputs: [Tascam US-4x4 Audio Interface](https://smile.amazon.com/dp/B00MIXF1JW)
 - $270 for 16 inputs: [Tascam US-16x08 Audio Interface](https://smile.amazon.com/dp/B00MIXF200)
