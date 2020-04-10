@@ -16,7 +16,7 @@ what makes sense for you.
 ## How much should I spend?
 Start with the least expensive option that works for you, then upgrade as
 needed. A smartphone with a [recording app](https://www.apple.com/music-memos/
-"Music Memos: $0) is better than nothing. This guide is for when you want to
+"Music Memos: $0") is better than nothing. This guide is for when you want to
 level up.
 
 ## Silence is Golden
