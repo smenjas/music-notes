@@ -18,7 +18,6 @@ needed. A smartphone with a [recording app](https://www.apple.com/music-memos/)
 is better than nothing. This guide is for when you want to level up.
 
 ## Silence is Golden
-For percussionists, I've chosen a quiet practice pad, and digital drum sets.
 Headphones, electric guitars, and digital drum sets allow you to practice
 quietly.
 
