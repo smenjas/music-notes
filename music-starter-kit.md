@@ -6,14 +6,10 @@ your neighbors. Here's what you need.
 Everyone will benefit from having a [nice pair of
 headphones](https://smile.amazon.com/dp/B000AJIF4E). A percussionist may only
 need [drum sticks and a practice pad](https://smile.amazon.com/dp/B07W6NXZ15).
-A vocalist may want a microphone, cable, and multitrack recorder. A guitarist
-may want an [acoustic guitar](https://smile.amazon.com/dp/B01C92QHLC "Yamaha
-FG800: $200"), or an [electric guitar](https://smile.amazon.com/dp/B07TFR8XBR
-"Squier Telecaster: $178") and
-[amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox Mini5: $164"). Any
-guitar may need a slight [truss rod
-adjustment](https://www.youtube.com/channel/UCdr6rJVSSx54ByuY5U2ohTQ "StewMac's
-guitar repair YouTube channel"). Choose what makes sense for you.
+A vocalist may want a microphone and a multitrack recorder. A guitarist may
+want an [electric guitar](https://smile.amazon.com/dp/B07TFR8XBR "Squier
+Telecaster: $178") and [amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox
+Mini5: $164"). Choose what makes sense for you.
 
 ## How much should I spend?
 Start with the least expensive option that works for you, then upgrade as
