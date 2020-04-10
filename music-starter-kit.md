@@ -42,7 +42,7 @@ quietly.
 ---
 
 ## Music Equipment Grouped by Price
-Prices are from April 8th, 2020, rounded to the nearest U.S. dollar.
+Prices are from April 9th, 2020, rounded to the nearest U.S. dollar.
 
 ### $ Budget
 - $22: [Pyle PDMIC59 Vocal Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
@@ -55,7 +55,7 @@ Prices are from April 8th, 2020, rounded to the nearest U.S. dollar.
 
 ### $$ Upgrade
 - $99: [Shure SM57 Instrument Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
-- $100: [Shure SM58S Vocal Microphone](https://smile.amazon.com/dp/B0000AQRSU)
+- $104: [Shure SM58S Vocal Microphone](https://smile.amazon.com/dp/B0000AQRSU)
 - $330: [Fender CD-60SCE Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07F39CHRZ)
 - $230: [Fender Squier Affinity Telecaster Electric Guitar](https://smile.amazon.com/dp/B0002GOE6S)
 - $229: [Fender Squier Affinity Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07FYKN2RJ)
@@ -70,7 +70,7 @@ Prices are from April 8th, 2020, rounded to the nearest U.S. dollar.
 - $675: [Fender Player Telecaster Electric Guitar](https://smile.amazon.com/dp/B07V7XZZM3)
 - $700: [Fender Player Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07CTX2F5F)
 - $700: [Fender Player Precision Bass](https://smile.amazon.com/dp/B07CTW4T7B)
-- $699: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
+- $698: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
 - $700: [Roland TD-1DMK Digital Drum Set](https://smile.amazon.com/dp/B07HC2ZMN4)
 - $740: [Roland Octapad Digital Percussion Pad](https://smile.amazon.com/dp/B0089KQQNI)
 
@@ -95,7 +95,7 @@ These are accessories you will need, to make use of the equipment listed above.
 - $25: [Samson MK-10 Microphone Stand](https://smile.amazon.com/dp/B003CLIPHO)
 - $35: [RockJam Xfinity Keyboard Stand](https://smile.amazon.com/dp/B01B15JPCQ)
 - $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E): the standard for audio engineers
-- $164: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
+- $190: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
 
 ---
 
@@ -154,14 +154,14 @@ Plug microphones and instruments into your computer.
 ### Mixers
 These are also audio interfaces, with sliders & more knobs.
 - $129 for 8 inputs: [Alto ZMX122FX Analog Mixer](https://smile.amazon.com/dp/B004TM31FG)
-- $174 for 10 inputs: [Yamaha MG10XU Analog Mixer](https://smile.amazon.com/dp/B076M3PWKC)
+- $171 for 10 inputs: [Yamaha MG10XU Analog Mixer](https://smile.amazon.com/dp/B076M3PWKC)
 - $1000 for 16 inputs: [Yamaha EMX5016CF Powered Mixer](https://smile.amazon.com/dp/B000YID5IW)
 
 ### Samplers
 Loop short recordings, find harmony with yourself.
 - $100 for 1 input: [Boss RC-1 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B00OB7K46I)
-- $300 for 2 input: [Boss RC-30 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J24YZ2)
-- $580 for 3 input: [Boss RC-300 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B005P4NVJI)
+- $300 for 2 inputs: [Boss RC-30 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J24YZ2)
+- $580 for 3 inputs: [Boss RC-300 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B005P4NVJI)
 
 ---
 
