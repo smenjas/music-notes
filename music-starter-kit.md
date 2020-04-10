@@ -122,8 +122,8 @@ and Portastudio.
 - $1000: [Zoom LiveTrak L-20 Digital Mixer & Multitrack Recorder - 20 inputs](https://smile.amazon.com/dp/B07FKBFK11)
 
 ### Computer Hardware
-A laptop or desktop computer offers the most capability. You can have a
-professional music studio for a fraction of what it used to cost.
+A laptop or desktop computer offers the most capability. In my experience, Macs
+are easier to set up and maintain than Windows & Linux systems.
 - $999+: [2020 MacBook Air](https://www.apple.com/shop/buy-mac/macbook-air)
 - $1799+: [27" iMac](https://www.apple.com/shop/buy-mac/imac/27-inch)
 - $2399+: [16" MacBook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch)
@@ -139,7 +139,7 @@ instruments you can play on your computer, and a vast sound library.
 - $599: [Pro Tools](https://shop.avid.com/ccrz__ProductDetails?sku=DYNA20000)
 
 ### MIDI Controllers
-Turn your computer into an instrument. No audio interface needed.
+Turn your computer into an instrument.
 - $49 for 25 keys: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
 - $119 for 25 keys and a rhythm pad: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
 - $459 for 88 weighted keys: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
