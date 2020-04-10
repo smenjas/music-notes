@@ -1,13 +1,6 @@
 # Music Starter Kit
-
-## Quality Matters
-Quality is a must. I've chosen what I think is the best value in each price
-bracket. My goal is to save you time, so you can start making music.
-
-## Silence is Golden
-I've also chosen the quietest options, to preserve the audience's sanity.
-Acoustic drum sets are not listed, only digital drum sets. If you want quiet,
-choose an electric guitar instead of an acoustic.
+You can make music and record it in high quality, anywhere, without disturbing
+your neighbors. Here's what you need.
 
 ## What do I really need?
 Everyone will benefit from having a [nice pair of
@@ -26,6 +19,11 @@ guitar repair YouTube channel"). Choose what makes sense for you.
 Start with the least expensive option that works for you, then upgrade as
 needed. A smartphone with a [recording app](https://www.apple.com/music-memos/)
 is better than nothing. This guide is for when you want to level up.
+
+## Silence is Golden
+For percussionists, I've chosen a quiet practice pad, and digital drum sets.
+Headphones, electric guitars, and digital drum sets allow you to practice
+quietly.
 
 Prices are from April 8th, 2020, rounded to the nearest U.S. dollar.
 
@@ -108,25 +106,13 @@ These are accessories you will need, to make use of the equipment listed above.
 
 ## Recording
 You want to record each instrument on a separate track, so you can adjust their
-volume independently. That's mixing. How many instruments you can record at
-once depends on your equipment: how many microphones and inputs your have, how
-powerful your computer is, and so on.
+volume independently. How many instruments you can record at once depends on
+your equipment.
 
 You can record and mix music using a computer, or a multitrack recorder, or
 both. Use a multitrack recorder at a venue, then copy the tracks to a computer
 for mixing later. It's up to you. If you don't have a computer, and don't want
 to buy one, a multitrack recorder will work fine.
-
-You can also use smartphones and tablets to make and record music.
-[GarageBand](https://www.apple.com/mac/garageband/) is amazing. I suggest a
-laptop or desktop, because it allows you more room to grow.
-
-You can make music any way you want, and you should. I find the Apple ecosystem
-easier to set up and maintain, so that's what I recommend to newbies. You do
-you.
-
-Obstacles abound with various computer systems, so I suggest buying a fast
-and easy to use system to avoid problems. Time is money.
 
 You will need an audio interface to plug microphones and instruments into a
 computer.
