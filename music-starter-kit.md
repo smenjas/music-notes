@@ -1,21 +1,23 @@
 # Music Starter Kit
 You can make music and record it in high quality, anywhere, without disturbing
-your neighbors. That used to be prohibitively expensive. Today, professional
-music production is within many people's budgets.
+your neighbors. Professional music production used to be prohibitively
+expensive. Today, it's within many people's budgets.
 
 ## What do I really need?
 Everyone will benefit from having a [nice pair of
-headphones](https://smile.amazon.com/dp/B000AJIF4E). A percussionist may only
-need [drum sticks and a practice pad](https://smile.amazon.com/dp/B07W6NXZ15).
-A vocalist may want a microphone and a multitrack recorder. A guitarist may
-want an [electric guitar](https://smile.amazon.com/dp/B07TFR8XBR "Squier
-Telecaster: $178") and [amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox
-Mini5: $164"). Choose what makes sense for you.
+headphones](https://smile.amazon.com/dp/B000AJIF4E "Sony MDR-7506: $90). A
+percussionist may only need [drum sticks and a practice
+pad](https://smile.amazon.com/dp/B07W6NXZ15 "$18"). A vocalist may want a
+microphone and a multitrack recorder. A guitarist may want an [electric
+guitar](https://smile.amazon.com/dp/B07TFR8XBR "Squier Telecaster: $178") and
+[amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox Mini5: $190"). Choose
+what makes sense for you.
 
 ## How much should I spend?
 Start with the least expensive option that works for you, then upgrade as
-needed. A smartphone with a [recording app](https://www.apple.com/music-memos/)
-is better than nothing. This guide is for when you want to level up.
+needed. A smartphone with a [recording app](https://www.apple.com/music-memos/
+"Music Memos: $0) is better than nothing. This guide is for when you want to
+level up.
 
 ## Silence is Golden
 Headphones, electric guitars, digital pianos, and digital drums allow you to
