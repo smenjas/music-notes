@@ -5,7 +5,7 @@ expensive. Today, it's within many people's budgets.
 
 ## What do I really need?
 Everyone will benefit from having a [nice pair of
-headphones](https://smile.amazon.com/dp/B000AJIF4E "Sony MDR-7506: $90). A
+headphones](https://smile.amazon.com/dp/B000AJIF4E "Sony MDR-7506: $90"). A
 percussionist may only need [drum sticks and a practice
 pad](https://smile.amazon.com/dp/B07W6NXZ15 "$18"). A vocalist may want a
 microphone and a multitrack recorder. A guitarist may want an [electric
