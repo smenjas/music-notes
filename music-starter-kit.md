@@ -1,50 +1,64 @@
 # Music Starter Kit
 
+## Quality Matters
 Quality is a must. I've chosen what I think is the best value in each price
-bracket.
+bracket. My goal is to save you time, so you can start making music.
 
+## Silence is Golden
 I've also chosen the quietest options, to preserve the audience's sanity.
 Acoustic drum sets are not listed, only digital drum sets. If you want quiet,
 choose an electric guitar instead of an acoustic.
 
+## What do I really need?
 Everyone will benefit from having a [nice pair of
 headphones](https://smile.amazon.com/dp/B000AJIF4E). A percussionist may only
 need [drum sticks and a practice pad](https://smile.amazon.com/dp/B07W6NXZ15).
 A vocalist may want a microphone, cable, and multitrack recorder. A guitarist
-may want an acoustic guitar, or an electric guitar and amplifier. Any guitar
-may need a slight [truss rod
+may want an [acoustic guitar](https://smile.amazon.com/dp/B01C92QHLC "Yamaha
+FG800: $200"), or an [electric guitar](https://smile.amazon.com/dp/B07TFR8XBR
+"Squier Telecaster: $178") and
+[amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox Mini5: $164"). Any
+guitar may need a slight [truss rod
 adjustment](https://www.youtube.com/channel/UCdr6rJVSSx54ByuY5U2ohTQ "StewMac's
 guitar repair YouTube channel"). Choose what makes sense for you.
 
-You can record music with a computer, or a multitrack recorder. If you want to
-use a computer, you will need an audio interface. If you want to record
-yourself singing and playing guitar at the same time, you either need 2 inputs,
-or an omnidirectional microphone (not listed here). All the mixers listed here
-are also audio interfaces, except for the Pocketstudio & Portastudio multitrack
-recorders.
+## How much should I spend?
+Start with the least expensive option that works for you, then upgrade as
+needed. A smartphone with a [recording app](https://www.apple.com/music-memos/)
+is better than nothing. This guide is for when you want to level up.
 
 Prices are from April 8th, 2020, rounded to the nearest U.S. dollar.
+
+---
+
+- [Music Equipment Grouped by Price](#music-equipment-grouped-by-price)
+  - [$ Budget](#-budget)
+  - [$$ Upgrade](#-upgrade)
+  - [$$$ Splurge](#-resources)
+  - [$$$$ Take My Money](#-take-my-money)
+- [Accessories](#accessories)
+- [Recording](#recording)
+  - [Multitrack Recorders](#multitrack-recorders)
+  - [Computer Hardware](#computer-hardware)
+  - [Computer Software](#computer-software)
+  - [MIDI Controllers](#midi-controllers)
+  - [Audio Interfaces](#audio-interfaces)
+  - [Mixers](#mixers)
+  - [Samplers](#samplers)
+- [Resources](#resources)
 
 ---
 
 ## Music Equipment Grouped by Price
 
 ### $ Budget
-- $18: [Drum sticks with 8" quiet practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
 - $22: [Pyle PDMIC59 Vocal Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
 - $200: [Yamaha FG800 Acoustic Guitar](https://smile.amazon.com/dp/B01C92QHLC)
 - $178: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
 - $230: [Fender Squier Affinity Precision Bass](https://smile.amazon.com/dp/B07B6PZG4L)
-- $164: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
 - $100: [Yamaha PSS-A50 Portable Keyboard](https://smile.amazon.com/dp/B07ZKY4J1G)
+- $18: [Drum sticks with 8" quiet practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
 - $364: [Alesis Nitro Mesh Digital Drum Set](https://smile.amazon.com/dp/B07BW1XJGP)
-- $100: [Boss RC-1 Loop Station Sampler Pedal - 1 input](https://smile.amazon.com/dp/B00OB7K46I)
-- $999: [2020 MacBook Air](https://www.apple.com/shop/buy-mac/macbook-air)
-- $0: [GarageBand](https://www.apple.com/mac/garageband/)
-- $49: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
-- $135: [Tascam US-2x2 Audio Interface - 2 inputs](https://smile.amazon.com/dp/B00MIXF2RS)
-- $129: [Alto ZMX122FX Analog Mixer - 8 inputs](https://smile.amazon.com/dp/B004TM31FG)
-- $129: [Tascam DP-006 Pocketstudio Multitrack Recorder - 6 inputs](https://smile.amazon.com/dp/B00BEGS5NI)
 
 ### $$ Upgrade
 - $99: [Shure SM57 Instrument Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
@@ -56,13 +70,6 @@ Prices are from April 8th, 2020, rounded to the nearest U.S. dollar.
 - $450: [Yamaha P71 Digital Piano with sustain pedal](https://smile.amazon.com/dp/B01LY8OUQW)
 - $500: [Roland TD-1K Digital Drum Set](https://smile.amazon.com/dp/B00OZNYIQA)
 - $699: [Nord Drum 3P Digital Percussion Pad](https://smile.amazon.com/dp/B01G7EFJ3U)
-- $300: [Boss RC-30 Loop Station Sampler Pedal - 2 inputs](https://smile.amazon.com/dp/B004J24YZ2)
-- $1799: [27" iMac](https://www.apple.com/shop/buy-mac/imac/27-inch)
-- $69: [Ableton Live](https://www.ableton.com/en/shop/live/)
-- $119: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
-- $230: [Tascam US-4x4 Audio Interface - 4 inputs](https://smile.amazon.com/dp/B00MIXF1JW)
-- $174: [Yamaha MG10XU Analog Mixer - 10 inputs](https://smile.amazon.com/dp/B076M3PWKC)
-- $270: [Tascam DP-03SD Portastudio Multitrack Recorder - 8 inputs](https://smile.amazon.com/dp/B00GGN4NXA)
 
 ### $$$ Splurge
 - $159: [Shure Beta 58A Vocal Microphone](https://smile.amazon.com/dp/B0002BACB4)
@@ -73,12 +80,6 @@ Prices are from April 8th, 2020, rounded to the nearest U.S. dollar.
 - $699: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
 - $700: [Roland TD-1DMK Digital Drum Set](https://smile.amazon.com/dp/B07HC2ZMN4)
 - $740: [Roland Octapad Digital Percussion Pad](https://smile.amazon.com/dp/B0089KQQNI)
-- $580: [Boss RC-300 Loop Station Sampler Pedal - 3 inputs](https://smile.amazon.com/dp/B005P4NVJI)
-- $2399: [16" MacBook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch)
-- $200: [Logic Pro](https://www.apple.com/logic-pro/)
-- $459: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
-- $270: [Tascam US-16x08 Audio Interface - 16 inputs](https://smile.amazon.com/dp/B00MIXF200)
-- $684: [Tascam Model 16 Analog Mixer & Multitrack Recorder - 16 inputs](https://smile.amazon.com/dp/B07Y3ZT2QV)
 
 ### $$$$ Take My Money
 - $249: [Shure Beta 87C Vocal Microphone](https://smile.amazon.com/dp/B0002DVKZO)
@@ -89,11 +90,6 @@ Prices are from April 8th, 2020, rounded to the nearest U.S. dollar.
 - $1999: [Music Man Joe Dart Signature Bass](https://www.music-man.com/instruments/basses/joe-dart)
 - $4499: [Nord Stage 3 Digital Piano](https://smile.amazon.com/dp/B07LGD741N)
 - $1800: [Roland TD-17KVX Digital Drum Set](https://smile.amazon.com/dp/B07D1G9G54)
-- $4999: [iMac Pro](https://www.apple.com/shop/buy-mac/imac-pro)
-- $599: [Pro Tools](https://shop.avid.com/ccrz__ProductDetails?sku=DYNA20000)
-- $500: [Tascam US-20x20 Audio Interface - 20 inputs](https://smile.amazon.com/dp/B016R8CQJG)
-- $1000: [Yamaha EMX5016CF Powered Mixer - 16 inputs](https://smile.amazon.com/dp/B000YID5IW)
-- $1000: [Zoom LiveTrak L-20 Digital Mixer & Multitrack Recorder - 20 inputs](https://smile.amazon.com/dp/B07FKBFK11)
 
 ---
 
@@ -106,6 +102,85 @@ These are accessories you will need, to make use of the equipment listed above.
 - $25: [Samson MK-10 Microphone Stand](https://smile.amazon.com/dp/B003CLIPHO)
 - $35: [RockJam Xfinity Keyboard Stand](https://smile.amazon.com/dp/B01B15JPCQ)
 - $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E): the standard for audio engineers
+- $164: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
+
+---
+
+## Recording
+You want to record each instrument on a separate track, so you can adjust their
+volume independently. That's mixing. How many instruments you can record at
+once depends on your equipment: how many microphones and inputs your have, how
+powerful your computer is, and so on.
+
+You can record and mix music using a computer, or a multitrack recorder, or
+both. Use a multitrack recorder at a venue, then copy the tracks to a computer
+for mixing later. It's up to you. If you don't have a computer, and don't want
+to buy one, a multitrack recorder will work fine.
+
+You can also use smartphones and tablets to make and record music.
+[GarageBand](https://www.apple.com/mac/garageband/) is amazing. I suggest a
+laptop or desktop, because it allows you more room to grow.
+
+You can make music any way you want, and you should. I find the Apple ecosystem
+easier to set up and maintain, so that's what I recommend to newbies. You do
+you.
+
+Obstacles abound with various computer systems, so I suggest buying a fast
+and easy to use system to avoid problems. Time is money.
+
+You will need an audio interface to plug microphones and instruments into a
+computer.
+
+### Multitrack Recorders
+If you have a multitrack recorder, you don't need a computer, but you might
+want one anyway. These are also audio interfaces, except for the Pocketstudio
+and Portastudio.
+- $129: [Tascam DP-006 Pocketstudio Multitrack Recorder - 6 inputs](https://smile.amazon.com/dp/B00BEGS5NI)
+- $270: [Tascam DP-03SD Portastudio Multitrack Recorder - 8 inputs](https://smile.amazon.com/dp/B00GGN4NXA)
+- $684: [Tascam Model 16 Analog Mixer & Multitrack Recorder - 16 inputs](https://smile.amazon.com/dp/B07Y3ZT2QV)
+- $1000: [Zoom LiveTrak L-20 Digital Mixer & Multitrack Recorder - 20 inputs](https://smile.amazon.com/dp/B07FKBFK11)
+
+### Computer Hardware
+A laptop or desktop computer offers the most capability. You can have a
+professional music studio for a fraction of what it used to cost.
+- $999+: [2020 MacBook Air](https://www.apple.com/shop/buy-mac/macbook-air)
+- $1799+: [27" iMac](https://www.apple.com/shop/buy-mac/imac/27-inch)
+- $2399+: [16" MacBook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch)
+- $4999+: [iMac Pro](https://www.apple.com/shop/buy-mac/imac-pro)
+
+### Computer Software
+[GarageBand](https://www.apple.com/mac/garageband/) has tutorials, virtual
+instruments you can play on your computer, and a vast sound library.
+- $0: [Music Memos](https://www.apple.com/music-memos/)
+- $0: [GarageBand](https://www.apple.com/mac/garageband/)
+- $69: [Ableton Live](https://www.ableton.com/en/shop/live/)
+- $200: [Logic Pro](https://www.apple.com/logic-pro/)
+- $599: [Pro Tools](https://shop.avid.com/ccrz__ProductDetails?sku=DYNA20000)
+
+### MIDI Controllers
+Turn your computer into an instrument. No audio interface needed.
+- $49 for 25 keys: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
+- $119 for 25 keys and a rhythm pad: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
+- $459 for 88 weighted keys: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
+
+### Audio Interfaces
+Plug microphones and instruments into your computer.
+- $135 for 2 inputs: [Tascam US-2x2 Audio Interface](https://smile.amazon.com/dp/B00MIXF2RS)
+- $230 for 4 inputs: [Tascam US-4x4 Audio Interface](https://smile.amazon.com/dp/B00MIXF1JW)
+- $270 for 16 inputs: [Tascam US-16x08 Audio Interface](https://smile.amazon.com/dp/B00MIXF200)
+- $500 for 20 inputs: [Tascam US-20x20 Audio Interface](https://smile.amazon.com/dp/B016R8CQJG)
+
+### Mixers
+These are also audio interfaces, with sliders & more knobs.
+- $129 for 8 inputs: [Alto ZMX122FX Analog Mixer](https://smile.amazon.com/dp/B004TM31FG)
+- $174 for 10 inputs: [Yamaha MG10XU Analog Mixer](https://smile.amazon.com/dp/B076M3PWKC)
+- $1000 for 16 inputs: [Yamaha EMX5016CF Powered Mixer](https://smile.amazon.com/dp/B000YID5IW)
+
+### Samplers
+Loop short recordings, find harmony with yourself.
+- $100 for 1 input: [Boss RC-1 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B00OB7K46I)
+- $300 for 2 input: [Boss RC-30 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J24YZ2)
+- $580 for 3 input: [Boss RC-300 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B005P4NVJI)
 
 ---
 
