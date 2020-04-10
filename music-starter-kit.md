@@ -161,7 +161,7 @@ Plug microphones and instruments into your computer.
 - $500 for 20 inputs: [Tascam US-20x20 Audio Interface](https://smile.amazon.com/dp/B016R8CQJG)
 
 ### Mixers
-These are also audio interfaces, with sliders & more knobs.
+These particular mixers are also audio interfaces, with more knobs.
 - $129 for 8 inputs: [Alto ZMX122FX Analog Mixer](https://smile.amazon.com/dp/B004TM31FG)
 - $171 for 10 inputs: [Yamaha MG10XU Analog Mixer](https://smile.amazon.com/dp/B076M3PWKC)
 - $1000 for 16 inputs: [Yamaha EMX5016CF Powered Mixer](https://smile.amazon.com/dp/B000YID5IW)
