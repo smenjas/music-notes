@@ -152,6 +152,8 @@ instruments you can play on your computer, and a vast sound library.
 Turn your computer into an instrument.
 - $49 for 25 keys: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
 - $119 for 25 keys and a rhythm pad: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
+- $161 for 61 semi weighted keys: [M-Audio Keystation 61 MK3 MIDI Keyboard](https://smile.amazon.com/dp/B07DDN4PYD)
+- $395 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
 - $459 for 88 weighted keys: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
 
 ### Audio Interfaces
