@@ -21,14 +21,12 @@ is better than nothing. This guide is for when you want to level up.
 Headphones, electric guitars, and digital drum sets allow you to practice
 quietly.
 
-Prices are from April 8th, 2020, rounded to the nearest U.S. dollar.
-
 ---
 
 - [Music Equipment Grouped by Price](#music-equipment-grouped-by-price)
   - [$ Budget](#-budget)
   - [$$ Upgrade](#-upgrade)
-  - [$$$ Splurge](#-resources)
+  - [$$$ Splurge](#-splurge)
   - [$$$$ Take My Money](#-take-my-money)
 - [Accessories](#accessories)
 - [Recording](#recording)
@@ -44,6 +42,7 @@ Prices are from April 8th, 2020, rounded to the nearest U.S. dollar.
 ---
 
 ## Music Equipment Grouped by Price
+Prices are from April 8th, 2020, rounded to the nearest U.S. dollar.
 
 ### $ Budget
 - $22: [Pyle PDMIC59 Vocal Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
