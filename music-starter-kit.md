@@ -72,6 +72,7 @@ Prices are from April 9th, 2020, rounded to the nearest U.S. dollar.
 
 ### Keyboards
 - $100: [Yamaha PSS-A50 Portable Keyboard](https://smile.amazon.com/dp/B07ZKY4J1G)
+- $229: [Casio WK-245 76-Key Portable Keyboard](https://smile.amazon.com/dp/B00MJ83QZW)
 - $450: [Yamaha P71 Digital Piano with sustain pedal](https://smile.amazon.com/dp/B01LY8OUQW)
 - $698: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
 - $4499: [Nord Stage 3 Digital Piano](https://smile.amazon.com/dp/B07LGD741N)
