@@ -1,6 +1,7 @@
 # Music Starter Kit
 You can make music and record it in high quality, anywhere, without disturbing
-your neighbors. Here's what you need.
+your neighbors. This used to be prohibitively expensive. Today, professional
+music production is within many people's budgets.
 
 ## What do I really need?
 Everyone will benefit from having a [nice pair of
