@@ -89,7 +89,6 @@ Prices are from April 9th, 2020, rounded to the nearest U.S. dollar.
 ---
 
 ## Accessories
-These are accessories you will need, to make use of the equipment listed above.
 - $6: [Ernie Ball Guitar Strap](https://smile.amazon.com/dp/B0002D0E92)
 - $12: [XLR Patch Cable, 15' long](https://smile.amazon.com/dp/B00M090FDG): for microphones
 - $13: [¼" Patch Cable, 15' long, black](https://smile.amazon.com/dp/B001RXSFME): for guitars
