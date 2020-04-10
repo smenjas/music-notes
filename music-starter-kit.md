@@ -1,6 +1,6 @@
 # Music Starter Kit
 You can make music and record it in high quality, anywhere, without disturbing
-your neighbors. This used to be prohibitively expensive. Today, professional
+your neighbors. That used to be prohibitively expensive. Today, professional
 music production is within many people's budgets.
 
 ## What do I really need?
@@ -18,18 +18,20 @@ needed. A smartphone with a [recording app](https://www.apple.com/music-memos/)
 is better than nothing. This guide is for when you want to level up.
 
 ## Silence is Golden
-Headphones, electric guitars, and digital drum sets allow you to practice
-quietly.
+Headphones, electric guitars, digital pianos, and digital drums allow you to
+practice *quietly*.
 
 ---
 
-- [Music Equipment Grouped by Price](#music-equipment-grouped-by-price)
-  - [$ Budget](#-budget)
-  - [$$ Upgrade](#-upgrade)
-  - [$$$ Splurge](#-splurge)
-  - [$$$$ Take My Money](#-take-my-money)
+- [Musical Instruments](#musical-instruments)
+  - [Acoustic Guitars](#acoustic-guitars)
+  - [Electric Guitars](#electric-guitars)
+  - [Bass Guitars](#bass-guitars)
+  - [Keyboards](#keyboards)
+  - [Percussion](#percussion)
 - [Accessories](#accessories)
 - [Recording](#recording)
+  - [Microphones](#microphones)
   - [Multitrack Recorders](#multitrack-recorders)
   - [Computer Hardware](#computer-hardware)
   - [Computer Software](#computer-software)
@@ -41,47 +43,46 @@ quietly.
 
 ---
 
-## Music Equipment Grouped by Price
+## Musical Instruments
 Prices are from April 9th, 2020, rounded to the nearest U.S. dollar.
 
-### $ Budget
-- $22: [Pyle PDMIC59 Vocal Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
+### Acoustic Guitars
 - $200: [Yamaha FG800 Acoustic Guitar](https://smile.amazon.com/dp/B01C92QHLC)
-- $178: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
-- $230: [Fender Squier Affinity Precision Bass](https://smile.amazon.com/dp/B07B6PZG4L)
-- $100: [Yamaha PSS-A50 Portable Keyboard](https://smile.amazon.com/dp/B07ZKY4J1G)
-- $18: [Drum sticks with 8" quiet practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
-- $364: [Alesis Nitro Mesh Digital Drum Set](https://smile.amazon.com/dp/B07BW1XJGP)
-
-### $$ Upgrade
-- $99: [Shure SM57 Instrument Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
-- $104: [Shure SM58S Vocal Microphone](https://smile.amazon.com/dp/B0000AQRSU)
 - $330: [Fender CD-60SCE Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07F39CHRZ)
-- $230: [Fender Squier Affinity Telecaster Electric Guitar](https://smile.amazon.com/dp/B0002GOE6S)
-- $229: [Fender Squier Affinity Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07FYKN2RJ)
-- $400: [Fender Classic Vibe '50s Precision Bass](https://smile.amazon.com/dp/B07T7XJXWK)
-- $450: [Yamaha P71 Digital Piano with sustain pedal](https://smile.amazon.com/dp/B01LY8OUQW)
-- $500: [Roland TD-1K Digital Drum Set](https://smile.amazon.com/dp/B00OZNYIQA)
-- $699: [Nord Drum 3P Digital Percussion Pad](https://smile.amazon.com/dp/B01G7EFJ3U)
-
-### $$$ Splurge
-- $159: [Shure Beta 58A Vocal Microphone](https://smile.amazon.com/dp/B0002BACB4)
 - $829: [Martin D-10E Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07MWY9JXR)
-- $675: [Fender Player Telecaster Electric Guitar](https://smile.amazon.com/dp/B07V7XZZM3)
-- $700: [Fender Player Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07CTX2F5F)
-- $700: [Fender Player Precision Bass](https://smile.amazon.com/dp/B07CTW4T7B)
-- $698: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
-- $700: [Roland TD-1DMK Digital Drum Set](https://smile.amazon.com/dp/B07HC2ZMN4)
-- $740: [Roland Octapad Digital Percussion Pad](https://smile.amazon.com/dp/B0089KQQNI)
-
-### $$$$ Take My Money
-- $249: [Shure Beta 87C Vocal Microphone](https://smile.amazon.com/dp/B0002DVKZO)
 - $1299: [Martin 15 Series Auditorium Acoustic Guitar](https://smile.amazon.com/dp/B003K0IRLQ)
+
+### Electric Guitars
+#### Telecaster
+- $178: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
+- $230: [Fender Squier Affinity Telecaster Electric Guitar](https://smile.amazon.com/dp/B0002GOE6S)
+- $675: [Fender Player Telecaster Electric Guitar](https://smile.amazon.com/dp/B07V7XZZM3)
 - $900: [Fender Vintera '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07SLGVSQC)
+#### Stratocaster
+- $229: [Fender Squier Affinity Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07FYKN2RJ)
+- $700: [Fender Player Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07CTX2F5F)
 - $1450: [Fender American Professional Stratocaster Electric Guitar](https://smile.amazon.com/dp/B01MTN0S02)
+
+### Bass Guitars
+- $230: [Fender Squier Affinity Precision Bass](https://smile.amazon.com/dp/B07B6PZG4L)
+- $400: [Fender Classic Vibe '50s Precision Bass](https://smile.amazon.com/dp/B07T7XJXWK)
+- $700: [Fender Player Precision Bass](https://smile.amazon.com/dp/B07CTW4T7B)
 - $1225: [Fender Flea Signature Jazz Bass](https://smile.amazon.com/dp/B01HT2FFJ2)
 - $1999: [Music Man Joe Dart Signature Bass](https://www.music-man.com/instruments/basses/joe-dart)
+
+### Keyboards
+- $100: [Yamaha PSS-A50 Portable Keyboard](https://smile.amazon.com/dp/B07ZKY4J1G)
+- $450: [Yamaha P71 Digital Piano with sustain pedal](https://smile.amazon.com/dp/B01LY8OUQW)
+- $698: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
 - $4499: [Nord Stage 3 Digital Piano](https://smile.amazon.com/dp/B07LGD741N)
+
+### Percussion
+- $18: [Drum sticks with 8" quiet practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
+- $364: [Alesis Nitro Mesh Digital Drum Set](https://smile.amazon.com/dp/B07BW1XJGP)
+- $500: [Roland TD-1K Digital Drum Set](https://smile.amazon.com/dp/B00OZNYIQA)
+- $699: [Nord Drum 3P Digital Percussion Pad](https://smile.amazon.com/dp/B01G7EFJ3U)
+- $700: [Roland TD-1DMK Digital Drum Set](https://smile.amazon.com/dp/B07HC2ZMN4)
+- $740: [Roland Octapad Digital Percussion Pad](https://smile.amazon.com/dp/B0089KQQNI)
 - $1800: [Roland TD-17KVX Digital Drum Set](https://smile.amazon.com/dp/B07D1G9G54)
 
 ---
@@ -112,14 +113,21 @@ to buy one, a multitrack recorder will work fine.
 You will need an audio interface to plug microphones and instruments into a
 computer.
 
+### Microphones
+- $22: [Pyle PDMIC59 Vocal Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
+- $99: [Shure SM57 Instrument Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
+- $104: [Shure SM58S Vocal Microphone](https://smile.amazon.com/dp/B0000AQRSU)
+- $159: [Shure Beta 58A Vocal Microphone](https://smile.amazon.com/dp/B0002BACB4)
+- $249: [Shure Beta 87C Vocal Microphone](https://smile.amazon.com/dp/B0002DVKZO)
+
 ### Multitrack Recorders
 If you have a multitrack recorder, you don't need a computer, but you might
 want one anyway. These are also audio interfaces, except for the Pocketstudio
 and Portastudio.
-- $129: [Tascam DP-006 Pocketstudio Multitrack Recorder - 6 inputs](https://smile.amazon.com/dp/B00BEGS5NI)
-- $270: [Tascam DP-03SD Portastudio Multitrack Recorder - 8 inputs](https://smile.amazon.com/dp/B00GGN4NXA)
-- $684: [Tascam Model 16 Analog Mixer & Multitrack Recorder - 16 inputs](https://smile.amazon.com/dp/B07Y3ZT2QV)
-- $1000: [Zoom LiveTrak L-20 Digital Mixer & Multitrack Recorder - 20 inputs](https://smile.amazon.com/dp/B07FKBFK11)
+- $129 for 6 inputs: [Tascam DP-006 Pocketstudio Multitrack Recorder](https://smile.amazon.com/dp/B00BEGS5NI)
+- $270 for 8 inputs: [Tascam DP-03SD Portastudio Multitrack Recorder](https://smile.amazon.com/dp/B00GGN4NXA)
+- $684 for 16 inputs: [Tascam Model 16 Analog Mixer & Multitrack Recorder](https://smile.amazon.com/dp/B07Y3ZT2QV)
+- $1000 for 20 inputs: [Zoom LiveTrak L-20 Digital Mixer & Multitrack Recorder](https://smile.amazon.com/dp/B07FKBFK11)
 
 ### Computer Hardware
 A laptop or desktop computer offers the most capability. In my experience, Macs
