@@ -153,6 +153,8 @@ Turn your computer into an instrument.
 - $49 for 25 keys: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
 - $119 for 25 keys and a rhythm pad: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
 - $161 for 61 semi weighted keys: [M-Audio Keystation 61 MK3 MIDI Keyboard](https://smile.amazon.com/dp/B07DDN4PYD)
+- $249 for 25 semi weighted keys and a rhythm pad: [Akai MPK225 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ77TRI)
+- $379 for 49 semi weighted keys and a rhythm pad: [Akai MPK249 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7FGSC)
 - $395 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
 - $459 for 88 weighted keys: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
 
@@ -173,7 +175,10 @@ These particular mixers are also audio interfaces, with more knobs.
 ### Samplers
 Loop short recordings, find harmony with yourself.
 - $100 for 1 input: [Boss RC-1 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B00OB7K46I)
+- $178 for 1 input: [Boss RC-3 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J27QXY)
 - $300 for 2 inputs: [Boss RC-30 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J24YZ2)
+- $300 for 2 inputs: [Boss RC-202 Loop Station Desktop Sampler](https://smile.amazon.com/dp/B01EVR13MQ)
+- $500 for 3 inputs: [Boss RC-505 Loop Station Desktop Sampler](https://smile.amazon.com/dp/B00C6YAX6E)
 - $580 for 3 inputs: [Boss RC-300 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B005P4NVJI)
 
 ---
