@@ -104,8 +104,8 @@ Prices are from April 10th, 2020, rounded to the nearest U.S. dollar.
 
 ## Recording
 You want to record each instrument on a separate track, so you can adjust their
-volume independently. How many instruments you can record at once depends on
-your equipment.
+volume independently. Your recording equipment determines how many instruments
+you can record at once.
 
 You can record and mix music using a computer, or a multitrack recorder, or
 both. Use a multitrack recorder at a venue, then copy the tracks to a computer
@@ -116,6 +116,7 @@ You will need an audio interface to plug microphones and instruments into a
 computer.
 
 ### Microphones
+- $13: [Pyle PDMIC78 Instrument Microphone with cable](https://smile.amazon.com/dp/B005BSOVRY)
 - $22: [Pyle PDMIC59 Vocal Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
 - $99: [Shure SM57 Instrument Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
 - $104: [Shure SM58S Vocal Microphone](https://smile.amazon.com/dp/B0000AQRSU)
@@ -140,10 +141,8 @@ are easier to set up and maintain than Windows & Linux systems.
 - $4999+: [iMac Pro](https://www.apple.com/shop/buy-mac/imac-pro)
 
 ### Computer Software
-[GarageBand](https://www.apple.com/mac/garageband/) has tutorials, virtual
-instruments you can play on your computer, and a vast sound library.
 - $0: [Music Memos](https://www.apple.com/music-memos/)
-- $0: [GarageBand](https://www.apple.com/mac/garageband/)
+- $0: [GarageBand](https://www.apple.com/mac/garageband/) is amazing, and has lessons.
 - $69: [Ableton Live](https://www.ableton.com/en/shop/live/)
 - $200: [Logic Pro](https://www.apple.com/logic-pro/)
 - $599: [Pro Tools](https://shop.avid.com/ccrz__ProductDetails?sku=DYNA20000)
@@ -174,12 +173,12 @@ Turn your computer into a musical instrument.
 
 ### Samplers
 Loop short recordings, find harmony with yourself.
-- $100 for 1 input: [Boss RC-1 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B00OB7K46I)
-- $178 for 1 input: [Boss RC-3 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J27QXY)
-- $300 for 2 inputs: [Boss RC-30 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J24YZ2)
-- $300 for 2 inputs: [Boss RC-202 Loop Station Desktop Sampler](https://smile.amazon.com/dp/B01EVR13MQ)
-- $500 for 3 inputs: [Boss RC-505 Loop Station Desktop Sampler](https://smile.amazon.com/dp/B00C6YAX6E)
-- $580 for 3 inputs: [Boss RC-300 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B005P4NVJI)
+- $100 for 2 inputs, 1 track, & 12 minutes: [Boss RC-1 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B00OB7K46I)
+- $178 for 3 inputs, 1 track, & 3 hours: [Boss RC-3 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J27QXY)
+- $300 for 3 inputs, 2 tracks & 3 hours: [Boss RC-30 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J24YZ2)
+- $300 for 3 inputs, 2 tracks & 3 hours: [Boss RC-202 Loop Station Desktop Sampler](https://smile.amazon.com/dp/B01EVR13MQ)
+- $500 for 4 inputs, 4 tracks & 3 hours: [Boss RC-505 Loop Station Desktop Sampler](https://smile.amazon.com/dp/B00C6YAX6E)
+- $580 for 4 inputs, 3 tracks & 3 hours: [Boss RC-300 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B005P4NVJI)
 
 ---
 
