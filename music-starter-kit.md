@@ -118,12 +118,12 @@ You will need an audio interface to plug microphones and instruments into a
 computer.
 
 ### Microphones
-- $13: [Pyle PDMIC78 Instrument Microphone with cable](https://smile.amazon.com/dp/B005BSOVRY)
-- $22: [Pyle PDMIC59 Vocal Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
-- $99: [Shure SM57 Instrument Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
-- $104: [Shure SM58S Vocal Microphone](https://smile.amazon.com/dp/B0000AQRSU)
-- $159: [Shure Beta 58A Vocal Microphone](https://smile.amazon.com/dp/B0002BACB4)
-- $249: [Shure Beta 87C Vocal Microphone](https://smile.amazon.com/dp/B0002DVKZO)
+- $13: [Pyle PDMIC78 Instrument Dynamic Microphone with cable](https://smile.amazon.com/dp/B005BSOVRY)
+- $22: [Pyle PDMIC59 Vocal Dynamic Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
+- $99: [Shure SM57 Instrument Dynamic Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
+- $104: [Shure SM58S Vocal Dynamic Microphone](https://smile.amazon.com/dp/B0000AQRSU)
+- $159: [Shure Beta 58A Vocal Dynamic Microphone](https://smile.amazon.com/dp/B0002BACB4)
+- $249: [Shure Beta 87C Vocal Condenser Microphone](https://smile.amazon.com/dp/B0002DVKZO), requires [phantom power](https://en.wikipedia.org/wiki/Phantom_power)
 
 ### Multitrack Recorders
 If you have a multitrack recorder, you don't need a computer, but you might
