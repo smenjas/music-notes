@@ -34,12 +34,12 @@ practice *quietly*.
 - [Accessories](#accessories)
 - [Recording](#recording)
   - [Microphones](#microphones)
+  - [Samplers](#samplers)
   - [Multitrack Recorders](#multitrack-recorders)
-  - [Computer Hardware](#computer-hardware)
-  - [Computer Software](#computer-software)
   - [Audio Interfaces](#audio-interfaces)
   - [MIDI Controllers](#midi-controllers)
-  - [Samplers](#samplers)
+  - [Computer Hardware](#computer-hardware)
+  - [Computer Software](#computer-software)
 - [Resources](#resources)
 
 ---
