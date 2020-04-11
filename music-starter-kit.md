@@ -37,9 +37,9 @@ practice *quietly*.
   - [Multitrack Recorders](#multitrack-recorders)
   - [Computer Hardware](#computer-hardware)
   - [Computer Software](#computer-software)
-  - [MIDI Controllers](#midi-controllers)
   - [Audio Interfaces](#audio-interfaces)
   - [Mixers](#mixers)
+  - [MIDI Controllers](#midi-controllers)
   - [Samplers](#samplers)
 - [Resources](#resources)
 
@@ -148,18 +148,8 @@ instruments you can play on your computer, and a vast sound library.
 - $200: [Logic Pro](https://www.apple.com/logic-pro/)
 - $599: [Pro Tools](https://shop.avid.com/ccrz__ProductDetails?sku=DYNA20000)
 
-### MIDI Controllers
-Turn your computer into an instrument.
-- $49 for 25 keys: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
-- $119 for 25 keys and a rhythm pad: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
-- $161 for 61 semi weighted keys: [M-Audio Keystation 61 MK3 MIDI Keyboard](https://smile.amazon.com/dp/B07DDN4PYD)
-- $249 for 25 semi weighted keys and a rhythm pad: [Akai MPK225 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ77TRI)
-- $379 for 49 semi weighted keys and a rhythm pad: [Akai MPK249 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7FGSC)
-- $395 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
-- $459 for 88 weighted keys: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
-
 ### Audio Interfaces
-Plug microphones and instruments into your computer.
+Plug microphones and musical instruments into your computer.
 - $100 for 1 input: [Tascam US-1x2 Audio Interface](https://smile.amazon.com/dp/B074Q5W46C)
 - $143 for 2 inputs: [Tascam US-2x2 Audio Interface](https://smile.amazon.com/dp/B00MIXF2RS)
 - $225 for 4 inputs: [Tascam US-4x4 Audio Interface](https://smile.amazon.com/dp/B00MIXF1JW)
@@ -171,6 +161,16 @@ These particular mixers are also audio interfaces, with more knobs.
 - $129 for 8 inputs: [Alto ZMX122FX Analog Mixer](https://smile.amazon.com/dp/B004TM31FG)
 - $219 for 10 inputs: [Yamaha MG10XU Analog Mixer](https://smile.amazon.com/dp/B076M3PWKC)
 - $1000 for 16 inputs: [Yamaha EMX5016CF Powered Mixer](https://smile.amazon.com/dp/B000YID5IW)
+
+### MIDI Controllers
+Turn your computer into a musical instrument.
+- $49 for 25 keys: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
+- $119 for 25 keys and a rhythm pad: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
+- $161 for 61 semi weighted keys: [M-Audio Keystation 61 MK3 MIDI Keyboard](https://smile.amazon.com/dp/B07DDN4PYD)
+- $249 for 25 semi weighted keys and a rhythm pad: [Akai MPK225 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ77TRI)
+- $379 for 49 semi weighted keys and a rhythm pad: [Akai MPK249 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7FGSC)
+- $395 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
+- $459 for 88 weighted keys: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
 
 ### Samplers
 Loop short recordings, find harmony with yourself.
