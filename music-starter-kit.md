@@ -152,11 +152,11 @@ are easier to set up and maintain than Windows & Linux systems.
 
 ### Audio Interfaces
 Plug microphones and musical instruments into your computer.
-- $100 for 1 input: [Tascam US-1x2 Audio Interface](https://smile.amazon.com/dp/B074Q5W46C)
-- $143 for 2 inputs: [Tascam US-2x2 Audio Interface](https://smile.amazon.com/dp/B00MIXF2RS)
-- $225 for 4 inputs: [Tascam US-4x4 Audio Interface](https://smile.amazon.com/dp/B00MIXF1JW)
-- $270 for 16 inputs: [Tascam US-16x08 Audio Interface](https://smile.amazon.com/dp/B00MIXF200)
-- $500 for 20 inputs: [Tascam US-20x20 Audio Interface](https://smile.amazon.com/dp/B016R8CQJG)
+- $100 for 1 microphone & 1 instrument input: [Tascam US-1x2 Audio Interface](https://smile.amazon.com/dp/B074Q5W46C)
+- $143 for 2 microphone or instrument inputs: [Tascam US-2x2 Audio Interface](https://smile.amazon.com/dp/B00MIXF2RS)
+- $225 for 4 microphone or instrument inputs: [Tascam US-4x4 Audio Interface](https://smile.amazon.com/dp/B00MIXF1JW)
+- $270 for 8 microphone & 2 instrument inputs: [Tascam US-16x08 Audio Interface](https://smile.amazon.com/dp/B00MIXF200)
+- $500 for 8 microphone or instrument inputs: [Tascam US-20x20 Audio Interface](https://smile.amazon.com/dp/B016R8CQJG)
 
 ### Mixers
 These particular mixers are also audio interfaces, with more knobs.
