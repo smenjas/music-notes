@@ -9,8 +9,8 @@ headphones](https://smile.amazon.com/dp/B000AJIF4E "Sony MDR-7506: $90"). A
 percussionist may only need [drum sticks and a practice
 pad](https://smile.amazon.com/dp/B07W6NXZ15 "$18"). A vocalist may want a
 microphone and a multitrack recorder. A guitarist may want an [electric
-guitar](https://smile.amazon.com/dp/B07TFR8XBR "Squier Telecaster: $178") and
-[amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox Mini5: $152"). Choose
+guitar](https://smile.amazon.com/dp/B07TFR8XBR "Squier Telecaster: $179") and
+[amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox Mini5: $164"). Choose
 what makes sense for you.
 
 ## How much should I spend?
@@ -45,7 +45,7 @@ practice *quietly*.
 ---
 
 ## Musical Instruments
-Prices are from April 10th, 2020, rounded to the nearest U.S. dollar.
+Prices are from April 11th, 2020, rounded up to the nearest U.S. dollar.
 
 ### Acoustic Guitars
 - $200: [Yamaha FG800 Acoustic Guitar](https://smile.amazon.com/dp/B01C92QHLC)
@@ -55,7 +55,7 @@ Prices are from April 10th, 2020, rounded to the nearest U.S. dollar.
 
 ### Electric Guitars
 - [Telecasters](https://smile.amazon.com/s?k=telecaster)
-  - $178: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
+  - $179: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
   - $230: [Fender Squier Affinity Telecaster Electric Guitar](https://smile.amazon.com/dp/B0002GOE6S)
   - $675: [Fender Player Telecaster Electric Guitar](https://smile.amazon.com/dp/B07V7XZZM3)
   - $900: [Fender Vintera '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07SLGVSQC)
@@ -75,12 +75,12 @@ Prices are from April 10th, 2020, rounded to the nearest U.S. dollar.
 - $100: [Yamaha PSS-A50 Portable Keyboard](https://smile.amazon.com/dp/B07ZKY4J1G)
 - $229: [Casio WK-245 76-Key Portable Keyboard](https://smile.amazon.com/dp/B00MJ83QZW)
 - $450: [Yamaha P71 Digital Piano with sustain pedal](https://smile.amazon.com/dp/B01LY8OUQW)
-- $699: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
+- $698: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
 - $4499: [Nord Stage 3 Digital Piano](https://smile.amazon.com/dp/B07LGD741N)
 
 ### Percussion
 - $18: [Drum sticks with 8" quiet practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
-- $364: [Alesis Nitro Mesh Digital Drum Set](https://smile.amazon.com/dp/B07BW1XJGP)
+- $379: [Alesis Nitro Mesh Digital Drum Set](https://smile.amazon.com/dp/B07BW1XJGP)
 - $500: [Roland TD-1K Digital Drum Set](https://smile.amazon.com/dp/B00OZNYIQA)
 - $699: [Nord Drum 3P Digital Percussion Pad](https://smile.amazon.com/dp/B01G7EFJ3U)
 - $700: [Roland TD-1DMK Digital Drum Set](https://smile.amazon.com/dp/B07HC2ZMN4)
@@ -100,7 +100,7 @@ Prices are from April 10th, 2020, rounded to the nearest U.S. dollar.
 - $25: [Samson MK-10 Microphone Stand](https://smile.amazon.com/dp/B003CLIPHO)
 - $35: [RockJam Xfinity Keyboard Stand](https://smile.amazon.com/dp/B01B15JPCQ)
 - $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E): the standard for audio engineers
-- $152: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
+- $164: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
 
 ---
 
@@ -119,7 +119,7 @@ computer.
 
 ### Microphones
 - $13: [Pyle PDMIC78 Instrument Dynamic Microphone with cable](https://smile.amazon.com/dp/B005BSOVRY)
-- $22: [Pyle PDMIC59 Vocal Dynamic Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
+- $23: [Pyle PDMIC59 Vocal Dynamic Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
 - $99: [Shure SM57 Instrument Dynamic Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
 - $104: [Shure SM58S Vocal Dynamic Microphone](https://smile.amazon.com/dp/B0000AQRSU)
 - $159: [Shure Beta 58A Vocal Dynamic Microphone](https://smile.amazon.com/dp/B0002BACB4)
@@ -140,23 +140,23 @@ want one anyway. These are also audio interfaces, except for the Pocketstudio
 and Portastudio.
 - $129 for 6 inputs: [Tascam DP-006 Pocketstudio Multitrack Recorder](https://smile.amazon.com/dp/B00BEGS5NI)
 - $270 for 8 inputs: [Tascam DP-03SD Portastudio Multitrack Recorder](https://smile.amazon.com/dp/B00GGN4NXA)
-- $684 for 16 inputs: [Tascam Model 16 Analog Mixer & Multitrack Recorder](https://smile.amazon.com/dp/B07Y3ZT2QV)
+- $685 for 16 inputs: [Tascam Model 16 Analog Mixer & Multitrack Recorder](https://smile.amazon.com/dp/B07Y3ZT2QV)
 - $1000 for 20 inputs: [Zoom LiveTrak L-20 Digital Mixer & Multitrack Recorder](https://smile.amazon.com/dp/B07FKBFK11)
 
 ### Audio Interfaces
 Plug microphones and musical instruments into your computer.
-- $100 for 1 microphone & 1 instrument input: [Tascam US-1x2 Audio Interface](https://smile.amazon.com/dp/B074Q5W46C)
+- $114 for 1 microphone & 1 instrument input: [Tascam US-1x2 Audio Interface](https://smile.amazon.com/dp/B074Q5W46C)
 - $143 for 2 microphone or instrument inputs: [Tascam US-2x2 Audio Interface](https://smile.amazon.com/dp/B00MIXF2RS)
 - $225 for 4 microphone or instrument inputs: [Tascam US-4x4 Audio Interface](https://smile.amazon.com/dp/B00MIXF1JW)
-- $270 for 8 microphone & 2 instrument inputs: [Tascam US-16x08 Audio Interface](https://smile.amazon.com/dp/B00MIXF200)
+- $271 for 8 microphone & 2 instrument inputs: [Tascam US-16x08 Audio Interface](https://smile.amazon.com/dp/B00MIXF200)
 - $500 for 8 microphone or instrument inputs: [Tascam US-20x20 Audio Interface](https://smile.amazon.com/dp/B016R8CQJG)
 
 ### MIDI Controllers
 Turn your computer into a musical instrument.
 - $49 for 25 keys: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
 - $119 for 25 keys and a rhythm pad: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
-- $161 for 61 semi weighted keys: [M-Audio Keystation 61 MK3 MIDI Keyboard](https://smile.amazon.com/dp/B07DDN4PYD)
 - $249 for 25 semi weighted keys and a rhythm pad: [Akai MPK225 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ77TRI)
+- $263 for 61 semi weighted keys: [M-Audio Keystation 61 MK3 MIDI Keyboard](https://smile.amazon.com/dp/B07DDN4PYD)
 - $379 for 49 semi weighted keys and a rhythm pad: [Akai MPK249 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7FGSC)
 - $395 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
 - $459 for 88 weighted keys: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
