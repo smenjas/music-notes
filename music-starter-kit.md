@@ -92,6 +92,8 @@ Prices are from April 10th, 2020, rounded to the nearest U.S. dollar.
 
 ## Accessories
 - $6: [Ernie Ball Guitar Strap](https://smile.amazon.com/dp/B0002D0E92)
+- $7: [Vic Firth Kidsticks Drum Sticks](https://smile.amazon.com/dp/B000N3ZK36)
+- $10: [Vic Firth American Classic 5A Drum Sticks](https://smile.amazon.com/dp/B0002F741Q)
 - $10: [Microphone Windscreen, 5 pack](https://smile.amazon.com/dp/B019OO4IY6)
 - $12: [XLR Patch Cable, 15' long](https://smile.amazon.com/dp/B00M090FDG): for microphones
 - $13: [¼" Patch Cable, 15' long, black](https://smile.amazon.com/dp/B001RXSFME): for guitars
