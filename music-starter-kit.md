@@ -92,6 +92,7 @@ Prices are from April 10th, 2020, rounded to the nearest U.S. dollar.
 
 ## Accessories
 - $6: [Ernie Ball Guitar Strap](https://smile.amazon.com/dp/B0002D0E92)
+- $10: [Microphone Windscreen, 5 pack](https://smile.amazon.com/dp/B019OO4IY6)
 - $12: [XLR Patch Cable, 15' long](https://smile.amazon.com/dp/B00M090FDG): for microphones
 - $13: [¼" Patch Cable, 15' long, black](https://smile.amazon.com/dp/B001RXSFME): for guitars
 - $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0): for guitars
