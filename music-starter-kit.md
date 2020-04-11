@@ -123,7 +123,16 @@ computer.
 - $99: [Shure SM57 Instrument Dynamic Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
 - $104: [Shure SM58S Vocal Dynamic Microphone](https://smile.amazon.com/dp/B0000AQRSU)
 - $159: [Shure Beta 58A Vocal Dynamic Microphone](https://smile.amazon.com/dp/B0002BACB4)
-- $249: [Shure Beta 87C Vocal Condenser Microphone](https://smile.amazon.com/dp/B0002DVKZO), requires [phantom power](https://en.wikipedia.org/wiki/Phantom_power)
+- $249: [Shure Beta 87C Vocal Condenser Microphone](https://smile.amazon.com/dp/B0002DVKZO): requires [phantom power](https://en.wikipedia.org/wiki/Phantom_power).
+
+### Samplers
+Loop short recordings, find harmony with yourself.
+- $100 for 2 inputs, 1 track, & 12 minutes: [Boss RC-1 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B00OB7K46I)
+- $178 for 3 inputs, 1 track, & 3 hours: [Boss RC-3 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J27QXY)
+- $300 for 3 inputs, 2 tracks & 3 hours: [Boss RC-30 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J24YZ2)
+- $300 for 3 inputs, 2 tracks & 3 hours: [Boss RC-202 Loop Station Desktop Sampler](https://smile.amazon.com/dp/B01EVR13MQ)
+- $500 for 4 inputs, 4 tracks & 3 hours: [Boss RC-505 Loop Station Desktop Sampler](https://smile.amazon.com/dp/B00C6YAX6E)
+- $580 for 4 inputs, 3 tracks & 3 hours: [Boss RC-300 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B005P4NVJI)
 
 ### Multitrack Recorders
 If you have a multitrack recorder, you don't need a computer, but you might
@@ -133,21 +142,6 @@ and Portastudio.
 - $270 for 8 inputs: [Tascam DP-03SD Portastudio Multitrack Recorder](https://smile.amazon.com/dp/B00GGN4NXA)
 - $684 for 16 inputs: [Tascam Model 16 Analog Mixer & Multitrack Recorder](https://smile.amazon.com/dp/B07Y3ZT2QV)
 - $1000 for 20 inputs: [Zoom LiveTrak L-20 Digital Mixer & Multitrack Recorder](https://smile.amazon.com/dp/B07FKBFK11)
-
-### Computer Hardware
-A laptop or desktop computer offers the most capability. In my experience, Macs
-are easier to set up and maintain than Windows & Linux systems.
-- $999+: [2020 MacBook Air](https://www.apple.com/shop/buy-mac/macbook-air)
-- $1799+: [27" iMac](https://www.apple.com/shop/buy-mac/imac/27-inch)
-- $2399+: [16" MacBook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch)
-- $4999+: [iMac Pro](https://www.apple.com/shop/buy-mac/imac-pro)
-
-### Computer Software
-- $0: [Music Memos](https://www.apple.com/music-memos/)
-- $0: [GarageBand](https://www.apple.com/mac/garageband/) is amazing, and has lessons.
-- $69: [Ableton Live](https://www.ableton.com/en/shop/live/)
-- $200: [Logic Pro](https://www.apple.com/logic-pro/)
-- $599: [Pro Tools](https://shop.avid.com/ccrz__ProductDetails?sku=DYNA20000)
 
 ### Audio Interfaces
 Plug microphones and musical instruments into your computer.
@@ -167,14 +161,20 @@ Turn your computer into a musical instrument.
 - $395 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
 - $459 for 88 weighted keys: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
 
-### Samplers
-Loop short recordings, find harmony with yourself.
-- $100 for 2 inputs, 1 track, & 12 minutes: [Boss RC-1 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B00OB7K46I)
-- $178 for 3 inputs, 1 track, & 3 hours: [Boss RC-3 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J27QXY)
-- $300 for 3 inputs, 2 tracks & 3 hours: [Boss RC-30 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J24YZ2)
-- $300 for 3 inputs, 2 tracks & 3 hours: [Boss RC-202 Loop Station Desktop Sampler](https://smile.amazon.com/dp/B01EVR13MQ)
-- $500 for 4 inputs, 4 tracks & 3 hours: [Boss RC-505 Loop Station Desktop Sampler](https://smile.amazon.com/dp/B00C6YAX6E)
-- $580 for 4 inputs, 3 tracks & 3 hours: [Boss RC-300 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B005P4NVJI)
+### Computer Hardware
+A laptop or desktop computer offers the most capability. In my experience, Macs
+are easier to set up and maintain than Windows & Linux systems.
+- $999+: [2020 MacBook Air](https://www.apple.com/shop/buy-mac/macbook-air)
+- $1799+: [27" iMac](https://www.apple.com/shop/buy-mac/imac/27-inch)
+- $2399+: [16" MacBook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch)
+- $4999+: [iMac Pro](https://www.apple.com/shop/buy-mac/imac-pro)
+
+### Computer Software
+- $0: [Music Memos](https://www.apple.com/music-memos/)
+- $0: [GarageBand](https://www.apple.com/mac/garageband/) is amazing, and has lessons.
+- $69: [Ableton Live](https://www.ableton.com/en/shop/live/)
+- $200: [Logic Pro](https://www.apple.com/logic-pro/)
+- $599: [Pro Tools](https://shop.avid.com/ccrz__ProductDetails?sku=DYNA20000)
 
 ---
 
