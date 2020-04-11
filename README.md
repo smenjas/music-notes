@@ -1,5 +1,5 @@
 # [Music](https://en.wikipedia.org/wiki/Music)
-- [Music Starter Kit](music-starter-kit.md)
+- [Music Equipment Guide](music-equipment-guide.md)
 
 ## Wikipedia
 - [Musical notation](https://en.wikipedia.org/wiki/Musical_notation)
