@@ -38,7 +38,6 @@ practice *quietly*.
   - [Computer Hardware](#computer-hardware)
   - [Computer Software](#computer-software)
   - [Audio Interfaces](#audio-interfaces)
-  - [Mixers](#mixers)
   - [MIDI Controllers](#midi-controllers)
   - [Samplers](#samplers)
 - [Resources](#resources)
@@ -157,12 +156,6 @@ Plug microphones and musical instruments into your computer.
 - $225 for 4 microphone or instrument inputs: [Tascam US-4x4 Audio Interface](https://smile.amazon.com/dp/B00MIXF1JW)
 - $270 for 8 microphone & 2 instrument inputs: [Tascam US-16x08 Audio Interface](https://smile.amazon.com/dp/B00MIXF200)
 - $500 for 8 microphone or instrument inputs: [Tascam US-20x20 Audio Interface](https://smile.amazon.com/dp/B016R8CQJG)
-
-### Mixers
-These particular mixers are also audio interfaces, with more knobs.
-- $129 for 8 inputs: [Alto ZMX122FX Analog Mixer](https://smile.amazon.com/dp/B004TM31FG)
-- $219 for 10 inputs: [Yamaha MG10XU Analog Mixer](https://smile.amazon.com/dp/B076M3PWKC)
-- $1000 for 16 inputs: [Yamaha EMX5016CF Powered Mixer](https://smile.amazon.com/dp/B000YID5IW)
 
 ### MIDI Controllers
 Turn your computer into a musical instrument.
