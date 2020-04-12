@@ -10,7 +10,7 @@ percussionist may only need [drum sticks and a practice
 pad](https://smile.amazon.com/dp/B07W6NXZ15 "$18"). A vocalist may want a
 microphone and a multitrack recorder. A guitarist may want an [electric
 guitar](https://smile.amazon.com/dp/B07TFR8XBR "Squier Telecaster: $179") and
-[amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox Mini5: $164"). Choose
+[amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox Mini5: $190"). Choose
 what makes sense for you.
 
 ## How much should I spend?
@@ -45,7 +45,7 @@ practice *quietly*.
 ---
 
 ## Musical Instruments
-Prices are from April 11th, 2020, rounded up to the nearest U.S. dollar.
+Prices are from April 12th, 2020, rounded up to the nearest U.S. dollar.
 
 ### Acoustic Guitars
 - $200: [Yamaha FG800 Acoustic Guitar](https://smile.amazon.com/dp/B01C92QHLC)
@@ -75,7 +75,7 @@ Prices are from April 11th, 2020, rounded up to the nearest U.S. dollar.
 - $100: [Yamaha PSS-A50 Portable Keyboard](https://smile.amazon.com/dp/B07ZKY4J1G)
 - $229: [Casio WK-245 76-Key Portable Keyboard](https://smile.amazon.com/dp/B00MJ83QZW)
 - $450: [Yamaha P71 Digital Piano with sustain pedal](https://smile.amazon.com/dp/B01LY8OUQW)
-- $698: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
+- $699: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
 - $4499: [Nord Stage 3 Digital Piano](https://smile.amazon.com/dp/B07LGD741N)
 
 ### Percussion
@@ -97,10 +97,11 @@ Prices are from April 11th, 2020, rounded up to the nearest U.S. dollar.
 - $12: [XLR Patch Cable, 15' long](https://smile.amazon.com/dp/B00M090FDG): for microphones
 - $13: [¼" Patch Cable, 15' long, black](https://smile.amazon.com/dp/B001RXSFME): for guitars
 - $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0): for guitars
-- $25: [Samson MK-10 Microphone Stand](https://smile.amazon.com/dp/B003CLIPHO)
+- $14: [XLR Patch Cable, 25' long](https://smile.amazon.com/dp/B003JJQMD8): for microphones
+- $24: [Samson MK-10 Microphone Stand](https://smile.amazon.com/dp/B003CLIPHO)
 - $35: [RockJam Xfinity Keyboard Stand](https://smile.amazon.com/dp/B01B15JPCQ)
 - $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E): the standard for audio engineers
-- $164: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
+- $190: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
 
 ---
 
@@ -153,13 +154,13 @@ Plug microphones and musical instruments into your computer.
 
 ### MIDI Controllers
 Turn your computer into a musical instrument.
-- $49 for 25 keys: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
+- $47 for 25 keys: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
 - $119 for 25 keys and a rhythm pad: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
 - $229 for 88 semi weighted keys: [M-Audio Keystation 88 II MIDI Keyboard](https://smile.amazon.com/dp/B00IWTS58A)
 - $249 for 25 semi weighted keys and a rhythm pad: [Akai MPK225 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ77TRI)
 - $263 for 61 semi weighted keys: [M-Audio Keystation 61 MK3 MIDI Keyboard](https://smile.amazon.com/dp/B07DDN4PYD)
+- $376 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
 - $379 for 49 semi weighted keys and a rhythm pad: [Akai MPK249 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7FGSC)
-- $395 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
 - $459 for 88 weighted keys: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
 
 ### Computer Hardware
