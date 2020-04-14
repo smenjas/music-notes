@@ -166,6 +166,7 @@ Turn your computer into a musical instrument.
 ### Computer Hardware
 A laptop or desktop computer offers the most capability. In my experience, Macs
 are easier to set up and maintain than Windows & Linux systems.
+- $799+: [Mac mini](https://www.apple.com/shop/buy-mac/mac-mini)
 - $999+: [2020 MacBook Air](https://www.apple.com/shop/buy-mac/macbook-air)
 - $1799+: [27" iMac](https://www.apple.com/shop/buy-mac/imac/27-inch)
 - $2399+: [16" MacBook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch)
