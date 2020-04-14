@@ -10,7 +10,7 @@ percussionist may only need [drum sticks and a practice
 pad](https://smile.amazon.com/dp/B07W6NXZ15 "$18"). A vocalist may want a
 microphone and a multitrack recorder. A guitarist may want an [electric
 guitar](https://smile.amazon.com/dp/B07TFR8XBR "Squier Telecaster: $179") and
-[amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox Mini5: $190"). Choose
+[amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox Mini5: $150"). Choose
 what makes sense for you.
 
 ## How much should I spend?
@@ -45,13 +45,13 @@ practice *quietly*.
 ---
 
 ## Musical Instruments
-Prices are from April 13th, 2020, rounded up to the nearest U.S. dollar.
+Prices are from April 14th, 2020, rounded up to the nearest U.S. dollar.
 
 ### Acoustic Guitars
-- $210: [Yamaha FG800 Acoustic Guitar](https://smile.amazon.com/dp/B01C92QHLC)
+- $200: [Yamaha FG800 Acoustic Guitar](https://smile.amazon.com/dp/B01C92QHLC)
 - $330: [Fender CD-60SCE Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07F39CHRZ)
 - $829: [Martin D-10E Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07MWY9JXR)
-- $1234: [Martin 15 Series Auditorium Acoustic Guitar](https://smile.amazon.com/dp/B003K0IRLQ)
+- N/A: [Martin 15 Series Auditorium Acoustic Guitar](https://smile.amazon.com/dp/B003K0IRLQ)
 
 ### Electric Guitars
 - [Telecasters](https://smile.amazon.com/s?k=telecaster)
@@ -94,14 +94,14 @@ Prices are from April 13th, 2020, rounded up to the nearest U.S. dollar.
 - $7: [Vic Firth Kidsticks Drum Sticks](https://smile.amazon.com/dp/B000N3ZK36)
 - $10: [Vic Firth American Classic 5A Drum Sticks](https://smile.amazon.com/dp/B0002F741Q)
 - $10: [Microphone Windscreen, 5 pack](https://smile.amazon.com/dp/B019OO4IY6)
-- $12: [XLR Patch Cable, 15' long](https://smile.amazon.com/dp/B00M090FDG): for microphones
+- N/A: [XLR Patch Cable, 15' long](https://smile.amazon.com/dp/B00M090FDG): for microphones
 - $13: [¼" Patch Cable, 15' long, black](https://smile.amazon.com/dp/B001RXSFME): for guitars
 - $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0): for guitars
 - $14: [XLR Patch Cable, 25' long](https://smile.amazon.com/dp/B003JJQMD8): for microphones
 - $24: [Samson MK-10 Microphone Stand](https://smile.amazon.com/dp/B003CLIPHO)
 - $35: [RockJam Xfinity Keyboard Stand](https://smile.amazon.com/dp/B01B15JPCQ)
 - $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E): the standard for audio engineers
-- $190: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
+- $150: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
 
 ---
 
@@ -154,13 +154,13 @@ Plug microphones and musical instruments into your computer.
 
 ### MIDI Controllers
 Turn your computer into a musical instrument.
-- $49 for 25 keys: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
+- $69 for 25 keys: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
 - $119 for 25 keys and a rhythm pad: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
 - $229 for 88 semi weighted keys: [M-Audio Keystation 88 II MIDI Keyboard](https://smile.amazon.com/dp/B00IWTS58A)
 - $249 for 25 semi weighted keys and a rhythm pad: [Akai MPK225 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ77TRI)
 - $263 for 61 semi weighted keys: [M-Audio Keystation 61 MK3 MIDI Keyboard](https://smile.amazon.com/dp/B07DDN4PYD)
 - $376 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
-- $398 for 49 semi weighted keys and a rhythm pad: [Akai MPK249 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7FGSC)
+- $379 for 49 semi weighted keys and a rhythm pad: [Akai MPK249 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7FGSC)
 - $459 for 88 weighted keys: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
 
 ### Computer Hardware
