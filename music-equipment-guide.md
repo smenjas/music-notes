@@ -27,7 +27,7 @@ practice *quietly*.
 If I were starting out with nothing, this is what I would buy:
 - $163: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
 - $150: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
-- $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E)
+- $90: [**Sony MDR-7506 Headphones**](https://smile.amazon.com/dp/B000AJIF4E)
 - $18: [Drum sticks with 8" quiet practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
 - $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0)
 - $4: [Dunlop Tortex .60mm Guitar Pick, 12 pack](https://smile.amazon.com/dp/B0064BCRQE)
