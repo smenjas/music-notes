@@ -31,6 +31,7 @@ If I were starting out with nothing, this is what I would buy:
 - $18: [Drum sticks with 8" quiet practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
 - $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0): for guitars
 - $4: [Dunlop Tortex .60mm Guitar Pick, 12 pack](https://smile.amazon.com/dp/B0064BCRQE): for guitar
+
 If I had to choose only one thing, it would be the [headphones](https://smile.amazon.com/dp/B000AJIF4E).
 
 ---
