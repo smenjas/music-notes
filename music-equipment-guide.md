@@ -90,6 +90,8 @@ Prices are from April 14th, 2020, rounded up to the nearest U.S. dollar.
 ---
 
 ## Accessories
+- $4: [Dunlop Tortex .60mm Guitar Pick, 12 pack](https://smile.amazon.com/dp/B0064BCRQE): for guitar
+- $4: [Dunlop Tortex 1.0mm Guitar Pick, 12 pack](https://smile.amazon.com/dp/B0002D0CFS): for bass guitar
 - $6: [Ernie Ball Guitar Strap](https://smile.amazon.com/dp/B0002D0E92)
 - $7: [Vic Firth Kidsticks Drum Sticks](https://smile.amazon.com/dp/B000N3ZK36)
 - $10: [Vic Firth American Classic 5A Drum Sticks](https://smile.amazon.com/dp/B0002F741Q)
