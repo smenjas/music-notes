@@ -9,7 +9,7 @@ headphones](https://smile.amazon.com/dp/B000AJIF4E "Sony MDR-7506: $90"). A
 percussionist may only need [drum sticks and a practice
 pad](https://smile.amazon.com/dp/B07W6NXZ15 "$18"). A vocalist may want a
 microphone and a multitrack recorder. A guitarist may want an [electric
-guitar](https://smile.amazon.com/dp/B07TFR8XBR "Squier Telecaster: $179") and
+guitar](https://smile.amazon.com/dp/B07TFR8XBR "Squier Telecaster: $163") and
 [amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox Mini5: $150"). Choose
 what makes sense for you.
 
@@ -25,14 +25,15 @@ practice *quietly*.
 
 ## My Top Choices
 If I were starting out with nothing, this is what I would buy:
-- $179: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
+- $163: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
 - $150: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
 - $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E)
 - $18: [Drum sticks with 8" quiet practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
 - $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0)
 - $4: [Dunlop Tortex .60mm Guitar Pick, 12 pack](https://smile.amazon.com/dp/B0064BCRQE)
 
-If I had to choose only one thing, it would be the [headphones](https://smile.amazon.com/dp/B000AJIF4E).
+If I had to choose only one thing, it would be the
+[headphones](https://smile.amazon.com/dp/B000AJIF4E "Sony MDR-7506: $90").
 
 ---
 
@@ -66,7 +67,7 @@ Prices are from April 14th, 2020, rounded up to the nearest U.S. dollar.
 
 ### Electric Guitars
 - [Telecasters](https://smile.amazon.com/s?k=telecaster)
-  - $179: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
+  - $163: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
   - $230: [Fender Squier Affinity Telecaster Electric Guitar](https://smile.amazon.com/dp/B0002GOE6S)
   - $675: [Fender Player Telecaster Electric Guitar](https://smile.amazon.com/dp/B07V7XZZM3)
   - $900: [Fender Vintera '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07SLGVSQC)
@@ -172,9 +173,9 @@ Turn your computer into a musical instrument.
 - $229 for 88 semi weighted keys: [M-Audio Keystation 88 II MIDI Keyboard](https://smile.amazon.com/dp/B00IWTS58A)
 - $249 for 25 semi weighted keys and a rhythm pad: [Akai MPK225 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ77TRI)
 - $263 for 61 semi weighted keys: [M-Audio Keystation 61 MK3 MIDI Keyboard](https://smile.amazon.com/dp/B07DDN4PYD)
-- $376 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
 - $379 for 49 semi weighted keys and a rhythm pad: [Akai MPK249 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7FGSC)
 - $459 for 88 weighted keys: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
+- $482 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
 
 ### Computer Hardware
 A laptop or desktop computer offers the most capability. In my experience, Macs
