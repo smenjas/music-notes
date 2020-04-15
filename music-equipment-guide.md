@@ -57,10 +57,10 @@ If I had to choose only one thing, it would be the
 ---
 
 ## Musical Instruments
-Prices are from April 14th, 2020, rounded up to the nearest U.S. dollar.
+Prices are from April 15th, 2020, rounded up to the nearest U.S. dollar.
 
 ### Acoustic Guitars
-- $200: [Yamaha FG800 Acoustic Guitar](https://smile.amazon.com/dp/B01C92QHLC)
+- $220: [Yamaha FG800 Acoustic Guitar](https://smile.amazon.com/dp/B01C92QHLC)
 - $330: [Fender CD-60SCE Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07F39CHRZ)
 - $829: [Martin D-10E Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07MWY9JXR)
 - N/A: [Martin 15 Series Auditorium Acoustic Guitar](https://smile.amazon.com/dp/B003K0IRLQ)
@@ -68,18 +68,18 @@ Prices are from April 14th, 2020, rounded up to the nearest U.S. dollar.
 ### Electric Guitars
 - [Telecasters](https://smile.amazon.com/s?k=telecaster)
   - $163: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
-  - $230: [Fender Squier Affinity Telecaster Electric Guitar](https://smile.amazon.com/dp/B0002GOE6S)
+  - $213: [Fender Squier Affinity Telecaster Electric Guitar](https://smile.amazon.com/dp/B0002GOE6S)
   - $675: [Fender Player Telecaster Electric Guitar](https://smile.amazon.com/dp/B07V7XZZM3)
   - $900: [Fender Vintera '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07SLGVSQC)
 - [Stratocasters](https://smile.amazon.com/s?k=stratocaster)
-  - $229: [Fender Squier Affinity Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07FYKN2RJ)
+  - $230: [Fender Squier Affinity Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07FYKN2RJ)
   - $700: [Fender Player Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07CTX2F5F)
   - $1450: [Fender American Professional Stratocaster Electric Guitar](https://smile.amazon.com/dp/B01MTN0S02)
 
 ### Bass Guitars
 - $230: [Fender Squier Affinity Precision Bass](https://smile.amazon.com/dp/B07B6PZG4L)
 - $400: [Fender Classic Vibe '50s Precision Bass](https://smile.amazon.com/dp/B07T7XJXWK)
-- $700: [Fender Player Precision Bass](https://smile.amazon.com/dp/B07CTW4T7B)
+- $683: [Fender Player Precision Bass](https://smile.amazon.com/dp/B07CTW4T7B)
 - $1225: [Fender Flea Signature Jazz Bass](https://smile.amazon.com/dp/B01HT2FFJ2)
 - $1999: [Music Man Joe Dart Signature Bass](https://www.music-man.com/instruments/basses/joe-dart)
 
@@ -108,7 +108,7 @@ Prices are from April 14th, 2020, rounded up to the nearest U.S. dollar.
 - $7: [Vic Firth Kidsticks Drum Sticks](https://smile.amazon.com/dp/B000N3ZK36)
 - $10: [Vic Firth American Classic 5A Drum Sticks](https://smile.amazon.com/dp/B0002F741Q)
 - $10: [Microphone Windscreen, 5 pack](https://smile.amazon.com/dp/B019OO4IY6)
-- N/A: [XLR Patch Cable, 15' long](https://smile.amazon.com/dp/B00M090FDG): for microphones
+- $12: [XLR Patch Cable, 15' long](https://smile.amazon.com/dp/B00M090FDG): for microphones
 - $13: [¼" Patch Cable, 15' long, black](https://smile.amazon.com/dp/B001RXSFME): for guitars
 - $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0): for guitars
 - $14: [XLR Patch Cable, 25' long](https://smile.amazon.com/dp/B003JJQMD8): for microphones
@@ -143,7 +143,7 @@ computer.
 ### Samplers
 Loop short recordings, find harmony with yourself.
 - $100 for 2 inputs, 1 track, & 12 minutes: [Boss RC-1 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B00OB7K46I)
-- $178 for 3 inputs, 1 track, & 3 hours: [Boss RC-3 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J27QXY)
+- $190 for 3 inputs, 1 track, & 3 hours: [Boss RC-3 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J27QXY)
 - $300 for 3 inputs, 2 tracks & 3 hours: [Boss RC-30 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J24YZ2)
 - $300 for 3 inputs, 2 tracks & 3 hours: [Boss RC-202 Loop Station Desktop Sampler](https://smile.amazon.com/dp/B01EVR13MQ)
 - $500 for 4 inputs, 4 tracks & 3 hours: [Boss RC-505 Loop Station Desktop Sampler](https://smile.amazon.com/dp/B00C6YAX6E)
@@ -154,7 +154,7 @@ If you have a multitrack recorder, you don't need a computer, but you might
 want one anyway. These are also audio interfaces, except for the Pocketstudio
 and Portastudio.
 - $129 for 6 inputs: [Tascam DP-006 Pocketstudio Multitrack Recorder](https://smile.amazon.com/dp/B00BEGS5NI)
-- $270 for 8 inputs: [Tascam DP-03SD Portastudio Multitrack Recorder](https://smile.amazon.com/dp/B00GGN4NXA)
+- $330 for 8 inputs: [Tascam DP-03SD Portastudio Multitrack Recorder](https://smile.amazon.com/dp/B00GGN4NXA)
 - $685 for 16 inputs: [Tascam Model 16 Analog Mixer & Multitrack Recorder](https://smile.amazon.com/dp/B07Y3ZT2QV)
 - $1000 for 20 inputs: [Zoom LiveTrak L-20 Digital Mixer & Multitrack Recorder](https://smile.amazon.com/dp/B07FKBFK11)
 
@@ -169,13 +169,13 @@ Plug microphones and musical instruments into your computer.
 ### MIDI Controllers
 Turn your computer into a musical instrument.
 - $69 for 25 keys: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
-- $119 for 25 keys and a rhythm pad: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
+- $108 for 25 keys and a rhythm pad: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
 - $229 for 88 semi weighted keys: [M-Audio Keystation 88 II MIDI Keyboard](https://smile.amazon.com/dp/B00IWTS58A)
-- $249 for 25 semi weighted keys and a rhythm pad: [Akai MPK225 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ77TRI)
 - $263 for 61 semi weighted keys: [M-Audio Keystation 61 MK3 MIDI Keyboard](https://smile.amazon.com/dp/B07DDN4PYD)
-- $379 for 49 semi weighted keys and a rhythm pad: [Akai MPK249 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7FGSC)
-- $459 for 88 weighted keys: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
-- $482 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
+- $295 for 25 semi weighted keys and a rhythm pad: [Akai MPK225 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ77TRI)
+- $369 for 49 semi weighted keys and a rhythm pad: [Akai MPK249 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7FGSC)
+- $395 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
+- $442 for 88 weighted keys: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
 
 ### Computer Hardware
 A laptop or desktop computer offers the most capability. In my experience, Macs
