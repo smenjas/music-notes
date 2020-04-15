@@ -27,10 +27,10 @@ practice *quietly*.
 If I were starting out with nothing, this is what I would buy:
 - $179: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
 - $150: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
-- $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E): the standard for audio engineers
+- $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E)
 - $18: [Drum sticks with 8" quiet practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
-- $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0): for guitars
-- $4: [Dunlop Tortex .60mm Guitar Pick, 12 pack](https://smile.amazon.com/dp/B0064BCRQE): for guitar
+- $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0)
+- $4: [Dunlop Tortex .60mm Guitar Pick, 12 pack](https://smile.amazon.com/dp/B0064BCRQE)
 
 If I had to choose only one thing, it would be the [headphones](https://smile.amazon.com/dp/B000AJIF4E).
 
@@ -101,8 +101,8 @@ Prices are from April 14th, 2020, rounded up to the nearest U.S. dollar.
 ---
 
 ## Accessories
-- $4: [Dunlop Tortex .60mm Guitar Pick, 12 pack](https://smile.amazon.com/dp/B0064BCRQE): for guitar
-- $4: [Dunlop Tortex 1.0mm Guitar Pick, 12 pack](https://smile.amazon.com/dp/B0002D0CFS): for bass guitar
+- $4: [Dunlop Tortex .60mm Guitar Pick, 12 pack](https://smile.amazon.com/dp/B0064BCRQE): for guitars
+- $4: [Dunlop Tortex 1.0mm Guitar Pick, 12 pack](https://smile.amazon.com/dp/B0002D0CFS): for bass guitars
 - $6: [Ernie Ball Guitar Strap](https://smile.amazon.com/dp/B0002D0E92)
 - $7: [Vic Firth Kidsticks Drum Sticks](https://smile.amazon.com/dp/B000N3ZK36)
 - $10: [Vic Firth American Classic 5A Drum Sticks](https://smile.amazon.com/dp/B0002F741Q)
