@@ -10,7 +10,7 @@ percussionist may only need [drum sticks and a practice
 pad](https://smile.amazon.com/dp/B07W6NXZ15 "$18"). A vocalist may want a
 microphone and a multitrack recorder. A guitarist may want an [electric
 guitar](https://smile.amazon.com/dp/B07TFR8XBR "Squier Telecaster: $180") and
-[amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox Mini5: $164"). Choose
+[amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox Mini5: $190"). Choose
 what makes sense for you.
 
 ## How much should I spend?
@@ -26,7 +26,7 @@ practice *quietly*.
 ## My Top Choices
 If I were starting out with nothing, this is what I would buy:
 - $180: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
-- $164: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
+- $190: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
 - $90: [**Sony MDR-7506 Headphones**](https://smile.amazon.com/dp/B000AJIF4E)
 - $18: [Drum sticks with 8" quiet practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
 - $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0)
@@ -57,7 +57,7 @@ If I had to choose only one thing, it would be the
 ---
 
 ## Musical Instruments
-Prices are from April 16th, 2020, rounded up to the nearest U.S. dollar,
+Prices are from April 17th, 2020, rounded up to the nearest U.S. dollar,
 including shipping, excluding taxes. You may need to be an Amazon Prime member
 to get free shipping for some items.
 
@@ -65,7 +65,7 @@ to get free shipping for some items.
 - $220: [Yamaha FG800 Acoustic Guitar](https://smile.amazon.com/dp/B01C92QHLC)
 - $330: [Fender CD-60SCE Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07F39CHRZ)
 - $829: [Martin D-10E Acoustic-Electric Guitar](https://smile.amazon.com/dp/B07MWY9JXR)
-- $1789: [Martin 15 Series Auditorium Acoustic Guitar](https://smile.amazon.com/dp/B003K0IRLQ)
+- N/A: [Martin 15 Series Auditorium Acoustic Guitar](https://smile.amazon.com/dp/B003K0IRLQ)
 
 ### Electric Guitars
 - [Telecasters](https://smile.amazon.com/s?k=telecaster)
@@ -114,10 +114,10 @@ to get free shipping for some items.
 - $13: [¼" Patch Cable, 15' long, black](https://smile.amazon.com/dp/B001RXSFME): for guitars
 - $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0): for guitars
 - $14: [XLR Patch Cable, 25' long](https://smile.amazon.com/dp/B003JJQMD8): for microphones
-- $24: [Samson MK-10 Microphone Stand](https://smile.amazon.com/dp/B003CLIPHO)
+- $25: [Samson MK-10 Microphone Stand](https://smile.amazon.com/dp/B003CLIPHO)
 - $35: [RockJam Xfinity Keyboard Stand](https://smile.amazon.com/dp/B01B15JPCQ)
 - $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E): the standard for audio engineers
-- $164: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
+- $190: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
 
 ---
 
@@ -136,16 +136,16 @@ computer.
 
 ### Microphones
 - $13: [Pyle PDMIC78 Instrument Dynamic Microphone with cable](https://smile.amazon.com/dp/B005BSOVRY)
-- $23: [Pyle PDMIC59 Vocal Dynamic Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
-- $99: [Shure SM57 Instrument Dynamic Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
+- $30: [Pyle PDMIC59 Vocal Dynamic Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
 - $100: [Shure SM58S Vocal Dynamic Microphone](https://smile.amazon.com/dp/B0000AQRSU)
-- $159: [Shure Beta 58A Vocal Dynamic Microphone](https://smile.amazon.com/dp/B0002BACB4)
+- $117: [Shure SM57 Instrument Dynamic Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
+- $155: [Shure Beta 58A Vocal Dynamic Microphone](https://smile.amazon.com/dp/B0002BACB4)
 - $249: [Shure Beta 87C Vocal Condenser Microphone](https://smile.amazon.com/dp/B0002DVKZO): requires [phantom power](https://en.wikipedia.org/wiki/Phantom_power).
 
 ### Samplers
 Loop short recordings, find harmony with yourself.
 - $95 for 2 inputs, 1 track, & 12 minutes: [Boss RC-1 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B00OB7K46I)
-- $178 for 3 inputs, 1 track, & 3 hours: [Boss RC-3 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J27QXY)
+- $190 for 3 inputs, 1 track, & 3 hours: [Boss RC-3 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J27QXY)
 - $300 for 3 inputs, 2 tracks & 3 hours: [Boss RC-30 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J24YZ2)
 - $300 for 3 inputs, 2 tracks & 3 hours: [Boss RC-202 Loop Station Desktop Sampler](https://smile.amazon.com/dp/B01EVR13MQ)
 - $500 for 4 inputs, 4 tracks & 3 hours: [Boss RC-505 Loop Station Desktop Sampler](https://smile.amazon.com/dp/B00C6YAX6E)
@@ -174,8 +174,8 @@ Turn your computer into a musical instrument.
 - $119 for 25 keys and a rhythm pad: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
 - $229 for 88 semi weighted keys: [M-Audio Keystation 88 II MIDI Keyboard](https://smile.amazon.com/dp/B00IWTS58A)
 - $263 for 61 semi weighted keys: [M-Audio Keystation 61 MK3 MIDI Keyboard](https://smile.amazon.com/dp/B07DDN4PYD)
-- $249 for 25 semi weighted keys and a rhythm pad: [Akai MPK225 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ77TRI)
-- $355 for 49 semi weighted keys and a rhythm pad: [Akai MPK249 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7FGSC)
+- $280 for 25 semi weighted keys and a rhythm pad: [Akai MPK225 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ77TRI)
+- $379 for 49 semi weighted keys and a rhythm pad: [Akai MPK249 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7FGSC)
 - $459 for 88 weighted keys: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
 - $482 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
 
