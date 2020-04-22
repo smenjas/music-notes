@@ -10,7 +10,7 @@ percussionist may only need [drum sticks and a practice
 pad](https://smile.amazon.com/dp/B07W6NXZ15 "$18"). A vocalist may want a
 microphone and a multitrack recorder. A guitarist may want an [electric
 guitar](https://smile.amazon.com/dp/B07TFR8XBR "Squier Telecaster: $180") and
-[amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox Mini5: $190"). Choose
+[amplifier](https://smile.amazon.com/dp/B00CD2PQKW "Vox Mini5: $173"). Choose
 what makes sense for you.
 
 ## How much should I spend?
@@ -26,7 +26,7 @@ practice *quietly*.
 ## My Top Choices
 If I were starting out with nothing, this is what I would buy:
 - $180: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
-- $190: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
+- $173: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
 - $90: [**Sony MDR-7506 Headphones**](https://smile.amazon.com/dp/B000AJIF4E)
 - $18: [Drum sticks with 8" quiet practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
 - $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0)
@@ -57,7 +57,7 @@ If I had to choose only one thing, it would be the
 ---
 
 ## Musical Instruments
-Prices are from April 21st, 2020, rounded up to the nearest U.S. dollar,
+Prices are from April 22nd, 2020, rounded up to the nearest U.S. dollar,
 including shipping, excluding taxes. You may need to be an Amazon Prime member
 to get free shipping for some items.
 
@@ -71,7 +71,7 @@ to get free shipping for some items.
 - [Telecasters](https://smile.amazon.com/s?k=telecaster)
   - $180: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
   - $213: [Fender Squier Affinity Telecaster Electric Guitar](https://smile.amazon.com/dp/B0002GOE6S)
-  - $675: [Fender Player Telecaster Electric Guitar](https://smile.amazon.com/dp/B07V7XZZM3)
+  - N/A: [Fender Player Telecaster Electric Guitar](https://smile.amazon.com/dp/B07V7XZZM3)
   - $900: [Fender Vintera '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07SLGVSQC)
 - [Stratocasters](https://smile.amazon.com/s?k=stratocaster)
   - $223: [Fender Squier Affinity Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07FYQD55C)
@@ -117,7 +117,7 @@ to get free shipping for some items.
 - $18: [Samson MK-10 Microphone Stand](https://smile.amazon.com/dp/B003CLIPHO)
 - $35: [RockJam Xfinity Keyboard Stand](https://smile.amazon.com/dp/B01B15JPCQ)
 - $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E): the standard for audio engineers
-- $190: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
+- $173: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
 
 ---
 
@@ -135,8 +135,8 @@ You will need an audio interface to plug microphones and instruments into a
 computer.
 
 ### Microphones
-- $14: [Pyle PDMIC59 Vocal Dynamic Microphone with cable](https://smile.amazon.com/dp/B003GEBGA0)
-- $15: [Pyle PDMIC78 Instrument Dynamic Microphone with cable](https://smile.amazon.com/dp/B005BSOVRY)
+- $14: [Pyle PDMIC78 Instrument Dynamic Microphone with cable](https://smile.amazon.com/dp/B005BSOVRY)
+- $24: [Pyle PDMIC59 Vocal Dynamic Microphone with cable](https://smile.amazon.com/dp/B003GEBGA0)
 - N/A: [Pyle PDMIC59 Vocal Dynamic Microphone with cable & switch](https://smile.amazon.com/dp/B01B1JHEX4)
 - $99: [Shure SM57 Instrument Dynamic Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
 - $104: [Shure SM58S Vocal Dynamic Microphone](https://smile.amazon.com/dp/B0000AQRSU)
@@ -171,14 +171,14 @@ Plug microphones and musical instruments into your computer.
 
 ### MIDI Controllers
 Turn your computer into a musical instrument.
-- $52 for 25 keys: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
+- $70 for 25 keys: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
 - $119 for 25 keys and a rhythm pad: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
 - $229 for 88 semi weighted keys: [M-Audio Keystation 88 II MIDI Keyboard](https://smile.amazon.com/dp/B00IWTS58A)
 - $249 for 25 semi weighted keys and a rhythm pad: [Akai MPK225 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ77TRI)
-- $263 for 61 semi weighted keys: [M-Audio Keystation 61 MK3 MIDI Keyboard](https://smile.amazon.com/dp/B07DDN4PYD)
-- $379 for 49 semi weighted keys and a rhythm pad: [Akai MPK249 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7FGSC)
-- $395 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
+- $285 for 61 semi weighted keys: [M-Audio Keystation 61 MK3 MIDI Keyboard](https://smile.amazon.com/dp/B07DDN4PYD)
 - $459 for 88 weighted keys: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
+- $465 for 49 semi weighted keys and a rhythm pad: [Akai MPK249 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7FGSC)
+- $499 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
 
 ### Computer Hardware
 A laptop or desktop computer offers the most capability. In my experience, Macs
