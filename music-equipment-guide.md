@@ -57,7 +57,7 @@ If I had to choose only one thing, it would be the
 ---
 
 ## Musical Instruments
-Prices are from April 17th, 2020, rounded up to the nearest U.S. dollar,
+Prices are from April 21st, 2020, rounded up to the nearest U.S. dollar,
 including shipping, excluding taxes. You may need to be an Amazon Prime member
 to get free shipping for some items.
 
@@ -74,14 +74,14 @@ to get free shipping for some items.
   - $675: [Fender Player Telecaster Electric Guitar](https://smile.amazon.com/dp/B07V7XZZM3)
   - $900: [Fender Vintera '50s Telecaster Electric Guitar](https://smile.amazon.com/dp/B07SLGVSQC)
 - [Stratocasters](https://smile.amazon.com/s?k=stratocaster)
-  - $230: [Fender Squier Affinity Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07FYKN2RJ)
+  - $223: [Fender Squier Affinity Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07FYQD55C)
   - $700: [Fender Player Stratocaster Electric Guitar](https://smile.amazon.com/dp/B07CTX2F5F)
   - $1450: [Fender American Professional Stratocaster Electric Guitar](https://smile.amazon.com/dp/B01MTN0S02)
 
 ### Bass Guitars
 - $230: [Fender Squier Affinity Precision Bass](https://smile.amazon.com/dp/B07B6PZG4L)
 - $400: [Fender Classic Vibe '50s Precision Bass](https://smile.amazon.com/dp/B07T7XJXWK)
-- $683: [Fender Player Precision Bass](https://smile.amazon.com/dp/B07CTW4T7B)
+- $700: [Fender Player Precision Bass](https://smile.amazon.com/dp/B07CTW4T7B)
 - $1225: [Fender Flea Signature Jazz Bass](https://smile.amazon.com/dp/B01HT2FFJ2)
 - $1999: [Music Man Joe Dart Signature Bass](https://www.music-man.com/instruments/basses/joe-dart)
 
@@ -90,14 +90,14 @@ to get free shipping for some items.
 - $229: [Casio WK-245 76-Key Portable Keyboard](https://smile.amazon.com/dp/B00MJ83QZW)
 - $450: [Yamaha P71 Digital Piano with sustain pedal](https://smile.amazon.com/dp/B01LY8OUQW)
 - $699: [Kawai ES110 Digital Piano](https://smile.amazon.com/dp/B01N7WBESD)
-- $4499: [Nord Stage 3 Digital Piano](https://smile.amazon.com/dp/B07LGD741N)
+- N/A: [Nord Stage 3 Digital Piano](https://smile.amazon.com/dp/B07LGD741N)
 
 ### Percussion
 - $18: [Drum sticks with 8" quiet practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
 - $379: [Alesis Nitro Mesh Digital Drum Set](https://smile.amazon.com/dp/B07BW1XJGP)
 - $500: [Roland TD-1K Digital Drum Set](https://smile.amazon.com/dp/B00OZNYIQA)
-- $699: [Nord Drum 3P Digital Percussion Pad](https://smile.amazon.com/dp/B01G7EFJ3U)
 - $700: [Roland TD-1DMK Digital Drum Set](https://smile.amazon.com/dp/B07HC2ZMN4)
+- $729: [Nord Drum 3P Digital Percussion Pad](https://smile.amazon.com/dp/B01G7EFJ3U)
 - $740: [Roland Octapad Digital Percussion Pad](https://smile.amazon.com/dp/B0089KQQNI)
 - $1800: [Roland TD-17KVX Digital Drum Set](https://smile.amazon.com/dp/B07D1G9G54)
 
@@ -114,7 +114,7 @@ to get free shipping for some items.
 - $13: [¼" Patch Cable, 15' long, black](https://smile.amazon.com/dp/B001RXSFME): for guitars
 - $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0): for guitars
 - $14: [XLR Patch Cable, 25' long](https://smile.amazon.com/dp/B003JJQMD8): for microphones
-- $25: [Samson MK-10 Microphone Stand](https://smile.amazon.com/dp/B003CLIPHO)
+- $18: [Samson MK-10 Microphone Stand](https://smile.amazon.com/dp/B003CLIPHO)
 - $35: [RockJam Xfinity Keyboard Stand](https://smile.amazon.com/dp/B01B15JPCQ)
 - $90: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E): the standard for audio engineers
 - $190: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
@@ -135,17 +135,18 @@ You will need an audio interface to plug microphones and instruments into a
 computer.
 
 ### Microphones
-- $13: [Pyle PDMIC78 Instrument Dynamic Microphone with cable](https://smile.amazon.com/dp/B005BSOVRY)
-- $30: [Pyle PDMIC59 Vocal Dynamic Microphone with cable](https://smile.amazon.com/dp/B01B1JHEX4)
-- $100: [Shure SM58S Vocal Dynamic Microphone](https://smile.amazon.com/dp/B0000AQRSU)
-- $117: [Shure SM57 Instrument Dynamic Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
-- $155: [Shure Beta 58A Vocal Dynamic Microphone](https://smile.amazon.com/dp/B0002BACB4)
+- $14: [Pyle PDMIC59 Vocal Dynamic Microphone with cable](https://smile.amazon.com/dp/B003GEBGA0)
+- $15: [Pyle PDMIC78 Instrument Dynamic Microphone with cable](https://smile.amazon.com/dp/B005BSOVRY)
+- N/A: [Pyle PDMIC59 Vocal Dynamic Microphone with cable & switch](https://smile.amazon.com/dp/B01B1JHEX4)
+- $99: [Shure SM57 Instrument Dynamic Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
+- $104: [Shure SM58S Vocal Dynamic Microphone](https://smile.amazon.com/dp/B0000AQRSU)
+- $159: [Shure Beta 58A Vocal Dynamic Microphone](https://smile.amazon.com/dp/B0002BACB4)
 - $249: [Shure Beta 87C Vocal Condenser Microphone](https://smile.amazon.com/dp/B0002DVKZO): requires [phantom power](https://en.wikipedia.org/wiki/Phantom_power).
 
 ### Samplers
 Loop short recordings, find harmony with yourself.
-- $95 for 2 inputs, 1 track, & 12 minutes: [Boss RC-1 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B00OB7K46I)
-- $190 for 3 inputs, 1 track, & 3 hours: [Boss RC-3 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J27QXY)
+- $100 for 2 inputs, 1 track, & 12 minutes: [Boss RC-1 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B00OB7K46I)
+- $189 for 3 inputs, 1 track, & 3 hours: [Boss RC-3 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J27QXY)
 - $300 for 3 inputs, 2 tracks & 3 hours: [Boss RC-30 Loop Station Sampler Pedal](https://smile.amazon.com/dp/B004J24YZ2)
 - $300 for 3 inputs, 2 tracks & 3 hours: [Boss RC-202 Loop Station Desktop Sampler](https://smile.amazon.com/dp/B01EVR13MQ)
 - $500 for 4 inputs, 4 tracks & 3 hours: [Boss RC-505 Loop Station Desktop Sampler](https://smile.amazon.com/dp/B00C6YAX6E)
@@ -156,7 +157,7 @@ If you have a multitrack recorder, you don't need a computer, but you might
 want one anyway. These are also audio interfaces, except for the Pocketstudio
 and Portastudio.
 - $129 for 6 inputs: [Tascam DP-006 Pocketstudio Multitrack Recorder](https://smile.amazon.com/dp/B00BEGS5NI)
-- $330 for 8 inputs: [Tascam DP-03SD Portastudio Multitrack Recorder](https://smile.amazon.com/dp/B00GGN4NXA)
+- $270 for 8 inputs: [Tascam DP-03SD Portastudio Multitrack Recorder](https://smile.amazon.com/dp/B00GGN4NXA)
 - $685 for 16 inputs: [Tascam Model 16 Analog Mixer & Multitrack Recorder](https://smile.amazon.com/dp/B07Y3ZT2QV)
 - $1000 for 20 inputs: [Zoom LiveTrak L-20 Digital Mixer & Multitrack Recorder](https://smile.amazon.com/dp/B07FKBFK11)
 
@@ -170,14 +171,14 @@ Plug microphones and musical instruments into your computer.
 
 ### MIDI Controllers
 Turn your computer into a musical instrument.
-- $69 for 25 keys: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
+- $52 for 25 keys: [Akai LPK25 MIDI Keyboard](https://smile.amazon.com/dp/B002M8GBDI)
 - $119 for 25 keys and a rhythm pad: [Akai MPK Mini MKII MIDI Keyboard](https://smile.amazon.com/dp/B00IJ6QAO2)
 - $229 for 88 semi weighted keys: [M-Audio Keystation 88 II MIDI Keyboard](https://smile.amazon.com/dp/B00IWTS58A)
+- $249 for 25 semi weighted keys and a rhythm pad: [Akai MPK225 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ77TRI)
 - $263 for 61 semi weighted keys: [M-Audio Keystation 61 MK3 MIDI Keyboard](https://smile.amazon.com/dp/B07DDN4PYD)
-- $280 for 25 semi weighted keys and a rhythm pad: [Akai MPK225 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ77TRI)
 - $379 for 49 semi weighted keys and a rhythm pad: [Akai MPK249 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7FGSC)
+- $395 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
 - $459 for 88 weighted keys: [M-Audio Hammer 88 MIDI Keyboard](https://smile.amazon.com/dp/B0714D3DVN)
-- $482 for 61 semi weighted keys and a rhythm pad: [Akai MPK261 MIDI Keyboard](https://smile.amazon.com/dp/B00IJ7J06Q)
 
 ### Computer Hardware
 A laptop or desktop computer offers the most capability. In my experience, Macs
