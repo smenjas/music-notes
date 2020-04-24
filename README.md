@@ -1,5 +1,6 @@
 # [Music](https://en.wikipedia.org/wiki/Music)
-- [Music Equipment Guide](music-equipment-guide.md)
+Interested in making and recording music? See the [Music Equipment
+Guide](music-equipment-guide.md).
 
 ## Wikipedia
 - [Musical notation](https://en.wikipedia.org/wiki/Musical_notation)
