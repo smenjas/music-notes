@@ -140,6 +140,7 @@ computer.
 - $19: [Pyle PDMIC59 Vocal Dynamic Microphone with cable & switch](https://smile.amazon.com/dp/B01B1JHEX4)
 - $99: [Shure SM57 Instrument Dynamic Microphone](https://smile.amazon.com/dp/B000CZ0R3S)
 - $104: [Shure SM58S Vocal Dynamic Microphone](https://smile.amazon.com/dp/B0000AQRSU)
+- $106: [Kithouse S9 UHF Rechargeable Wireless Microphone System, with 2 mics](https://smile.amazon.com/dp/B07Z67ZVLK)
 - $159: [Shure Beta 58A Vocal Dynamic Microphone](https://smile.amazon.com/dp/B0002BACB4)
 - $249: [Shure Beta 87C Vocal Condenser Microphone](https://smile.amazon.com/dp/B0002DVKZO): requires [phantom power](https://en.wikipedia.org/wiki/Phantom_power).
 
