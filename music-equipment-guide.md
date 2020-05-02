@@ -23,33 +23,6 @@ nothing. This guide is for when you want to level up.
 Headphones, electric guitars, digital pianos, and digital drums allow you to
 practice *quietly*.
 
-## My Top Choices
-If I were starting out with nothing, this is what I would buy.
-
-### For everyone
-- $98: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E)
-
-### For percussionists
-- $18: [Drum sticks with 8" quiet practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
-
-### For guitarists
-- $180: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
-- $190: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
-- $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0)
-- $6: [Ernie Ball Guitar Strap](https://smile.amazon.com/dp/B00C78WF74)
-- $6: [Dunlop Tortex .60mm Guitar Pick, 12 pack](https://smile.amazon.com/dp/B0064BCRQE)
-
-### For bass guitarists
-- $230: [Fender Squier Affinity Precision Bass](https://smile.amazon.com/dp/B07B6PZG4L)
-- $190: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
-- $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0)
-- $6: [Ernie Ball Guitar Strap](https://smile.amazon.com/dp/B00C78WF74)
-- $4: [Dunlop Tortex 1.0mm Guitar Pick, 12 pack](https://smile.amazon.com/dp/B0002D0CFS)
-
-### For pianists
-- $450: [Yamaha P71 Digital Piano with sustain pedal](https://smile.amazon.com/dp/B01LY8OUQW)
-- $33: [RockJam Xfinity Keyboard Stand](https://smile.amazon.com/dp/B01B15JPCQ)
-
 ---
 
 - [Musical Instruments](#musical-instruments)
@@ -67,6 +40,7 @@ If I were starting out with nothing, this is what I would buy.
   - [MIDI Controllers](#midi-controllers)
   - [Computer Hardware](#computer-hardware)
   - [Computer Software](#computer-software)
+- [Starter Kits](#starter-kits)
 - [Resources](#resources)
 
 ---
@@ -211,6 +185,35 @@ are easier to set up and maintain than Windows & Linux systems.
 - $69: [Ableton Live](https://www.ableton.com/en/shop/live/)
 - $200: [Logic Pro](https://www.apple.com/logic-pro/)
 - $599: [Pro Tools](https://shop.avid.com/ccrz__ProductDetails?sku=DYNA20000)
+
+---
+
+## Starter Kits
+If I were starting out with nothing, this is what I would buy.
+
+### For everyone
+- $98: [Sony MDR-7506 Headphones](https://smile.amazon.com/dp/B000AJIF4E)
+
+### For percussionists
+- $18: [Drum sticks with 8" quiet practice pad](https://smile.amazon.com/dp/B07W6NXZ15)
+
+### For guitarists
+- $180: [Fender Squier Bullet Telecaster Electric Guitar](https://smile.amazon.com/dp/B07TFR8XBR)
+- $190: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
+- $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0)
+- $6: [Ernie Ball Guitar Strap](https://smile.amazon.com/dp/B00C78WF74)
+- $6: [Dunlop Tortex .60mm Guitar Pick, 12 pack](https://smile.amazon.com/dp/B0064BCRQE)
+
+### For bass guitarists
+- $230: [Fender Squier Affinity Precision Bass](https://smile.amazon.com/dp/B07B6PZG4L)
+- $190: [Vox Mini5 Amplifier](https://smile.amazon.com/dp/B00CD2PQKW)
+- $14: [¼" Patch Cable, 15' long, tweed](https://smile.amazon.com/dp/B00XQEH5P0)
+- $6: [Ernie Ball Guitar Strap](https://smile.amazon.com/dp/B00C78WF74)
+- $4: [Dunlop Tortex 1.0mm Guitar Pick, 12 pack](https://smile.amazon.com/dp/B0002D0CFS)
+
+### For pianists
+- $450: [Yamaha P71 Digital Piano with sustain pedal](https://smile.amazon.com/dp/B01LY8OUQW)
+- $33: [RockJam Xfinity Keyboard Stand](https://smile.amazon.com/dp/B01B15JPCQ)
 
 ---
 
