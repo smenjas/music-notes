@@ -153,6 +153,7 @@ want one anyway. These are also audio interfaces, except for the Pocketstudio
 and Portastudio.
 - $129 for 6 inputs: [Tascam DP-006 Pocketstudio Multitrack Recorder](https://smile.amazon.com/dp/B00BEGS5NI)
 - $330 for 8 inputs: [Tascam DP-03SD Portastudio Multitrack Recorder](https://smile.amazon.com/dp/B00GGN4NXA)
+- $550 for 8 inputs: [Zoom F4 Field Recorder/Mixer](https://smile.amazon.com/dp/B07D4TWSYB)
 - $685 for 16 inputs: [Tascam Model 16 Analog Mixer & Multitrack Recorder](https://smile.amazon.com/dp/B07Y3ZT2QV)
 - $1000 for 20 inputs: [Zoom LiveTrak L-20 Digital Mixer & Multitrack Recorder](https://smile.amazon.com/dp/B07FKBFK11)
 
