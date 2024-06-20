@@ -1,0 +1,504 @@
+# 500 Best Songs of All Time
+
+Source: [Rolling Stone, 2024-02-16](https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/)
+
+- 1: Aretha Franklin, "Respect", 1967, Writer(s): OTIS REDDING
+- 2: Public Enemy, "Fight the Power", 1989, Writer(s): CARLTON RIDENHOUR, ERIC SADLER, HANK SHOCKLEE, KEITH SHOCKLEE
+- 3: Sam Cooke, "A Change Is Gonna Come", 1964, Writer(s): SAM COOKE
+- 4: Bob Dylan, "Like a Rolling Stone", 1965, Writer(s): BOB DYLAN
+- 5: Nirvana, "Smells Like Teen Spirit", 1991, Writer(s): KURT COBAIN
+- 6: Marvin Gaye, "What's Going On", 1971, Writer(s): MARVIN GAYE, RENALDO BENSON, AL CLEVELAND
+- 7: The Beatles, "Strawberry Fields Forever", 1967, Writer(s): JOHN LENNON, PAUL MCCARTNEY
+- 8: Missy Elliott, "Get Ur Freak On", 2001, Writer(s): MISSY ELLIOTT, TIMBALAND
+- 9: Fleetwood Mac, "Dreams", 1977, Writer(s): STEVIE NICKS
+- 10: Outkast, "Hey Ya!", 2003, Writer(s): ANDRÉ BENJAMIN
+- 11: The Beach Boys, "God Only Knows", 1966, Writer(s): BRIAN WILSON, TONY ASHER
+- 12: Stevie Wonder, "Superstition", 1972, Writer(s): STEVIE WONDER
+- 13: The Rolling Stones, "Gimme Shelter", 1969, Writer(s): MICK JAGGER, KEITH RICHARDS
+- 14: The Kinks, "Waterloo Sunset", 1967, Writer(s): RAY DAVIES
+- 15: The Beatles, "I Want to Hold Your Hand", 1963, Writer(s): JOHN LENNON, PAUL MCCARTNEY
+- 16: Beyoncé feat. Jay-Z, "Crazy in Love", 2003, Writer(s): SHAUN CARTER, BEYONCÉ KNOWLES, EUGENE RECORD, RICH HARRISON
+- 17: Queen, "Bohemian Rhapsody", 1975, Writer(s): FREDDIE MERCURY
+- 18: Prince and the Revolution, "Purple Rain", 1984, Writer(s): PRINCE
+- 19: John Lennon, "Imagine", 1971, Writer(s): JOHN LENNON, YOKO ONO
+- 20: Robyn, "Dancing on My Own", 2010, Writer(s): ROBIN MIRIAM CARLSSON, PATRIK BERGER
+- 21: Billie Holiday, "Strange Fruit", 1939, Writer(s): LEWIS ALLAN
+- 22: The Ronettes, "Be My Baby", 1963, Writer(s): JEFF BARRY, ELLIE GREENWICH, PHIL SPECTOR
+- 23: David Bowie, "Heroes", 1977, Writer(s): DAVID BOWIE, BRIAN ENO
+- 24: The Beatles, "A Day in the Life", 1967, Writer(s): JOHN LENNON, PAUL MCCARTNEY
+- 25: Kanye West feat. Pusha T, "Runaway", 2010, Writer(s): EMILE HAYNIE, JOHN ROGER BRANCH, KANYE WEST, MALIK YUSEF, PETE ROCK, TERRENCE THORNTON, JEFF BHASKER, MIKE DEAN
+- 26: Joni Mitchell, "A Case of You", 1971, Writer(s): JONI MITCHELL
+- 27: Bruce Springsteen, "Born to Run", 1975, Writer(s): BRUCE SPRINGSTEEN
+- 28: Talking Heads, "Once in a Lifetime", 1980, Writer(s): BRIAN ENO, CHRIS FRANTZ, DAVID BYRNE, JERRY HARRISON, TINA WEYMOUTH
+- 29: Dr. Dre feat. Snoop Doggy Dogg, "Nuthin' but a G Thang", 1992, Writer(s): CALVIN BROADUS, FREDERICK KNIGHT, LEON HAYWOOD
+- 30: Lorde, "Royals", 2011, Writer(s): ELLA YELICH O'CONNOR, JOEL LITTLE
+- 31: The Rolling Stones, "(I Can't Get No) Satisfaction", 1965, Writer(s): MICK JAGGER, KEITH RICHARDS
+- 32: Notorious B.I.G., "Juicy", 1994, Writer(s): DIDDY, JAMES MTUME, JEAN-CLAUDE OLIVIER, THE NOTORIOUS B.I.G.
+- 33: Chuck Berry, "Johnny B. Goode", 1958, Writer(s): CHUCK BERRY
+- 34: James Brown, "Papa's Got a Brand New Bag", 1966, Writer(s): JAMES BROWN
+- 35: Little Richard, "Tutti-Frutti", 1955, Writer(s): DOROTHY LABOSTRIE, RICHARD PENNIMAN, JOE LUBIN
+- 36: The White Stripes, "Seven Nation Army", 2003, Writer(s): JACK WHITE
+- 37: Prince and the Revolution, "When Doves Cry", 1984, Writer(s):  PRINCE
+- 38: Otis Redding, "(Sittin' On) the Dock of the Bay", 1967, Writer(s): OTIS REDDING, STEVE CROPPER
+- 39: Outkast, "B.O.B.", 2000, Writer(s): ANDRÉ BENJAMIN, ANTWAN PATTON, DAVID SHEATS
+- 40: The Jimi Hendrix Experience, "All Along the Watchtower", 1968, Writer(s): BOB DYLAN
+- 41: Joy Division, "Love Will Tear Us Apart", 1980, Writer(s): BERNARD SUMNER, IAN CURTIS, PETER HOOK, STEPHEN MORRIS
+- 42: Bob Marley and the Wailers, "Redemption Song", 1980, Writer(s): BOB MARLEY AND THE WAILERS
+- 43: The Temptations, "My Girl", 1965, Writer(s): RONALD WHITE, SMOKEY ROBINSON
+- 44: Michael Jackson, "Billie Jean", 1982, Writer(s): MICHAEL J. JACKSON
+- 45: Kendrick Lamar, "Alright", 2015, Writer(s): KENDRICK LAMAR, M. SPEARS, P. WILLIAMS
+- 46: M.I.A., "Paper Planes", 2008, Writer(s): JOE STRUMMER, MAYA ARULPRAGASAM, MICK JONES, NICK HEADON, PAUL SIMONON, WESLEY PENTZ
+- 47: Elton John, "Tiny Dancer", 1972, Writer(s): BERNIE TAUPIN, ELTON JOHN
+- 48: Radiohead, "Idioteque", 2000, Writer(s): ARTHUR KRIEGER, COLIN GREENWOOD, ED O'BRIEN, JONNY GREENWOOD, PAUL LANSKY, PHILIP SELWAY, THOM YORKE
+- 49: Lauryn Hill, "Doo Wop (That Thing)", 1998, Writer(s): LAURYN HILL
+- 50: Daddy Yankee, "Gasolina", 2010, Writer(s): FRANCISCO SALDAÑA, RAMON AYALA, VICTOR CABRERA
+- 51: Dionne Warwick, "Walk on By", 1964, Writer(s):  BURT BACHARACH, HAL DAVID
+- 52: Donna Summer, "I Feel Love", 1977, Writer(s):  DONNA SUMMER, GIORGIO MORODER, PETE BELLOTTE
+- 53: The Beach Boys, "Good Vibrations", 1966, Writer(s): BRIAN WILSON, MIKE LOVE
+- 54: Smokey Robinson and the Miracles, "The Tracks of My Tears", 1965, Writer(s): MARVIN TARPLIN, WILLIAM ROBINSON, WARREN MOORE
+- 55: Madonna, "Like a Prayer", 1989, Writer(s): MADONNA, PATRICK LEONARD
+- 56: Missy Elliott, "Work It", 2000, Writer(s): MELISSA ELLIOTT, TIMOTHY MOSLEY
+- 57: Sly and the Family Stone, "Family Affair", 1971, Writer(s): SYLVESTER STEWART
+- 58: The Band, "The Weight", 1968, Writer(s): ROBBIE ROBERTSON
+- 59: Grandmaster Flash and the Furious Five, "The Message", 1982, Writer(s): EDWARD FLETCHER, MELVIN GLOVER, CLIFTON CHASE, SYLVIA ROBINSON
+- 60: Kate Bush, "Running Up That Hill", 1985, Writer(s): KATE BUSH
+- 61: Led Zeppelin, "Stairway to Heaven", 1971, Writer(s): JIMMY PAGE, ROBERT PLANT
+- 62: U2, "One", 1992, Writer(s): BONO, LARRY MULLEN JR., THE EDGE, ADAM CLAYTON
+- 63: Dolly Parton, "Jolene", 1974, Writer(s): DOLLY PARTON
+- 64: Ramones, "Blitzkrieg Bop", 1976, Writer(s): TOMMY RAMONE, DEE DEE RAMONE
+- 65: Earth, Wind, and Fire, "September", 1978, Writer(s): ALBERT MCKAY, ALLEE WILLIS, MAURICE WHITE
+- 66: Simon and Garfunkel, "Bridge Over Troubled Water", 1970, Writer(s): PAUL SIMON
+- 67: Bob Dylan, "Tangled Up in Blue", 1975, Writer(s): BOB DYLAN
+- 68: Chic, "Good Times", 1979, Writer(s): BERNARD EDWARDS, NILE RODGERS
+- 69: Taylor Swift, "All Too Well", 2012, Writer(s): TAYLOR SWIFT, LIZ ROSE
+- 70: Elvis Presley, "Suspicious Minds", 1969, Writer(s): MARK JAMES
+- 71: Tracy Chapman, "Fast Car", 1988, Writer(s): TRACY CHAPMAN
+- 72: The Beatles, "Yesterday", 1965, Writer(s): JOHN LENNON, PAUL MCCARTNEY
+- 73: Beyoncé, "Formation", 2016, Writer(s): AAQUIL BROWN, BEYONCÉ, KHALIF BROWN, MICHAEL L. WILLIAMS II
+- 74: Leonard Cohen, "Hallelujah", 1984, Writer(s): LEONARD COHEN
+- 75: Pulp, "Common People", 1996, Writer(s): CANDIDA DOYLE, JARVIS COCKER, NICK BANKS, RUSSELL SENIOR, STEVE MACKEY
+- 76: Johnny Cash, "I Walk the Line", 1956, Writer(s): JOHNNY CASH
+- 77: The Modern Lovers, "Roadrunner", 1976, Writer(s): JONATHAN RICHMAN
+- 78: The Four Tops, "Reach Out (I'll Be There)", 1967, Writer(s): BRIAN HOLLAND, EDDIE HOLLAND, LAMONT DOZIER
+- 79: Amy Winehouse, "Back to Black", 2006, Writer(s): AMY WINEHOUSE, MARK RONSON
+- 80: Ray Charles, "What'd I Say", 1957, Writer(s): RAY CHARLES
+- 81: The Velvet Underground, "I'm Waiting for the Man", 1967, Writer(s): LOU REED
+- 82: Adele, "Rolling in the Deep", 2011, Writer(s): ADELE LAURIE BLUE ADKINS, PAUL RICHARD EPWORTH
+- 83: Bob Dylan, "Desolation Row", 1965, Writer(s): BOB DYLAN
+- 84: Al Green, "Let's Stay Together", 1971, Writer(s): AL GREEN, AL JACKSON JR., WILLIE MITCHELL
+- 85: Prince, "Kiss", 1986, Writer(s): PRINCE
+- 86: The Rolling Stones, "Tumbling Dice", 1972, Writer(s): MICK JAGGER, KEITH RICHARDS
+- 87: LCD Soundsystem, "All My Friends", 2007, Writer(s): PAT MAHONEY, JAMES MURPHY, TYLER POPE
+- 88: Guns N' Roses, "Sweet Child O' Mine", 1987, Writer(s): DUFF MCKAGAN, JEFFREY ISBELL, SAUL HUDSON, STEVEN ADLER, W. AXL ROSE
+- 89: The Beatles, "Hey Jude", 1968, Writer(s): JOHN LENNON, PAUL MCCARTNEY
+- 90: Aretha Franklin, "(You Make Me Feel Like) A Natural Woman", 1967, Writer(s): CAROLE KING, GERRY GOFFIN, JERRY WEXLER
+- 91: UGK feat. Outkast, "Int'l Players Anthem (I Choose You)", 2007, Writer(s): BERNARD FREEMAN, CHAD BUTLER, ANDRE BENJAMIN, ANTWAN PATTON, JORDAN HOUSTON, PAUL BEAUREGARD
+- 92: Little Richard, "Good Golly, Miss Molly", 1958, Writer(s): ROBERT BLACKWELL, JOHN MARASCALCO
+- 93: Kelly Clarkson, "Since U Been Gone", 2004, Writer(s): LUKASZ GOTTWALD, MARTIN SANDBERG
+- 94: Whitney Houston, "I Will Always Love You", 1992, Writer(s): DOLLY PARTON
+- 95: Oasis, "Wonderwall", 1995, Writer(s): NOEL GALLAGHER
+- 96: Jay-Z, "'99 Problems", 2003, Writer(s): SHAWN CARTER, FREDRICK RUBIN, NORMAN LANDSBERG, FELIX PAPPALARDI, WILLIAM SQUIER, JOHN VENTURA, LESLIE WEINSTEIN, TRACY MARROW, ALPHONSO HENDERSON, BERNARD FREEMAN
+- 97: Patti Smith, "Gloria", 1975, Writer(s): PATTI SMITH, VAN MORRISON
+- 98: The Beatles, "In My Life", 1965, Writer(s): JOHN LENNON, PAUL MCCARTNEY
+- 99: Bee Gees, "Stayin' Alive", 1977, Writer(s): ROBIN GIBB, MAURICE GIBB, BARRY GIBB
+- 100: Bob Dylan, "Blowin' in the Wind", 1963, Writer(s): BOB DYLAN
+- 101: Yeah Yeah Yeahs, "Maps", 2003, Writer(s): BRIAN CHASE, KAREN LEE ORZOLEK, NICHOLAS JOSEPH ZINNER
+- 102: Chuck Berry, "Maybelline", 1955, Writer(s): CHUCK BERRY
+- 103: Alanis Morissette, "You Oughta Know", 1995, Writer(s): ALANIS MORISSETTE, GLEN BALLARD
+- 104: The Jackson 5, "I Want You Back", 1969, Writer(s): ALPHONSO MIZELL, BERRY GORDY, DENNIS LUSSIER, FREDDIE PERREN
+- 105: David Bowie, "Life on Mars?", 1971, Writer(s): DAVID BOWIE
+- 106: The Rolling Stones, "Sympathy for the Devil", 1968, Writer(s): KEITH RICHARDS, MICK JAGGER
+- 107: Wu-Tang Clan, "C.R.E.A.M.", 1994, Writer(s): WU-TANG CLAN
+- 108: The Cure, "Just Like Heaven", 1987, Writer(s): BORIS WILLIAMS, LOL TOLHURST, PORL THOMPSON, ROBERT SMITH, SIMON GALLUP
+- 109: Sly and the Family Stone, "Everyday People", 1968, Writer(s): SYLVESTER STEWART
+- 110: The Beatles, "Something", 1969, Writer(s): GEORGE HARRISON
+- 111: Bruce Springsteen, "Thunder Road", 1975, Writer(s): BRUCE SPRINGSTEEN
+- 112: R.E.M., "Losing My Religion", 1991, Writer(s): MICHAEL MILLS, MICHAEL STIPE, PETER BUCK, WILLIAM BERRY
+- 113: Stevie Wonder, "Higher Ground", 1973, Writer(s): STEVIE WONDER
+- 114: Britney Spears, "Toxic", 2003, Writer(s): CATHY DENNIS, CKS GARAGE, HENRIK JONBACK, PONTUS WINNBERG
+- 115: Etta James, "At Last", 1960, Writer(s): HARRY WARREN, MACK GORDON
+- 116: Rob Base and DJ E-Z Rock, "It Takes Two", 1988, Writer(s): ROBERT GINYARD
+- 117: Aretha Franklin, "I Say a Little Prayer", 1968, Writer(s): BURT BACHARACH, HAL DAVID
+- 118: Radiohead, "Creep", 1992, Writer(s): ALBERT HAMMOND, COLIN GREENWOOD, ED O'BRIEN, JONNY GREENWOOD, MIKE HAZLEWOOD, PHILIP SELWAY, THOM YORKE
+- 119: Marvin Gaye, "I Heard It Through the Grapevine", 1968, Writer(s): BARRETT STRONG, NORMAN WHITFIELD
+- 120: X-Ray Spex, "Oh Bondage! Up Yours!", 1977, Writer(s): POLY STYRENE
+- 121: The Beatles, "Let It Be", 1970, Writer(s): JOHN LENNON, PAUL MCCARTNEY
+- 122: The Impressions, "People Get Ready", 1965, Writer(s): CURTIS MAYFIELD
+- 123: Talking Heads, "This Must Be the Place (Naive Melody)", 1983, Writer(s): CHRIS FRANTZ, DAVID BYRNE, JERRY HARRISON, TINA WEYMOUTH
+- 124: Buddy Holly, "That'll Be the Day", 1957, Writer(s): BUDDY HOLLY, JERRY ALLISON, NORMAN PETTY
+- 125: Sex Pistols, "Anarchy in the U.K.", 1977, Writer(s): JOHN LYDON, GLENN MATLOCK, PAUL COOK, SIMON RITCHIE, STEVE JONES
+- 126: George Michael, "Freedom! '90", 1990, Writer(s): GEORGE MICHAEL
+- 127: TLC, "Waterfalls", 1995, Writer(s): BRANDON BENNETT, LISA "LEFT EYE" LOPES, MARQUEZE ETHERIDGE, RICO WADE, RAY MURRAY, SLEEPY BROWN
+- 128: Led Zeppelin, "Whole Lotta Love", 1969, Writer(s): JOHN BONHAM, JOHN PAUL JONES, JIMMY PAGE, ROBERT PLANT, WILLIE DIXON
+- 129: Drake feat. Majid Jordan, "Hold On, We're Going Home", 2013, Writer(s): AUBREY GRAHAM, JORDAN ULLMAN, MAJID MASKATI, NOAH SHEBIB, PAUL JEFFRIES
+- 130: Martha and the Vandellas, "Dancing in the Street", 1964, Writer(s): IVY JOE HUNTER, MARVIN GAYE, WILLIAM STEVENSON
+- 131: Ben E. King, "Stand by Me", 1961, Writer(s): BEN E. KING, JERRY LEIBER, MIKE STOLLER
+- 132: Eric B. and Rakim, "Paid in Full", 1987, Writer(s): ERIC BARRIER, WILLIAM GRIFFIN
+- 133: Journey, "Don't Stop Believin'", 1981, Writer(s): JONATHAN CAIN, NEAL SCHON, STEPHEN PERRY
+- 134: Tina Turner, "What's Love Got to Do With It", 1984, Writer(s): GRAHAM LYLE, TERRY BRITTEN
+- 135: The Beatles, "She Loves You", 1964, Writer(s): JOHN LENNON, PAUL MCCARTNEY
+- 136: Otis Redding, "Try a Little Tenderness", 1966, Writer(s): HARRY WOODS, JAMES CAMPBELL, REGINALD CONNELLY
+- 137: Ariana Grande, "Thank U, Next", 2019, Writer(s): KIMBERLY KRYSIUK, TAYLA PARX, VICTORIA MCCANTS, ARIANA GRANDE, CHARLES ANDERSON, MICHAEL FOSTER, NJOMZA VITIA, TOMMY BROWN
+- 138: Blondie, "Heart of Glass", 1979, Writer(s): CHRIS STEIN, DEBBIE HARRY
+- 139: Madonna, "Vogue", 1990, Writer(s): MADONNA, SHEP PETTIBONE
+- 140: Bob Marley and the Wailers, "No Woman No Cry", 1975, Writer(s): VINCENT FORD, BOB MARLEY
+- 141: Rod Stewart, "Maggie May", 1971, Writer(s): ROD STEWART, MARTIN QUITTENTON
+- 142: George Jones, "He Stopped Loving Her Today", 1980, Writer(s): BOBBY BRADDOCK, CURLY PUTNAM
+- 143: The Clash, "London Calling", 1980, Writer(s): MICK JONES, JOE STRUMMER
+- 144: The Rolling Stones, "Jumpin' Jack Flash", 1968, Writer(s): MICK JAGGER, KEITH RICHARDS
+- 145: Outkast, "Ms. Jackson", 2000, Writer(s): ANDRÉ BENJAMIN, ANTWAN PATTON, DAVID SHEATS
+- 146: James Taylor, "Fire and Rain", 1970, Writer(s): JAMES TAYLOR
+- 147: Fats Domino, "Blueberry Hill", 1956, Writer(s): AL LEWIS, LARRY STOCK, VINCENT ROSE
+- 148: Led Zeppelin, "Kashmir", 1975, Writer(s): JOHN BONHAM, JIMMY PAGE, ROBERT PLANT
+- 149: Elton John, "Rocket Man", 1972, Writer(s): ELTON JOHN, BERNIE TAUPIN
+- 150: Green Day, "Basket Case", 1994, Writer(s): BILLIE JOE ARMSTRONG, MIKE DIRNT, TRE COOL
+- 151: The Shirelles, "Will You Love Me Tomorrow", 1960, Writer(s): GERRY GOFFIN, CAROLE KING
+- 152: Creedence Clearwater Revival, "Proud Mary", 1969, Writer(s): JOHN FOGERTY
+- 153: Rick James, "Super Freak", 1981, Writer(s): RICK JAMES, ALONZO MILLER
+- 154: Howlin' Wolf, "Spoonful", 1960, Writer(s): WILLIE DIXON
+- 155: The Strokes, "Last Nite", 2001, Writer(s): JULIAN CASABLANCAS
+- 156: The Kingsmen, "Louie Louie", 1963, Writer(s): RICHARD BERRY
+- 157: Sonic Youth, "Teenage Riot", 1988, Writer(s): THURSTON MOORE, KIM GORDON, LEE RANALDO, STEVE SHELLEY
+- 158: The Meters, "Cissy Strut", 1969, Writer(s): LEO NOCENTELLI, ARTHUR NEVILLE, GEORGE PORTER, JOSEPH MODELISTE
+- 159: The Who, "Baba O'Riley", 1971, Writer(s): PETE TOWNSHEND
+- 160: R.E.M., "Nightswimming", 1992, Writer(s): BILL BERRY, PETER BUCK, MIKE MILLS, MICHAEL STIPE
+- 161: Madonna, "Into the Groove", 1985, Writer(s): MADONNA, STEPHEN BRAY
+- 162: Nick Drake, "Pink Moon", 1972, Writer(s): NICK DRAKE
+- 163: Fleetwood Mac, "Landslide", 1975, Writer(s): STEVIE NICKS
+- 164: Bob Dylan, "Mr. Tambourine Man", 1965, Writer(s): BOB DYLAN
+- 165: Hank Williams, "I'm So Lonesome I Could Cry", 1949, Writer(s): HANK WILLIAMS
+- 166: Mott the Hoople, "All the Young Dudes", 1972, Writer(s): DAVID BOWIE
+- 167: Eminem, "Lose Yourself", 2002, Writer(s): MARSHALL MATHERS
+- 168: Dusty Springfield, "Son of a Preacher Man", 1968, Writer(s): JOHN HURLEY, RONNIE WILKINS
+- 169: Tom Petty and the Heartbreakers, "American Girl", 1976, Writer(s): TOM PETTY
+- 170: The Five Satins, "In the Still of the Night", 1956, Writer(s): FRED PARRIS
+- 171: Louis Armstrong, "What a Wonderful World", 1967, Writer(s): G.D. WEISS, G. DOUGLAS
+- 172: Nina Simone, "Mississippi Goddam", 1964, Writer(s): NINA SIMONE
+- 173: Television, "Marquee Moon", 1977, Writer(s): TOM VERLAINE
+- 174: R.E.M., "Radio Free Europe", 1983, Writer(s): BILL BERRY, PETER BUCK, MIKE MILLS, MICHAEL STIPE
+- 175: The Flamingos, "I Only Have Eyes for You", 1959, Writer(s): AL DUBIN, HARRY WARREN
+- 176: The Kinks, "You Really Got Me", 1964, Writer(s): RAY DAVIES
+- 177: Van Halen, "Jump", 1983, Writer(s): EDWARD VAN HALEN, ALEX VAN HALEN, MICHAEL ANTHONY, DAVID LEE ROTH
+- 178: Billie Eilish, "Bad Guy", 2019, Writer(s): FINNEAS O'CONNELL, BILLIE EILISH O'CONNELL
+- 179: Pink Floyd, "Comfortably Numb", 1979, Writer(s): DAVID GILMOUR, ROGER WATERS
+- 180: Lou Reed, "Walk on the Wild Side", 1972, Writer(s): LOU REED
+- 181: The Byrds, "Eight Miles High", 1966, Writer(s): GENE CLARK, JAMES MCGUINN, DAVID CROSBY
+- 182: Simon and Garfunkel, "The Sounds of Silence", 1964, Writer(s): PAUL SIMON
+- 183: Stevie Wonder, "You Are the Sunshine of My Life", 1972, Writer(s): STEVIE WONDER
+- 184: Sinéad O'Connor, "Nothing Compares 2 U", 1990, Writer(s): PRINCE
+- 185: Michael Jackson, "Beat It", 1982, Writer(s): MICHAEL JACKSON
+- 186: The Staple Singers, "I'll Take You There", 1972, Writer(s): ALVERTIS ISBELL
+- 187: Bob Dylan, "Subterranean Homesick Blues", 1965, Writer(s): BOB DYLAN
+- 188: The Jimi Hendrix Experience, "Little Wing", 1967, Writer(s): JIMI HENDRIX
+- 189: David Bowie, "Space Oddity", 1969, Writer(s): DAVID BOWIE
+- 190: N.W.A, "Fuck tha Police", 1988, Writer(s): MC REN, ICE CUBE
+- 191: Bobbie Gentry, "Ode to Billie Joe", 1967, Writer(s): BOBBIE GENTRY
+- 192: Geto Boys, "Mind Playing Tricks on Me", 1991, Writer(s): BRAD JORDAN, J. PRINCE
+- 193: The Rolling Stones, "Wild Horses", 1971, Writer(s): MICK JAGGER, KEITH RICHARDS
+- 194: PJ Harvey, "Rid of Me", 1993, Writer(s): PJ HARVEY
+- 195: Patsy Cline, "Crazy", 1961, Writer(s): WILLIE NELSON
+- 196: James Brown, "Get Up (I Feel Like Being A) Sex Machine", 1970, Writer(s): BOBBY BYRD, JAMES BROWN, RON LENHOFF
+- 197: Ann Peebles, "I Can't Stand the Rain", 1973, Writer(s): ANN PEEBLES, DON BRYANT, BERNARD MILLER
+- 198: Marvin Gaye, "Sexual Healing", 1982, Writer(s): MARVIN GAYE, ODELL BROWN
+- 199: Aerosmith, "Dream On", 1973, Writer(s): STEVEN TYLER
+- 200: David Bowie, "Changes", 1971, Writer(s): DAVID BOWIE
+- 201: Johnny Cash, "Ring of Fire", 1963, Writer(s): JUNE CARTER, MERLE KILGORE
+- 202: Elton John, "Your Song", 1970, Writer(s): ELTON JOHN, BERNIE TAUPIN
+- 203: Stevie Wonder, "Signed, Sealed, Delivered I'm Yours", 1970, Writer(s): STEVIE WONDER, LEE GARRETT, SYREETA WRIGHT, LULA MAY HARDAWAY
+- 204: David Bowie, "Young Americans", 1975, Writer(s): DAVID BOWIE
+- 205: Britney Spears, "...Baby One More Time", 1998, Writer(s): KARL SANDBERG
+- 206: Glen Campbell, "Wichita Lineman", 1968, Writer(s): JIMMY WEBB
+- 207: Rage Against the Machine, "Killing in the Name", 1992, Writer(s): TIM COMMERFORD, ZACK DE LA ROCHA, TOM MORELLO, BRAD WILK
+- 208: Hole, "Doll Parts", 1994, Writer(s): COURTNEY LOVE, ERIC ERLANDSON, KRISTEN PFAFF, PATTY SCHEMEL
+- 209: Don Henley, "Boys of Summer", 1984, Writer(s): DON HENLEY, MIKE CAMPBELL
+- 210: Funkadelic, "One Nation Under a Groove", 1978, Writer(s): GEORGE CLINTON, GARRY SHIDER, WALTER MORRISON
+- 211: U2, "With or Without You", 1987, Writer(s): BONO, LARRY MULLEN JR., THE EDGE, ADAM CLAYTON
+- 212: Boston, "More Than a Feeling", 1976, Writer(s): TOM SCHOLZ
+- 213: The Rolling Stones, "Paint It, Black", 1966, Writer(s): MICK JAGGER, KEITH RICHARDS
+- 214: Steely Dan, "Deacon Blues", 1977, Writer(s): WALTER BECKER, DONALD FAGEN
+- 215: Mobb Deep, "Shook Ones, Pt. II", 1995, Writer(s): ALBERT JOHNSON, KEJUAN MUCHITA
+- 216: Elvis Presley, "Jailhouse Rock", 1957, Writer(s): JERRY LEIBER, MIKE STOLLER
+- 217: Stevie Nicks, "Edge of Seventeen", 1981, Writer(s): STEVIE NICKS
+- 218: Wilson Pickett, "In the Midnight Hour", 1965, Writer(s): WILSON PICKETT, STEVE CROPPER
+- 219: Tom Petty, "Free Fallin” 1989, Writer(s): JEFF LYNNE, TOM PETTY, MIKE CAMPBELL
+- 220: New Order, "Bizarre Love Triangle", 1986, Writer(s): GILLIAN GILBERT, PETER HOOK, STEPHEN MORRIS, BERNARD SUMNER
+- 221: Ike and Tina Turner, "River Deep, Mountain High", 1966, Writer(s): PHIL SPECTOR, JEFF BARRY, ELLIE GREENWICH
+- 222: Crosby, Stills, and Nash, "Suite: Judy Blue Eyes", 1969, Writer(s): STEPHEN STILLS
+- 223: Eminem feat. Dido, "Stan", 2000, Writer(s): MARSHALL MATHERS, DIDO ARMSTRONG, PAUL HERMAN
+- 224: Derek and the Dominos, "Layla", 1970, Writer(s): ERIC CLAPTON, JIM GORDON
+- 225: Joni Mitchell, "Both Sides Now", 1969, Writer(s): JONI MITCHELL
+- 226: The Smiths, "There Is a Light That Never Goes Out", 1986, Writer(s): JOHNNY MARR, MORRISSEY
+- 227: Creedence Clearwater Revival, "Fortunate Son", 1969, Writer(s): JOHN FOGERTY
+- 228: Beyoncé, "Single Ladies (Put a Ring On It)", 2008, Writer(s): BEYONCÉ KNOWLES, CHRISTOPHER STEWART, TERIUS NASH, THADDIS HARRELL
+- 229: Woody Guthrie, "This Land Is Your Land", 1951, Writer(s): WOODY GUTHRIE
+- 230: The Byrds, "Mr. Tambourine Man", 1965, Writer(s): BOB DYLAN
+- 231: Whitney Houston, "I Wanna Dance With Somebody (Who Loves Me)", 1987, Writer(s): GEORGE MERRILL, SHANNON RUBICAM
+- 232: The Who, "My Generation", 1965, Writer(s): PETE TOWNSHEND
+- 233: Deee-Lite, "Groove Is in the Heart", 1990, Writer(s): DMITRY BRILL, CHUNG DONG-HWA, KIERIN KIRBY
+- 234: The Supremes, "You Keep Me Hangin' On", 1966, Writer(s): LAMONT DOZIER, BRIAN HOLLAND, EDDIE HOLLAND
+- 235: New Order, "Blue Monday", 1983, Writer(s): GILLIAN GILBERT, PETER HOOK, STEPHEN MORRIS, BERNARD SUMNER
+- 236: Bill Withers, "Lean on Me", 1972, Writer(s): BILL WITHERS
+- 237: Hank Williams, "Your Cheatin' Heart", 1953, Writer(s): HANK WILLIAMS
+- 238: Aaliyah, "Are You That Somebody?", 1998, Writer(s): STEPHEN GARRETT, TIMOTHY MOSLEY
+- 239: Big Star, "September Gurls", 1974, Writer(s): ALEX CHILTON
+- 240: Backstreet Boys, "I Want It That Way", 1999, Writer(s): ANDREAS CARLSSON, KARL SANDBERG
+- 241: Digital Underground, "The Humpty Dance", 1990, Writer(s): EARL HUMPHREY, GREGORY JACOBS
+- 242: Jerry Lee Lewis, "Great Balls of Fire", 1957, Writer(s): OTIS BLACKWELL, JACK HAMMER
+- 243: The Beatles, "Eleanor Rigby", 1966, Writer(s): JOHN LENNON, PAUL MCCARTNEY
+- 244: Pavement, "Summer Babe (Winter Version)", 1992, Writer(s): STEPHEN MALKMUS
+- 245: Beastie Boys, "Sabotage", 1994, Writer(s): MICHAEL DIAMOND, ADAM HOROVITZ, ADAM YAUCH
+- 246: Faces, "Ooh La La", 1973, Writer(s): RONNIE LANE, RONNIE WOOD
+- 247: Joni Mitchell, "River", 1971, Writer(s): JONI MITCHELL
+- 248: N.W.A, "Straight Outta Compton", 1988, Writer(s): MC REN, ICE CUBE, EAZY-E
+- 249: Joan Jett, "Bad Reputation", 1980, Writer(s): JOAN JETT, KENNY LAGUNA, MARTY KUPERSMITH, RITCHIE CORDELL
+- 250: The Jimi Hendrix Experience, "Purple Haze", 1967, Writer(s): JIMI HENDRIX
+- 251: Gloria Gaynor, "I Will Survive", 1978, Writer(s): DINO FEKARIS, FREDDIE PERREN
+- 252: Parliament, "Flash Light", 1977, Writer(s): GEORGE CLINTON, BOOTSY COLLINS, BERNIE WORREL
+- 253: Willie Nelson, "Blue Eyes Crying in the Rain", 1975, Writer(s): FRED ROSE
+- 254: The Supremes, "Stop! In the Name of Love", 1965, Writer(s): LAMONT DOZIER, BRIAN HOLLAND, EDDIE HOLLAND
+- 255: Loretta Lynn, "Coal Miner's Daughter", 1970, Writer(s): LORETTA LYNN
+- 256: Metallica, "Master of Puppets", 1986, Writer(s): CLIFF BURTON, KIRK HAMMETT, JAMES HETFIELD, LARS ULRICH
+- 257: Martha Reeves and the Vandellas, "Heat Wave", 1963, Writer(s): BRIAN HOLLAND, EDDIE HOLLAND, LAMONT DOZIER
+- 258: Gil-Scott Heron, "The Revolution Will Not Be Televised", 1971, Writer(s): GIL-SCOTT HERON
+- 259: Neil Young, "Heart of Gold", 1972, Writer(s): NEIL YOUNG
+- 260: The Wailers, "Get Up, Stand Up", 1973, Writer(s): BOB MARLEY, PETER TOSH
+- 261: Curtis Mayfield, "Pusherman", 1972, Writer(s): CURTIS MAYFIELD
+- 262: Paul Simon, "American Tune", 1973, Writer(s): PAUL SIMON
+- 263: Dolly Parton, "Coat of Many Colors", 1971, Writer(s): DOLLY PARTON
+- 264: Marvin Gaye, "Let's Get It On", 1973, Writer(s): MARVIN GAYE, ED TOWNSEND
+- 265: The Replacements, "Left of the Dial", 1985, Writer(s): PAUL WESTERBERG
+- 266: Augustus Pablo, "King Tubby Meets the Rockers Uptown", 1974, Writer(s): AUGUSTUS PABLO
+- 267: SZA, "Kill Bill", 2022, Writer(s): CARTER LANG, ROB BISEL, SOLÁNA ROWE
+- 268: The Isley Brothers, "Shout (Parts 1 and 2)", 1959, Writer(s): RUDOLPH ISLEY, RONALD ISLEY, O'KELLY ISLEY
+- 269: The Righteous Brothers, "Unchained Melody", 1965, Writer(s): ALEX NORTH, HY ZARET
+- 270: Nine Inch Nails, "Closer", 1994, Writer(s): TRENT REZNOR
+- 271: Procol Harum, "A Whiter Shade of Pale", 1967, Writer(s): KEITH REID, GARY BROOKER
+- 272: Thin Lizzy, "The Boys Are Back in Town", 1976, Writer(s): PHIL LYNOTT
+- 273: Roberta Flack, "Killing Me Softly With His Song", 1973, Writer(s): NORMAN GIMBEL, CHARLES FOX
+- 274: Al Green, "Love and Happiness", 1972, Writer(s): AL GREEN, MABON HODGES
+- 275: Randy Newman, "Sail Away", 1972, Writer(s): RANDY NEWMAN
+- 276: Buzzcocks, "Ever Fallen in Love (With Someone You Shouldn't've)", 1978, Writer(s): PETER SHELLEY
+- 277: Bo Diddley, "Bo Diddley", 1955, Writer(s): ELLAS MCDANIEL
+- 278: Toots and the Maytals, "Pressure Drop", 1973, Writer(s): TOOTS HIBBERT
+- 279: Radiohead, "Karma Police", 1997, Writer(s): THOM YORKE, JONNY GREENWOOD, ED O'BRIEN, COLIN GREENWOOD, PHILIP SELWAY
+- 280: BTS, "Spring Day", 2017, Writer(s):  ADORA, ARLISSA RUPPERT, BANG SI- HYUK, PDOGG, PETER IBSEN, RAP MONSTER, SUGA
+- 281: Clipse, "Grindin” 2002, Writer(s): GENE THORNTON, TERRENCE THORNTON, PHARRELL WILLIAMS, CHAD HUGO
+- 282: INXS, "Never Tear Us Apart", 1988, Writer(s): ANDREW FARRISS, MICHAEL HUTCHENCE
+- 283: Ray Charles, "Georgia on My Mind", 1960, Writer(s): HOAGY CARMICHAEL, STUART GORRELL
+- 284: Leonard Cohen, "Suzanne", 1967, Writer(s): LEONARD COHEN
+- 285: Destiny's Child, "Say My Name", 1999, Writer(s): LASHAWN DANIELS, RODNEY JERKINS, FRED JERKINS III, BEYONCÉ KNOWLES, LETOYA LUCKETT, LATAVIA ROBERSON, KELLY ROWLAND
+- 286: ABBA, "Dancing Queen", 1976, Writer(s): BENNY ANDERSSON, BJÖRN ULVAEUS, STIG ANDERSON
+- 287: AC/DC, "You Shook Me All Night Long", 1980, Writer(s): ANGUS YOUNG, MALCOLM YOUNG, BRIAN JOHNSON
+- 288: The Funky 4 + 1, "That's the Joint", 1980, Writer(s): CLIFTON "JIGGS" CHASE, SYLVIA ROBINSON, KEITH CAESAR, SHARON GREEN, JEFFREY MYREE, KEVIN SMITH, RODNEY STONE
+- 289: Bruce Springsteen, "Atlantic City", 1982, Writer(s): BRUCE SPRINGSTEEN
+- 290: Usher feat. Lil Jon and Ludacris, "Yeah!", 2004, Writer(s): CHRISTOPHER BRIDGES, JAMES PHILLIPS, JONATHAN SMITH, LAMARQUIS JEFFERSON, PATRICK SMITH, SEAN GARRETT
+- 291: Phil Collins, "In the Air Tonight", 1981, Writer(s): PHIL COLLINS
+- 292: A Tribe Called Quest, "Can I Kick It?", 1990, Writer(s): LOU REED
+- 293: Alice Cooper, "School's Out", 1972, Writer(s): ALICE COOPER, MICHAEL BRUCE, GLEN BUXTON, DENNIS DUNAWAY, NEAL SMITH
+- 294: The Velvet Underground, "Sweet Jane", 1970, Writer(s): LOU REED
+- 295: The Who, "Won't Get Fooled Again", 1971, Writer(s): PETE TOWNSHEND
+- 296: Bikini Kill, "Rebel Girl", 1993, Writer(s): KATHLEEN HANNA, BILLY KARREN, TOBI VAIL, KATHI WILCOX
+- 297: Beach Boys, "Wouldn't It Be Nice", 1966, Writer(s): BRIAN WILSON, TONY ASHER, MIKE LOVE
+- 298: Bruce Springsteen, "Jungleland", 1975, Writer(s): BRUCE SPRINGSTEEN
+- 299: Screamin' Jay Hawkins, "I Put a Spell on You", 1956, Writer(s): JALACY HAWKINS, HERB SLOTKIN
+- 300: The B-52's, "Rock Lobster", 1978, Writer(s): FRED SCHNEIDER, RICKY WILSON
+- 301: Bob Seger, "Night Moves", 1976, Writer(s): BOB SEGER
+- 302: Pink Floyd, "Wish You Were Here", 1975, Writer(s): DAVID GILMOUR, ROGER WATERS
+- 303: TLC, "No Scrubs", 1999, Writer(s): KANDI BURRUSS, TAMEKA COTTLE, KEVIN BRIGGS
+- 304: Kraftwerk, "Trans-Europe Express", 1977, Writer(s): RALF HÜTTER, EMIL SCHULT
+- 305: The Police, "Every Breath You Take", 1983, Writer(s): STING
+- 306: Aretha Franklin, "Chain of Fools", 1967, Writer(s): DON COVAY
+- 307: Gnarls Barkley, "Crazy", 2006, Writer(s): BRIAN BURTON, THOMAS CALLAWAY, GIAN FRANCO REVERBERI, GIAN PIERO REVERBERI
+- 308: Liz Phair, "Divorce Song", 1993, Writer(s): LIZ PHAIR
+- 309: Bill Withers, "Ain't No Sunshine", 1971, Writer(s): BILL WITHERS
+- 310: The Doors, "Light My Fire", 1967, Writer(s): ROBBY KRIEGER, JOHN DENSMORE, JIM MORRISON, RAY MANZAREK
+- 311: The Eagles, "Hotel California", 1976, Writer(s): DON FELDER, GLENN FREY, DON HENLEY
+- 312: Isaac Hayes, "Walk on By", 1969, Writer(s): BURT BACHARACH, HAL DAVID
+- 313: Smokey Robinson and the Miracles, "The Tears of a Clown", 1967, Writer(s): HENRY COSBY, WILLIAM ROBINSON, STEVIE WONDER
+- 314: The Stooges, "I Wanna Be Your Dog", 1969, Writer(s): DAVE ALEXANDER, RON ASHETON, SCOTT ASHETON, IGGY POP
+- 315: John Coltrane, "Pt. 1-Acknowledgement", 1965, Writer(s): JOHN COLTRANE
+- 316: The Shangri-Las, "Leader of the Pack", 1964, Writer(s): GEORGE FRANCIS MORTON, JEFF BARRY, ELLIE GREENWICH
+- 317: Bob Dylan, "Visions of Johanna", 1966, Writer(s): BOB DYLAN
+- 318: Big Mama Thornton, "Hound Dog", 1953, Writer(s): JERRY LEIBER, MIKE STOLLER
+- 319: Tears for Fears, "Everybody Wants to Rule the World", 1985, Writer(s): ROLAND ORZABAL, IAN STANLEY, CHRIS HUGHES
+- 320: Taylor Swift, "Blank Space", 2014, Writer(s): TAYLOR SWIFT, KARL SANDBERG, KARL SCHUSTER
+- 321: 2Pac, "California Love", 1995, Writer(s): TUPAC SHAKUR, ANDRE YOUNG, LARRY TROUTMAN, MIKEL HOOKS, NORMAN DURHAM, RONNIE HUDSON, WOODY CUNNINGHAM
+- 322: U2, "I Still Haven't Found What I'm Looking For", 1987, Writer(s): BONO, LARRY MULLEN JR., THE EDGE, ADAM CLAYTON
+- 323: Neil Young, "After the Gold Rush", 1970, Writer(s): NEIL YOUNG
+- 324: Everly Brothers, "All I Have to Do Is Dream", 1958, Writer(s): BOUDLEAUX BRYANT, FELICE BRYANT
+- 325: Billy Joel, "Scenes From an Italian Restaurant", 1977, Writer(s): BILLY JOEL
+- 326: Iggy Pop, "Lust for Life", 1977, Writer(s): DAVID BOWIE, IGGY POP
+- 327: Rilo Kiley, "Portions for Foxes", 2004, Writer(s): JENNY LEWIS, BLAKE SENNETT
+- 328: Mary J. Blige, "Real Love", 1992, Writer(s): MARK ROONEY, MARK MORALES
+- 329: Red Hot Chili Peppers, "Under the Bridge", 1991, Writer(s): ANTHONY KIEDIS, FLEA, JOHN FRUSCIANTE, CHAD SMITH
+- 330: Bad Bunny, "Safaera", 2020, Writer(s): SLY DUNBAR, BENITO MARTÍNEZ, LLOYD WILLIS, JOSE CRUZ, FREDDY MONTALVO ALICIA, MELISSA ELLIOTT, TIMOTHY MOSLEY, BOB MARLEY, ORMANI PEREZ, SHAUN PIZZONIA, RICHARD LIED, FELIX RODRIGUEZ, MARCO MASIS, JOEL MUNOZ, RANDY ORTIZ, EDWIN ROSA
+- 331: The Notorious B.I.G., "Big Poppa", 1994, Writer(s): CHRISTOPHER WALLACE, RUDOLPH ISLEY, O'KELLY ISLEY, RONALD ISLEY, ERNEST ISLEY, MARVIN ISLEY, CHRIS JASPER
+- 332: The Marvelettes, "Please Mr. Postman", 1961, Writer(s): GEORGIA DOBBINS, WILLIAM GARRETT, FREDDIE GORMAN, BRIAN HOLLAND, ROBERT BATEMAN
+- 333: Rihanna feat. Jay-Z, "Umbrella", 2007, Writer(s): CHRISTOPHER STEWART, TERIUS NASH, KUK HARRELL, SHAWN CARTER
+- 334: The Temptations, "Papa Was a Rollin' Stone", 1972, Writer(s): NORMAN WHITFIELD, BARRETT STRONG
+- 335: The Grateful Dead, "Ripple", 1970, Writer(s): JERRY GARCIA, ROBERT HUNTER
+- 336: Marshall Jefferson, "Move Your Body (The House Music Anthem)", 1986, Writer(s): MARSHALL JEFFERSON
+- 337: Hall and Oates, "She's Gone", 1973, Writer(s): DARYL HALL, JOHN OATES
+- 338: Cher, "Believe", 1998, Writer(s):  BRIAN HIGGINS, STUART MCLENNEN, PAUL BARRY, STEVEN TORCH, MATTHEW GRAY, TIMOTHY POWELL, CHER
+- 339: Black Sabbath, "Paranoid", 1970, Writer(s): GEEZER BUTLER, TONY IOMMI, OZZY OSBOURNE, WILLIAM WARD
+- 340: Prince, "1999", 1982, Writer(s): PRINCE
+- 341: The Clash, "(White Man) in Hammersmith Palais", 1978, Writer(s): MICK JONES, JOE STRUMMER
+- 342: The Monkees, "I'm a Believer", 1966, Writer(s): NEIL DIAMOND
+- 343: Chuck Berry, "Promised Land", 1964, Writer(s): CHUCK BERRY
+- 344: The Doobie Brothers, "What a Fool Believes", 1979, Writer(s): KENNY LOGGINS, MICHAEL MCDONALD
+- 345: Black Sabbath, "Iron Man", 1971, Writer(s): BILL WARD, GEEZER BUTLER, OZZY OSBOURNE, TONY IOMMI
+- 346: Carole King, "It's Too Late", 1971, Writer(s): CAROLE KING, TONI STERN
+- 347: BTS, "Dynamite", 2020, Writer(s): DAVID STEWART, JESSICA AGOMBAR
+- 348: Elvis Presley, "Heartbreak Hotel", 1958, Writer(s): MAE BOREN AXTON, THOMAS DURDEN, ELVIS PRESLEY
+- 349: Roxy Music, "Virginia Plain", 1972, Writer(s): BRYAN FERRY
+- 350: The Zombies, "Time of the Season", 1968, Writer(s): ROD ARGENT
+- 351: John Prine, "Angel From Montgomery", 1971, Writer(s): JOHN PRINE
+- 352: Jorge Ben, "Ponta de Lança Africano (Umbabarauma)", 1976, Writer(s): JORGE BEN
+- 353: Ice Cube, "It Was a Good Day", 1992, Writer(s): O'SHEA JACKSON
+- 354: Eurythmics, "Sweet Dreams (Are Made of This)", 1983, Writer(s): ANNIE LENNOX, DAVE STEWART
+- 355: Michael Jackson, "Rock With You", 1979, Writer(s): ROD TEMPERTON
+- 356: Thelma Houston, "Don't Leave Me This Way", 1976, Writer(s): CARY GILBERT, KENNETH GAMBLE, LEON HUFF
+- 357: Cheap Trick, "Surrender", 1978, Writer(s): RICK NIELSEN
+- 358: Patti Smith, "Because the Night", 1978, Writer(s): PATTI SMITH, BRUCE SPRINGSTEEN
+- 359: Fugees, "Killing Me Softly With His Song", 1996, Writer(s): NORMAN GAMBLE, CHARLES FOX
+- 360: Prince, "Little Red Corvette", 1982, Writer(s): PRINCE
+- 361: Jimmy Cliff, "The Harder They Come", 1972, Writer(s): JIMMY CLIFF
+- 362: Kacey Musgraves, "Merry Go "Round", 2013, Writer(s): KACEY MUSGRAVES, LUKE LAIRD, SHANE MCANALLY
+- 363: Bob Marley and the Wailers, "Could You Be Loved", 1980, Writer(s): BOB MARLEY
+- 364: The Grateful Dead, "Box of Rain", 1970, Writer(s): PHIL LESH, ROBERT HUNTER
+- 365: Sex Pistols, "God Save the Queen", 1977, Writer(s): GLEN MATLOCK, JOHNNY ROTTEN, PAUL THOMAS COOK, STEPHEN PHILIP JONES
+- 366: The Crystals, "Da Doo Ron Ron", 1963, Writer(s): ELLIE GREENWICH, JEFF BARRY, PHIL SPECTOR
+- 367: Frank Ocean, "Thinkin Bout You", 2012, Writer(s): SHEA TAYLOR, LONNIE BREAUX
+- 368: Soundgarden, "Black Hole Sun", 1994, Writer(s): CHRIS CORNELL
+- 369: The Cars, "Just What I Needed", 1978, Writer(s): RIC OCASEK
+- 370: Buddy Holly, "Peggy Sue", 1958, Writer(s): BUDDY HOLLY, JERRY ALLISON, NORMAN PETTY
+- 371: Elton John, "Bennie and the Jets", 1973, Writer(s): BERNIE TAUPIN, ELTON JOHN
+- 372: Bonnie Raitt, "I Can't Make You Love Me", 1991, Writer(s): MICHAEL REID, ALLEN SHAMBLIN
+- 373: Drake, "Hotline Bling", 2015, Writer(s): AUBREY GRAHAM, PAUL JEFFERIES, TIMMY THOMAS
+- 374: William DeVaughn, "Be Thankful for What You Got", 1974, Writer(s): WILLIAM DEVAUGHN
+- 375: The Drifters, "Up on the Roof", 1964, Writer(s): CAROLE KING, GERRY GOFFIN
+- 376: Merle Haggard, "Mama Tried", 1968, Writer(s): MERLE HAGGARD
+- 377: Olivia Rodrigo, "Driver's License", 2021, Writer(s): DANIEL NIGRO, OLIVIA RODRIGO
+- 378: The Killers, "Mr. Brightside", 2003, Writer(s): BRANDON FLOWERS, DAVE KEUNING
+- 379: D'Angelo, "Untitled (How Does It Feel)", 2000, Writer(s): D'ANGELO, RAPHAEL SAADIQ
+- 380: Fountains of Wayne, "Radiation Vibe", 1996, Writer(s): CHRIS COLLINGWOOD, ADAM SCHLESINGER
+- 381: The Slits, "Typical Girls", 1979, Writer(s): ARIANE FORSTER, PALOMA ROMERO, TESSA POLLITT, VIVIANE ALBERTINE
+- 382: Fiona Apple, "Paper Bag", 1999, Writer(s): FIONA APPLE
+- 383: Childish Gambino, "Redbone", 2016, Writer(s): LUDWIG GÖRANSSON, DONALD GLOVER
+- 384: Cardi B, J Balvin, and Bad Bunny, "I Like It", 2018, Writer(s): TAINY, ANTHONY GERMAINE WHITE, BELCALIS ALMANZAR, BENITO ANTONIO OCASIO MATINEZ, BENNY BONILLA, EDGAR MACHUCA, EDGAR WILMER SEMPER VARGAS, JORDAN THORPE, JOSE ALVARO BALVIN OSORIO, LUIAN MALAVÉ, MANNY RODRIGUEZ, MARCOS E. MASIS, NOAH ASSAD, TONY PABON, VINCENT WATSON, XAVIER SEMER VARGAS
+- 385: Diana Ross, "I'm Coming Out", 1980, Writer(s): BERNARD EDWARDS, NILE RODGERS
+- 386: The Kinks, "Lola", 1970, Writer(s): RAY DAVIES
+- 387: New York Dolls, "Personality Crisis", 1973, Writer(s): DAVID JOHANSEN, JOHNNY THUNDERS
+- 388: DMX, "Party Up (Up in Here)", 1999, Writer(s): EARL SIMMONS, KASSEEM DEAN
+- 389: Pretenders, "Brass in Pocket", 1979, Writer(s): CHRISSIE HYNDE, JAMES HONEYMAN-SCOTT
+- 390: Metallica, "Enter Sandman", 1991, Writer(s): JAMES HETFIELD, KIRK HAMMETT, LARS ULRICH
+- 391: Eric Church, "Springsteen", 2011, Writer(s): ERIC CHURCH, JEFF HYDE, RYAN TYNDELL
+- 392: Coldplay, "Fix You", 2005, Writer(s): CHRIS MARTIN, GUY BERRYMAN, JONNY BUCKLAND, WILL CHAMPION
+- 393: James Brown, "Say It Loud (I'm Black and I'm Proud)", 1968, Writer(s): ALFRED ELLIS, JAMES BROWN
+- 394: Jeff Buckley, "Grace", 1994, Writer(s): GARY LUCAS, JEFF BUCKLEY
+- 395: Afrika Bambaataa and the Soulsonic Force, "Planet Rock", 1982, Writer(s): ARTHUR BAKER, AFRIKA BAMBAATAA, ELLIS WILLIAMS, JOHN ROBIE, JOHN MILLER, ROBERT ALLEN, THE SOULSONIC FORCE
+- 396: Elvis Costello, "Alison", 1977, Writer(s): ELVIS COSTELLO
+- 397: Public Enemy, "Bring the Noise", 1987, Writer(s): CARLTON RIDENHOUR, CHARLIE BENANTE, DANIEL ALAN SPITZ, ERIC SADLER, FRANK JOSEPH BELLO, HANK SHOCKLEE, JOSEPH BELLARDINI, SCOTT IAN ROSENFELD
+- 398: Duran Duran, "Hungry Like the Wolf", 1982, Writer(s): ANDY TAYLOR, JOHN TAYLOR, NICK RHODES, ROGER TAYLOR, SIMON LE BON
+- 399: Sylvester, "You Make Me Feel (Mighty Real)", 1978, Writer(s): SYLVESTER, JAMES WIRRICK
+- 400: Taylor Swift, "Cruel Summer", 2019, Writer(s): TAYLOR SWIFT, ANNIE CLARK, JACK ANTONOFF
+- 401: Fleetwood Mac, "Go Your Own Way", 1977, Writer(s): LINDSEY BUCKINGHAM
+- 402: Eslabon Armado and Peso Pluma, "Ella Baila Sola", 2023, Writer(s): PEDRO JULIAN TOVAR
+- 403: Rufus and Chaka Khan, "Ain't Nobody", 1983, Writer(s): DAVID WOLINSKI
+- 404: Kiss, "Rock and Roll All Nite", 1975, Writer(s): GENE SIMMONS, PAUL STANLEY
+- 405: Selena, "Amor Prohibido", 1994, Writer(s): A.B. QUINTANILLA III, PETE ASTUDILLO, SELENA
+- 406: Run-DMC, "Sucker MC's", 1984, Writer(s): DARRYL MCDANIELS, JOSEPH WARD SIMMONS, LAWRENCE SMITH
+- 407: Lynyrd Skynyrd, "Free Bird", 1973, Writer(s): ALLEN COLLINS, RONNIE VAN ZANT
+- 408: Cat Stevens/Yusuf, "Father and Son", 1970, Writer(s): CAT STEVENS/YUSUF
+- 409: Foo Fighters, "Everlong", 1997, Writer(s): DAVE GROHL
+- 410: Allman Brothers Band, "Whipping Post", 1969, Writer(s): GREGG ALLMAN
+- 411: Wilco, "Heavy Metal Drummer", 2002, Writer(s): JEFF TWEEDY
+- 412: Neneh Cherry, "Buffalo Stance", 1988, Writer(s): CAMERON MCVEY, JAMIE MORGAN, NENEH CHERRY, PHIL RAMACON
+- 413: Them, "Gloria", 1965, Writer(s): VAN MORRISON
+- 414: Wizkid feat. Tems, "Essence", 2021, Writer(s): AYODEJI IBRAHIM, UZEZI ONIKO, OKIEMUTE ONIKO, RICHARD ISONG, TEMILADE OPENIYI
+- 415: Depeche Mode, "Enjoy the Silence", 1990, Writer(s): MARTIN GORE
+- 416: Pearl Jam, "Alive", 1991, Writer(s): STONE GOSSARD, EDDIE VEDDER
+- 417: Mark Ronson feat. Bruno Mars, "Uptown Funk", 2015, Writer(s): CHARLES WILSON, DEVON GALLASPY, JEFF BHASKER, LONNIE SIMMONS, NICHOLAUS WILLIAMS, PETER HERNANDEZ, PHILIP LAWRENCE, ROBERT WILSON, RONNIE WILSON, RUDOLPH TAYLOR
+- 418: Booker T. and the MGs, "Green Onions", 1962, Writer(s): AL JACKSON JR., BOOKER T. JONES, LEWIE STEINBERG, STEVE CROPPER
+- 419: Mariah Carey, "Fantasy", 1995, Writer(s): ADRIAN BELEW, CHRISTOPHER FRANTZ, DAVE HALL, MARIAH CAREY, STEVEN STANLEY, TINA WEYMOUTH
+- 420: The Mamas and the Papas, "California Dreamin", " 1965, Writer(s): JOHN PHILLIPS, MICHELLE PHILLIPS
+- 421: The Smiths, "How Soon Is Now?", 1984, Writer(s): JOHNNY MARR, MORRISSEY
+- 422: Craig Mack feat. Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage, "Flava in Ya Ear (Remix)", 1994, Writer(s): CRAIG MACK, ROGER NICHOLS, PAUL WILLIAMS
+- 423: Fiona Apple, "Criminal", 1996, Writer(s): FIONA APPLE
+- 424: Blackstreet feat. Dr. Dre and Queen Pen, "No Diggity", 1996, Writer(s): BILL WITHERS, CHAUNCEY HANNIBAL, EDWARD THEODORE RILEY, LYNISE WALTERS, RICHARD VICK, WILLIAM STEWART
+- 425: Muddy Waters, "Mannish Boy", 1955, Writer(s): ELLAS MCDANIEL, MCKINLEY MORGANFIELD, MELVIN LONDON
+- 426: Nicki Minaj, "Super Bass", 2010, Writer(s): DANIEL JOHNSON, ESTHER RENAY DEAN, JEREMY COLEMAN, ONIKA MARAJ, ROAHN HYLTON, ESTER DEAN
+- 427: Sugar Hill Gang, "Rapper's Delight", 1979, Writer(s): BERNARD EDWARDS, GREGORY RODGERS, NILE RODGERS, THE SUGARHILL GANG
+- 428: Beyonce, "Break My Soul", 2022, Writer(s): BEYONCÉ, TERIUS NASH, CHRISTOPHER STEWART, SHAWN CARTER, FREDDIE ROSS, ADAM PIGOTT, ALLEN GEORGE, FRED MCFARLANE
+- 429: Queen and David Bowie, "Under Pressure", 1981, Writer(s): BRIAN MAY, DAVID BOWIE, FREDDIE MERCURY, JOHN DEACON, ROGER TAYLOR
+- 430: Pete Rock and CL Smooth, "They Reminisce Over You", 1992, Writer(s): MAXWELL DIXON, PETER PHILLIPS
+- 431: Prince, "Adore", 1987, Writer(s): PRINCE
+- 432: Eddie Cochran, "Summertime Blues", 1958, Writer(s): EDDIE COCHRAN, JERRY CAPEHART
+- 433: Pet Shop Boys, "West End Girls", 1984, Writer(s): CHRIS LOWE, NEIL TENNANT
+- 434: Ramones, "Sheena Is a Punk Rocker", 1977, Writer(s): DEE DEE RAMONE, JOEY RAMONE, JOHNNY RAMONE, TOMMY RAMONE
+- 435: Rush, "Limelight", 1981, Writer(s): ALEX LIFESON, GEDDY LEE, NEIL PEART
+- 436: Carly Rae Jepsen, "Call Me Maybe", 2012, Writer(s): CARLY RAE JEPSEN, JOSH RAMSAY, TAVISH CROWE
+- 437: Lucinda Williams, "Passionate Kisses", 1988, Writer(s): LUCINDA WILLIAMS
+- 438: Megan Thee Stallion feat. Beyoncé, "Savage (Remix)", 2020, Writer(s): MEGAN PETE, ANTHONY WHITE, BEYONCÉ KNOWLES, BOBBY SESSION JR., TERIUS NASH, BRITTANY STARRAH HAZZARD, DERRICK MILANO, JORDEN KYLE LANIER THORPE, SHAUN CARTER,
+- 439: Celia Cruz, "La Vida Es un Carnaval", 1998, Writer(s): VICTOR DANIEL
+- 440: Alicia Keys, "If I Ain't Got You", 2003, Writer(s): ALICIA KEYS
+- 441: Miranda Lambert, "The House That Built Me", 2010, Writer(s): ALLEN SHAMBLIN, TOM DOUGLAS
+- 442: Motörhead, "Ace of Spades", 1980, Writer(s): EDDIE CLARKE, IAN KILMISTER, PHIL TAYLOR
+- 443: Fall Out Boy, "Sugar, We're Goin Down", 2005, Writer(s): ANDY HURLEY, JOE TROHMAN, PATRICK STUMP, PETE WENTZ
+- 444: 50 Cent, "In Da Club", 2003, Writer(s): ANDRE R. YOUNG, CURTIS JACKSON, MIKE ELIZONDO
+- 445: T. Rex, "Cosmic Dancer", 1971, Writer(s): MARC BOLAN
+- 446: Bruce Springsteen, "Rosalita (Come Out Tonight)", 1973, Writer(s): BRUCE SPRINGSTEEN
+- 447: The Beatles, "Help!", 1965, Writer(s): JOHN LENNON, PAUL MCCARTNEY
+- 448: Erykah Badu, "Tyrone", 1997, Writer(s): ERICA WRIGHT, ERYKAH BADU, NORMAN HURT
+- 449: Blue Öyster Cult, "(Don't Fear) The Reaper", 1976, Writer(s): DONALD ROESER
+- 450: Neil Young, "Powderfinger", 1979, Writer(s): NEIL YOUNG
+- 451: Migos feat. Lil Uzi Vert, "Bad and Boujee", 2016, Writer(s): ROBERT MANDELL, KIARI CEPHUS, KIRSNICK BALL, LELAND WAYNE, QUAVIOUS MARSHALL, SYMERE WOODS
+- 452: Toto, "Africa", 1982, Writer(s): DAVID PAICH, JEFFREY PORCARO
+- 453: Missy Elliot, "The Rain (Supa Dupa Fly)", 1997, Writer(s): MELISSA ELLIOTT, ANN PEEBLES, BERNARD MILLER, DON BRYANT, TIMOTHY MOSLEY, WILLIAM HART
+- 454: Sister Nancy, "Bam Bam", 1982, Writer(s): OPHLIN RUSSELL
+- 455: Jefferson Airplane, "White Rabbit", 1967, Writer(s): GRACE SLICK
+- 456 Lana Del Rey, "A&W", 2023, Writer(s):  LANA DEL REY, JACK ANTONOFF, SAM DEW
+- 457: Bon Jovi, "Livin' on a Prayer", 1986, Writer(s): DESMOND CHILD, JON BON JOVI, RICHIE SAMBORA
+- 458: Beck, "Loser", 1993, Writer(s): BECK HANSEN, KARL F. STEPHENSON
+- 459: Sade, "No Ordinary Love", 1992, Writer(s): HELEN ADU, STUART MATTHEWMAN
+- 460: Steel Pulse, "Ku Klux Klan", 1978, Writer(s): DAVID HINDS
+- 461: Roy Orbison, "Crying", 1962, Writer(s): JOE MELSON, ROY ORBISON
+- 462: Van Morrison, "Into the Mystic", 1970, Writer(s): VAN MORRISON
+- 463: John Lee Hooker, "Boom Boom", 1962, Writer(s): JOHN LEE HOOKER
+- 464: Joni Mitchell, "Help Me", 1974, Writer(s): JONI MITCHELL
+- 465: Daft Punk feat. Pharrell Williams, "Get Lucky", 2013, Writer(s): THOMAS BANGALTER, GUY-MANUEL DE HOMEM-CHRISTO, NILE RODGERS, PHARRELL WILLIAMS
+- 466: Luther Vandross, "Never Too Much", 1981, Writer(s): LUTHER VANDROSS
+- 467: Nirvana, "Come as You Are", 1991, Writer(s): KURT COBAIN
+- 468: Mazzy Star, "Fade Into You", 1993, Writer(s): DAVID ROBACK, HOPE SANDOVAL
+- 469: Dixie Chicks, "Goodbye Earl", 2000, Writer(s): DENNIS LINDE
+- 470: Gladys Knight and the Pips, "Midnight Train to Georgia", 1973, Writer(s): JIM WEATHERLY
+- 471: The Animals, "The House of the Rising Sun", 1964, Writer(s): ALAN PRICE
+- 472: Peter Gabriel, "Solsbury Hill", 1977, Writer(s): PETER GABRIEL
+- 473: Tammy Wynette, "Stand by Your Man", 1968, Writer(s): BILLY SHERRILL, TAMMY WYNETTE
+- 474: Curtis Mayfield, "Move On Up", 1970, Writer(s): CURTIS MAYFIELD
+- 475: Janet Jackson, "Rhythm Nation", 1989, Writer(s): JAMES HARRIS, JANET JACKSON, SLY STONE, TERRY LEWIS
+- 476: Kris Kristofferson, "Sunday Mornin' Comin' Down", 1970, Writer(s): KRIS KRISTOFFERSON
+- 477: The Go-Gos, "Our Lips Are Sealed", 1981, Writer(s): JANE WIEDLIN, TERENCE EDWARD HALL
+- 478: Juvenile feat. Lil Wayne and Mannie Fresh, "Back That Azz Up", 1998, Writer(s): BYRON THOMAS, TERIUS GRAY
+- 479: Santana, "Oye Como Va", 1970, Writer(s): TITO PUENTE
+- 480: Biz Markie, "Just a Friend", 1989, Writer(s): MARCELL HALL, MARLEY MARL
+- 481: Robert Johnson, "Cross Road Blues", 1937, Writer(s): ROBERT JOHNSON
+- 482: Lady Gaga, "Bad Romance", 2009, Writer(s): STEFANI GERMANOTTA, NADIR KHAYAT
+- 483: The Four Tops, "I Can't Help Myself (Sugar Pie, Honey Bunch)", 1965, Writer(s): BRIAN HOLLAND, EDDIE HOLLAND, LAMONT DOZIER
+- 484: Weezer, "Buddy Holly", 1994, Writer(s): RIVERS CUOMO
+- 485: Azealia Banks, "212", 2011, Writer(s): AZEALIA BANKS, JEF MARTENS
+- 486: Lil Wayne, "A Milli", 2009, Writer(s): ALI SHAHEED JONES-MUHAMMAD, DWAYNE CARTER, KAMAAL FAREED, SHONDRAE CRAWFORD
+- 487: Solange, ‘Cranes in the Sky’ 2016, Writer(s): RAPHAEL SAADIQ, SOLANGE KNOWLES
+- 488: The Weeknd, "House of Balloons", 2011, Writer(s): ABEL TESFAYE, CARLO MONTAGNESE, DOM MCKINNEY, JOHN MARTIN, PETER CLARKE, STEVEN SEVERIN, SUSAN BALLION
+- 489: The Breeders, "Cannonball", 1993, Writer(s): KIM DEAL
+- 490: Lil Nas X, "Old Town Road", 2019, Writer(s): ATTICUS MATTHEW ROSS, KIOWA ROUKEMA, MICHAEL TRENT REZNOR, MONTERO LAMAR HILL
+- 491: Bad Bunny, "Titi Me Pregunto", 2022, Writer(s): MAG, BENITO ANTONIO MARTINEZ OCASIO
+- 492: Miles Davis, "So What", 1959, Writer(s): MILES DAVIS
+- 493: Kanye West, "Stronger", 2007, Writer(s): MIKE DEAN, EDWIN BIRDSONG, GUY-MANUEL DE HOMEM-CHRISTO, KANYE WEST, THOMAS BANGHALTER
+- 494: The Pixies, "Where Is My Mind?", 1988, Writer(s): BLACK FRANCIS
+- 495: Cyndi Lauper, "Time After Time", 1983, Writer(s): CYNDI LAUPER, ROB HYMAN
+- 496: Carly Simon, "You're So Vain", 1972, Writer(s): CARLY SIMON
+- 497: Harry Nilsson, "Without You", 1971, Writer(s): PETER HAM, TOM EVANS
+- 498: Lizzo, "Truth Hurts", 2017, Writer(s): ERIC FREDERIC, AMINA PATRICE, BOGLE-BARRITEAU, MELISSA JEFFERSON, STEVEN CHEUNGJESSE SAINT JOHN
+- 499: Townes Van Zandt, "Pancho and Lefty", 1972, Writer(s): TOWNES VAN ZANDT
+- 500: Harry Styles, "As It Was", 2022, Writer(s):  THOMAS HULL, TYLER JOHNSON, HARRY STYLES
